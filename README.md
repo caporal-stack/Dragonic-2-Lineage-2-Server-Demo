@@ -25,4 +25,5 @@ Custom Lineage II HF server source with Community Board auctions, ranking, and d
    ```bash
    mvn clean install
 4. **For Premium Pack you need to pay 1000€**
-5. **For payment contact me at "nestlejoe30@gmail.com"**
+5. **For payment contact me at: "nestlejoe30@gmail.com"**
+6. Payment method is PayPal at: "https://www.paypal.com/paypalme/nestlejoe30"
