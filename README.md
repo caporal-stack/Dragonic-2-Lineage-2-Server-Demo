@@ -1,4 +1,4 @@
-# 🌍 Dragonic 2 – Demo L2J High Five Server
+# 🌍 Dragonic 2 – L2J High Five Server (Demo Pack)
 
 Custom Lineage II HF server source with Community Board auctions, ranking, and dress/undress system.
 
