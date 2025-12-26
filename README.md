@@ -24,3 +24,4 @@ Custom Lineage II HF server source with Community Board auctions, ranking, and d
 3. **Build the project**
    ```bash
    mvn clean install
+4. **For Premium Pack you need to pay 1000€**
