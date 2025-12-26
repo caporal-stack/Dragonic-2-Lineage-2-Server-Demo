@@ -1,0 +1,24 @@
+0    =======================================
+0    FOR MORE INFORMATION, PRESS ALT+B
+0    SERVER STATUS: ACTIVE
+0    SERVER ONLINE SINCE 2025
+0    =======================================
+18000    Use the command .party [text] to search for a group
+18000    Use .partylist to see already formed groups that match!
+0    =======================================
+10800    To receive the voting reward, you must vote on all banners at dragonic2.ddns.net, then type the command .vote in-game
+10800    Voting for Dragonic 2 gives you a Vote Pack containing: Reward Runes (8% Pdef/Mdef/Patk/Matk and 5% Adena/XP/SP bonus) + Random Rewards + 15kk Adena + Vote Coins. You can vote every 12 hours!
+10800    Did you know you can exchange Vote Coins for Donator Coins?
+0    =======================================
+21600    If you want to change your account password, type in-game: .password old new new
+21600    Example: .password lineage2 dragonic2
+21600    If you want to update or change your security password, use the command .control
+21600    To avoid account theft or compromise, we recommend using options such as HWID Lock, available in .control if you play from the same PC
+0    =======================================
+7200     If you try to upgrade an item and fail, the item WILL BE RESET TO +3, NOT +0!
+0    =======================================
+14400    =======================================
+0    ----> READ THE SERVER RULES ON THE FORUM! Ignorance is not an excuse for breaking them. By accepting the registration process on the server, you automatically accept these rules and agree to them. Thank you!
+0    ----> Respect the Dragonic 2 community! Avoid inappropriate language, do not abuse bugs, do not use illegal programs. Play fair, help new players, and keep the mythical atmosphere alive!
+IMPORTANT ------> Registrations for the PRIVATE RAID ZONE EVENT are NOW OPEN! Check the FORUM for more details.
+============================

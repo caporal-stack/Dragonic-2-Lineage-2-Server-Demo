@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Glitterings -->
+
+<list>
+	<item>
+		<ingredient id="40001" count="1" /> <!--Dragonic 2 Fame-->
+		<production id="-300" count="5" /> <!--Fame-->
+	</item>
+	<!--<item>
+		<ingredient id="37005" count="5" /> 
+		<production id="37000" count="50" /> 
+		<production id="37007" count="50" /> 
+		<production id="-300" count="250" /> 
+	</item>	-->
+</list>

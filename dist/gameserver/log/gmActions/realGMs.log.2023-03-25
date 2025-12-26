@@ -1,0 +1,45 @@
+[25.03.23 04:05:47] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[25.03.23 04:05:49] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[25.03.23 04:05:50] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:05:53] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[25.03.23 04:05:54] SUCCESS VastoLordes[268481608] admin_goto_char_menu Sadiko
+[25.03.23 04:08:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[25.03.23 04:08:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[25.03.23 04:08:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[25.03.23 04:08:08] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[25.03.23 04:08:09] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[25.03.23 04:08:13] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[25.03.23 04:08:14] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[25.03.23 04:08:15] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:08:16] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[25.03.23 04:08:17] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_recall_char_menu Sadiko
+[25.03.23 04:08:19] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[25.03.23 04:08:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:08:22] SUCCESS VastoLordes[268481608] -> FoResT[268540095] admin_character_list FoResT
+[25.03.23 04:08:23] SUCCESS VastoLordes[268481608] -> FoResT[268540095] admin_recall_char_menu FoResT
+[25.03.23 04:12:53] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[25.03.23 04:12:56] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[25.03.23 04:12:58] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:12:59] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[25.03.23 04:13:02] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_recall_char_menu Sadiko
+[25.03.23 04:13:47] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[25.03.23 04:13:50] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[25.03.23 04:13:53] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:13:54] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[25.03.23 04:13:55] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_recall_char_menu Sadiko
+[25.03.23 04:20:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[25.03.23 04:20:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[25.03.23 04:20:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[25.03.23 04:20:08] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[25.03.23 04:20:09] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[25.03.23 04:20:15] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[25.03.23 04:20:16] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[25.03.23 04:20:17] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:20:18] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[25.03.23 04:20:19] SUCCESS VastoLordes[268481608] admin_goto_char_menu Sadiko
+[25.03.23 04:20:23] SUCCESS VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:20:24] SUCCESS VastoLordes[268481608] -> FoResT[268540095] admin_character_list FoResT
+[25.03.23 04:20:25] SUCCESS VastoLordes[268481608] admin_goto_char_menu FoResT
+[25.03.23 04:20:29] SUCCESS VastoLordes[268481608] admin_show_characters 0
+[25.03.23 04:20:30] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[25.03.23 04:20:31] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_recall_char_menu Sadiko

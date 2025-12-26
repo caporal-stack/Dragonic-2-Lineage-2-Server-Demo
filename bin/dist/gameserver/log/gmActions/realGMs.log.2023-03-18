@@ -1,0 +1,26 @@
+[18.03.23 04:49:59] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[18.03.23 04:50:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_itemcreate
+[18.03.23 04:50:15] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_create_item 37000
+[18.03.23 04:50:17] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_create_item 37000
+[18.03.23 04:50:23] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_create_item 37000 1111111
+[18.03.23 04:54:40] SUCCESS VastoLordes[268481608] -> 37002 Janna admin_vis
+[18.03.23 05:00:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[18.03.23 05:00:08] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_itemcreate
+[18.03.23 05:00:17] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_gmshop
+[18.03.23 05:00:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_buy 9916
+[18.03.23 05:13:38] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[18.03.23 05:13:39] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_enchant
+[18.03.23 05:13:50] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_setbelt 20
+[18.03.23 05:15:33] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[18.03.23 05:15:34] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_itemcreate
+[18.03.23 05:15:44] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_create_item 57 434343434343434
+[18.03.23 05:32:45] SUCCESS VastoLordes[268481608] admin_invul
+[18.03.23 05:34:02] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[18.03.23 05:34:03] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[18.03.23 05:34:04] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[18.03.23 05:34:04] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[18.03.23 05:34:05] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[18.03.23 05:34:19] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_skills
+[18.03.23 05:34:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_skill_list
+[18.03.23 05:34:21] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html skills/Special/GM_Skills.htm
+[18.03.23 05:34:23] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_add_skill 7029 4

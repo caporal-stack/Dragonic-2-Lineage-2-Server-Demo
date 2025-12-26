@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "armor.dtd">
+<list>
+	<dress id="1" name="Archer">
+		<set chest="44200" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="2" name="Royalty">
+		<set chest="44202" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="3" name="Cowboy">
+		<set chest="44204" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="4" name="Leprechaun">
+		<set chest="44206" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="5" name="White Assasin">
+		<set chest="44208" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="6" name="Dark Assasin">
+		<set chest="44210" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="7" name="Crusade">
+		<set chest="44212" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="8" name="Akamanah">
+		<set chest="44214" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="9" name="Zariche">
+		<set chest="44216" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="10" name="Royal Knight">
+		<set chest="44218" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="11" name="Pirate">
+		<set chest="44250" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="12" name="Royal Archer">
+		<set chest="44222" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="13" name="Captain Pirate">
+		<set chest="44224" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="14" name="Ciborgue">
+		<set chest="44226" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="15" name="Roman General">
+		<set chest="44228" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="16" name="Dragonbone">
+		<set chest="44230" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="17" name="Desert Eagle">
+		<set chest="44232" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="18" name="Kawai">
+		<set chest="44234" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="19" name="Lauto">
+		<set chest="44236" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="20" name="Royal Zubei">
+		<set chest="44238" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="21" name="Emerald Heavy">
+		<set chest="44240" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="22" name="Emerald Light">
+		<set chest="44242" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="23" name="Emerald Robe">
+		<set chest="44244" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="24" name="Nacar Heavy">
+		<set chest="44246" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="25" name="Nacar Light">
+		<set chest="44248" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="26" name="Nacar Robe">
+		<set chest="44250" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="27" name="Lilith">
+		<set chest="44252" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+		<dress id="28" name="Steampunk">
+		<set chest="44254" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="29" name="School Uniform A">
+		<set chest="57000" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="30" name="School Uniform B">
+		<set chest="57001" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="31" name="Christmas Uniform">
+		<set chest="57002" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="32" name="Dark Knight Uniform">
+		<set chest="57003" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="33" name="Quipao Uniform">
+		<set chest="57004" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="34" name="Navi Uniform">
+		<set chest="57005" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="35" name="Musketeer Uniform">
+		<set chest="57008" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="36" name="Magician Uniform">
+		<set chest="57009" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="37" name="Magician Upgraded Uniform">
+		<set chest="57010" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+	<dress id="38" name="Ninja Suit">
+		<set chest="57011" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="150" />
+	</dress>
+</list>

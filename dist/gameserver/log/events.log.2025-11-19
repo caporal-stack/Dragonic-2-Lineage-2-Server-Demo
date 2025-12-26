@@ -1,0 +1,662 @@
+[19.11.25 00:00:12] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Boss Random
+[19.11.25 00:00:12] Loaded Event: Christmas [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 00:00:12] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 00:00:12] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 00:00:12] Loaded Service: EventsConfig
+[19.11.25 00:00:12] Loaded Event: Fight Club
+[19.11.25 00:00:12] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Hitman
+[19.11.25 00:00:12] Loaded Event: March 8 [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: PiratesTreasure loaded.
+[19.11.25 00:00:12] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Trivia
+[19.11.25 00:00:12] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Viktorina
+[19.11.25 00:00:12] Loaded Event: Bounty Hunters Guild
+[19.11.25 00:00:12] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 00:00:12] Loaded Event: null [state: deactivated]
+[19.11.25 00:00:12] Loaded Event: l2day [state: deactivated]
+[19.11.25 00:01:42] Trivia has been Stoped.
+[19.11.25 00:01:42] Viktorina Stoped.
+[19.11.25 00:01:42] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 00:02:13] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Boss Random
+[19.11.25 00:02:13] Loaded Event: Christmas [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 00:02:13] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 00:02:13] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 00:02:13] Loaded Service: EventsConfig
+[19.11.25 00:02:13] Loaded Event: Fight Club
+[19.11.25 00:02:13] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Hitman
+[19.11.25 00:02:13] Loaded Event: March 8 [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: PiratesTreasure loaded.
+[19.11.25 00:02:13] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Trivia
+[19.11.25 00:02:13] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Viktorina
+[19.11.25 00:02:13] Loaded Event: Bounty Hunters Guild
+[19.11.25 00:02:13] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 00:02:13] Loaded Event: null [state: deactivated]
+[19.11.25 00:02:13] Loaded Event: l2day [state: deactivated]
+[19.11.25 00:06:37] Trivia has been Stoped.
+[19.11.25 00:06:37] Viktorina Stoped.
+[19.11.25 00:06:37] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 00:07:05] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Boss Random
+[19.11.25 00:07:05] Loaded Event: Christmas [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 00:07:05] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 00:07:05] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 00:07:05] Loaded Service: EventsConfig
+[19.11.25 00:07:05] Loaded Event: Fight Club
+[19.11.25 00:07:05] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Hitman
+[19.11.25 00:07:05] Loaded Event: March 8 [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: PiratesTreasure loaded.
+[19.11.25 00:07:05] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Trivia
+[19.11.25 00:07:05] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Viktorina
+[19.11.25 00:07:05] Loaded Event: Bounty Hunters Guild
+[19.11.25 00:07:05] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 00:07:05] Loaded Event: null [state: deactivated]
+[19.11.25 00:07:05] Loaded Event: l2day [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Boss Random
+[19.11.25 01:00:06] Loaded Event: Christmas [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 01:00:06] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 01:00:06] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 01:00:06] Loaded Service: EventsConfig
+[19.11.25 01:00:06] Loaded Event: Fight Club
+[19.11.25 01:00:06] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Hitman
+[19.11.25 01:00:06] Loaded Event: March 8 [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: PiratesTreasure loaded.
+[19.11.25 01:00:06] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Trivia
+[19.11.25 01:00:06] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Viktorina
+[19.11.25 01:00:06] Loaded Event: Bounty Hunters Guild
+[19.11.25 01:00:06] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 01:00:06] Loaded Event: null [state: deactivated]
+[19.11.25 01:00:06] Loaded Event: l2day [state: deactivated]
+[19.11.25 01:06:13] Trivia has been Stoped.
+[19.11.25 01:06:13] Viktorina Stoped.
+[19.11.25 01:06:13] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 01:06:41] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Boss Random
+[19.11.25 01:06:41] Loaded Event: Christmas [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 01:06:41] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 01:06:41] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 01:06:41] Loaded Service: EventsConfig
+[19.11.25 01:06:41] Loaded Event: Fight Club
+[19.11.25 01:06:41] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Hitman
+[19.11.25 01:06:41] Loaded Event: March 8 [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: PiratesTreasure loaded.
+[19.11.25 01:06:41] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Trivia
+[19.11.25 01:06:41] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Viktorina
+[19.11.25 01:06:41] Loaded Event: Bounty Hunters Guild
+[19.11.25 01:06:41] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 01:06:41] Loaded Event: null [state: deactivated]
+[19.11.25 01:06:41] Loaded Event: l2day [state: deactivated]
+[19.11.25 01:08:17] Trivia has been Stoped.
+[19.11.25 01:08:17] Viktorina Stoped.
+[19.11.25 01:08:17] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 01:37:42] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Boss Random
+[19.11.25 01:37:42] Loaded Event: Christmas [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 01:37:42] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 01:37:42] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 01:37:42] Loaded Service: EventsConfig
+[19.11.25 01:37:42] Loaded Event: Fight Club
+[19.11.25 01:37:42] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Hitman
+[19.11.25 01:37:42] Loaded Event: March 8 [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: PiratesTreasure loaded.
+[19.11.25 01:37:42] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Trivia
+[19.11.25 01:37:42] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Viktorina
+[19.11.25 01:37:42] Loaded Event: Bounty Hunters Guild
+[19.11.25 01:37:42] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 01:37:42] Loaded Event: null [state: deactivated]
+[19.11.25 01:37:42] Loaded Event: l2day [state: deactivated]
+[19.11.25 01:41:03] Trivia has been Stoped.
+[19.11.25 01:41:03] Viktorina Stoped.
+[19.11.25 01:41:03] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 01:57:21] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Boss Random
+[19.11.25 01:57:21] Loaded Event: Christmas [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 01:57:21] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 01:57:21] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 01:57:21] Loaded Service: EventsConfig
+[19.11.25 01:57:21] Loaded Event: Fight Club
+[19.11.25 01:57:21] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Hitman
+[19.11.25 01:57:21] Loaded Event: March 8 [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: PiratesTreasure loaded.
+[19.11.25 01:57:21] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Trivia
+[19.11.25 01:57:21] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Viktorina
+[19.11.25 01:57:21] Loaded Event: Bounty Hunters Guild
+[19.11.25 01:57:21] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 01:57:21] Loaded Event: null [state: deactivated]
+[19.11.25 01:57:21] Loaded Event: l2day [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Boss Random
+[19.11.25 02:26:33] Loaded Event: Christmas [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 02:26:33] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 02:26:33] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 02:26:33] Loaded Service: EventsConfig
+[19.11.25 02:26:33] Loaded Event: Fight Club
+[19.11.25 02:26:33] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Hitman
+[19.11.25 02:26:33] Loaded Event: March 8 [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: PiratesTreasure loaded.
+[19.11.25 02:26:33] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Trivia
+[19.11.25 02:26:33] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Viktorina
+[19.11.25 02:26:33] Loaded Event: Bounty Hunters Guild
+[19.11.25 02:26:33] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 02:26:33] Loaded Event: null [state: deactivated]
+[19.11.25 02:26:33] Loaded Event: l2day [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Boss Random
+[19.11.25 02:36:42] Loaded Event: Christmas [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 02:36:42] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 02:36:42] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 02:36:42] Loaded Service: EventsConfig
+[19.11.25 02:36:42] Loaded Event: Fight Club
+[19.11.25 02:36:42] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Hitman
+[19.11.25 02:36:42] Loaded Event: March 8 [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: PiratesTreasure loaded.
+[19.11.25 02:36:42] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Trivia
+[19.11.25 02:36:42] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Viktorina
+[19.11.25 02:36:42] Loaded Event: Bounty Hunters Guild
+[19.11.25 02:36:42] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 02:36:42] Loaded Event: null [state: deactivated]
+[19.11.25 02:36:42] Loaded Event: l2day [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Boss Random
+[19.11.25 02:55:56] Loaded Event: Christmas [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 02:55:56] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 02:55:56] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 02:55:56] Loaded Service: EventsConfig
+[19.11.25 02:55:56] Loaded Event: Fight Club
+[19.11.25 02:55:56] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Hitman
+[19.11.25 02:55:56] Loaded Event: March 8 [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: PiratesTreasure loaded.
+[19.11.25 02:55:56] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Trivia
+[19.11.25 02:55:56] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Viktorina
+[19.11.25 02:55:56] Loaded Event: Bounty Hunters Guild
+[19.11.25 02:55:56] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 02:55:56] Loaded Event: null [state: deactivated]
+[19.11.25 02:55:56] Loaded Event: l2day [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Boss Random
+[19.11.25 03:03:07] Loaded Event: Christmas [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 03:03:07] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 03:03:07] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 03:03:07] Loaded Service: EventsConfig
+[19.11.25 03:03:07] Loaded Event: Fight Club
+[19.11.25 03:03:07] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Hitman
+[19.11.25 03:03:07] Loaded Event: March 8 [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: PiratesTreasure loaded.
+[19.11.25 03:03:07] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Trivia
+[19.11.25 03:03:07] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Viktorina
+[19.11.25 03:03:07] Loaded Event: Bounty Hunters Guild
+[19.11.25 03:03:07] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 03:03:07] Loaded Event: null [state: deactivated]
+[19.11.25 03:03:07] Loaded Event: l2day [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Boss Random
+[19.11.25 03:22:06] Loaded Event: Christmas [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 03:22:06] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 03:22:06] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 03:22:06] Loaded Service: EventsConfig
+[19.11.25 03:22:06] Loaded Event: Fight Club
+[19.11.25 03:22:06] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Hitman
+[19.11.25 03:22:06] Loaded Event: March 8 [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: PiratesTreasure loaded.
+[19.11.25 03:22:06] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Trivia
+[19.11.25 03:22:06] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Viktorina
+[19.11.25 03:22:06] Loaded Event: Bounty Hunters Guild
+[19.11.25 03:22:06] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 03:22:06] Loaded Event: null [state: deactivated]
+[19.11.25 03:22:06] Loaded Event: l2day [state: deactivated]
+[19.11.25 03:57:07] Trivia has been Stoped.
+[19.11.25 03:57:07] Viktorina Stoped.
+[19.11.25 03:57:07] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 03:57:42] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Boss Random
+[19.11.25 03:57:42] Loaded Event: Christmas [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 03:57:42] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 03:57:42] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 03:57:42] Loaded Service: EventsConfig
+[19.11.25 03:57:42] Loaded Event: Fight Club
+[19.11.25 03:57:42] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Hitman
+[19.11.25 03:57:42] Loaded Event: March 8 [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: PiratesTreasure loaded.
+[19.11.25 03:57:42] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Trivia
+[19.11.25 03:57:42] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Viktorina
+[19.11.25 03:57:42] Loaded Event: Bounty Hunters Guild
+[19.11.25 03:57:42] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 03:57:42] Loaded Event: null [state: deactivated]
+[19.11.25 03:57:42] Loaded Event: l2day [state: deactivated]
+[19.11.25 04:03:26] Trivia has been Stoped.
+[19.11.25 04:03:26] Viktorina Stoped.
+[19.11.25 04:03:26] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 04:03:53] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Boss Random
+[19.11.25 04:03:53] Loaded Event: Christmas [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 04:03:53] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 04:03:53] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 04:03:53] Loaded Service: EventsConfig
+[19.11.25 04:03:53] Loaded Event: Fight Club
+[19.11.25 04:03:53] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Hitman
+[19.11.25 04:03:53] Loaded Event: March 8 [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: PiratesTreasure loaded.
+[19.11.25 04:03:53] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Trivia
+[19.11.25 04:03:53] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Viktorina
+[19.11.25 04:03:53] Loaded Event: Bounty Hunters Guild
+[19.11.25 04:03:53] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 04:03:53] Loaded Event: null [state: deactivated]
+[19.11.25 04:03:53] Loaded Event: l2day [state: deactivated]
+[19.11.25 04:12:58] Trivia has been Stoped.
+[19.11.25 04:12:58] Viktorina Stoped.
+[19.11.25 04:12:58] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 04:13:27] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Boss Random
+[19.11.25 04:13:27] Loaded Event: Christmas [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 04:13:27] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 04:13:27] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 04:13:27] Loaded Service: EventsConfig
+[19.11.25 04:13:27] Loaded Event: Fight Club
+[19.11.25 04:13:27] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Hitman
+[19.11.25 04:13:27] Loaded Event: March 8 [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: PiratesTreasure loaded.
+[19.11.25 04:13:27] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Trivia
+[19.11.25 04:13:27] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Viktorina
+[19.11.25 04:13:27] Loaded Event: Bounty Hunters Guild
+[19.11.25 04:13:27] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 04:13:27] Loaded Event: null [state: deactivated]
+[19.11.25 04:13:27] Loaded Event: l2day [state: deactivated]
+[19.11.25 05:46:11] Trivia has been Stoped.
+[19.11.25 05:46:11] Viktorina Stoped.
+[19.11.25 05:46:11] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 05:46:47] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Boss Random
+[19.11.25 05:46:47] Loaded Event: Christmas [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 05:46:47] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 05:46:47] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 05:46:47] Loaded Service: EventsConfig
+[19.11.25 05:46:47] Loaded Event: Fight Club
+[19.11.25 05:46:47] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Hitman
+[19.11.25 05:46:47] Loaded Event: March 8 [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: PiratesTreasure loaded.
+[19.11.25 05:46:47] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Trivia
+[19.11.25 05:46:47] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Viktorina
+[19.11.25 05:46:47] Loaded Event: Bounty Hunters Guild
+[19.11.25 05:46:47] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 05:46:47] Loaded Event: null [state: deactivated]
+[19.11.25 05:46:47] Loaded Event: l2day [state: deactivated]
+[19.11.25 05:50:18] Trivia has been Stoped.
+[19.11.25 05:50:18] Viktorina Stoped.
+[19.11.25 05:50:18] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 05:50:46] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Boss Random
+[19.11.25 05:50:46] Loaded Event: Christmas [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 05:50:46] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 05:50:46] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 05:50:46] Loaded Service: EventsConfig
+[19.11.25 05:50:46] Loaded Event: Fight Club
+[19.11.25 05:50:46] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Hitman
+[19.11.25 05:50:46] Loaded Event: March 8 [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: PiratesTreasure loaded.
+[19.11.25 05:50:46] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Trivia
+[19.11.25 05:50:46] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Viktorina
+[19.11.25 05:50:46] Loaded Event: Bounty Hunters Guild
+[19.11.25 05:50:46] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 05:50:46] Loaded Event: null [state: deactivated]
+[19.11.25 05:50:46] Loaded Event: l2day [state: deactivated]
+[19.11.25 07:18:04] Trivia has been Stoped.
+[19.11.25 07:18:04] Viktorina Stoped.
+[19.11.25 07:18:04] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 07:19:09] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Boss Random
+[19.11.25 07:19:09] Loaded Event: Christmas [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 07:19:09] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 07:19:09] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 07:19:09] Loaded Service: EventsConfig
+[19.11.25 07:19:09] Loaded Event: Fight Club
+[19.11.25 07:19:09] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Hitman
+[19.11.25 07:19:09] Loaded Event: March 8 [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: PiratesTreasure loaded.
+[19.11.25 07:19:09] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Trivia
+[19.11.25 07:19:09] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Viktorina
+[19.11.25 07:19:09] Loaded Event: Bounty Hunters Guild
+[19.11.25 07:19:09] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 07:19:09] Loaded Event: null [state: deactivated]
+[19.11.25 07:19:09] Loaded Event: l2day [state: deactivated]
+[19.11.25 07:27:13] Trivia has been Stoped.
+[19.11.25 07:27:13] Viktorina Stoped.
+[19.11.25 07:27:13] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 18:02:27] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Boss Random
+[19.11.25 18:02:27] Loaded Event: Christmas [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 18:02:27] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 18:02:27] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 18:02:27] Loaded Service: EventsConfig
+[19.11.25 18:02:27] Loaded Event: Fight Club
+[19.11.25 18:02:27] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Hitman
+[19.11.25 18:02:27] Loaded Event: March 8 [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: PiratesTreasure loaded.
+[19.11.25 18:02:27] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Trivia
+[19.11.25 18:02:27] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Viktorina
+[19.11.25 18:02:27] Loaded Event: Bounty Hunters Guild
+[19.11.25 18:02:27] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 18:02:27] Loaded Event: null [state: deactivated]
+[19.11.25 18:02:27] Loaded Event: l2day [state: deactivated]
+[19.11.25 18:16:33] Trivia has been Stoped.
+[19.11.25 18:16:33] Viktorina Stoped.
+[19.11.25 18:16:33] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025
+[19.11.25 18:19:00] Loaded Event: Apil Fool's Day [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Boss Random
+[19.11.25 18:19:00] Loaded Event: Christmas [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Coffer of Shadows [state: deactivated]
+[19.11.25 18:19:00] Loaded CustomDropItems: CustomDropItems [state: activated]
+[19.11.25 18:19:00] Duplicate properties name "AllowedItems" replaced with new value.
+[19.11.25 18:19:00] Loaded Service: EventsConfig
+[19.11.25 18:19:00] Loaded Event: Fight Club
+[19.11.25 18:19:00] Loaded Event: Freya Celebration [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Gift Of Vitality [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Gm Hunter [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Hitman
+[19.11.25 18:19:00] Loaded Event: March 8 [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Master of Enchanting [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: PcCafePointsExchange [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: PiratesTreasure loaded.
+[19.11.25 18:19:00] Loaded Event: SavingSnowman [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Summer Meleons [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: The Fall Harvest [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: The Flow Of The Horror [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Trivia
+[19.11.25 18:19:00] Loaded Event: TvT Arena 1 [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: TvT Arena 2 [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: TvT Arena 3 [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Viktorina
+[19.11.25 18:19:00] Loaded Event: Bounty Hunters Guild
+[19.11.25 18:19:00] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: Change of Heart[state: deactivated]
+[19.11.25 18:19:00] Loaded Event: null [state: deactivated]
+[19.11.25 18:19:00] Loaded Event: l2day [state: deactivated]
+[19.11.25 18:30:14] Trivia has been Stoped.
+[19.11.25 18:30:14] Viktorina Stoped.
+[19.11.25 18:30:14] Continue Viktorina: Thu Nov 20 01:14:00 CET 2025|Stop Viktorina: Thu Nov 20 03:14:00 CET 2025

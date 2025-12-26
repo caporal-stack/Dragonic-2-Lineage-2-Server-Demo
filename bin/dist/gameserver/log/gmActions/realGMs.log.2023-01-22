@@ -1,0 +1,37 @@
+[22.01.23 00:46:44] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 00:46:45] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_char_manage
+[22.01.23 00:46:46] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_characters 0
+[22.01.23 00:46:47] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_character_list testt
+[22.01.23 00:46:49] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_recall_char_menu testt
+[22.01.23 00:47:04] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_admin
+[22.01.23 00:47:05] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_itemcreate
+[22.01.23 00:47:12] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_create_item 57 54545454
+[22.01.23 00:47:22] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_create_item 57 54545454545
+[22.01.23 00:48:43] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_add_exp_sp_to_character
+[22.01.23 00:48:48] SUCCESS VastoLordes[268489491] -> testt[268483005] admin_setlevel 85
+[22.01.23 00:52:36] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 00:52:37] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_gmshop
+[22.01.23 00:52:39] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_buy 9916
+[22.01.23 05:06:04] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 05:06:05] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_char_manage
+[22.01.23 05:06:10] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 05:06:12] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_itemcreate
+[22.01.23 05:06:17] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_create_item 57
+[22.01.23 05:06:25] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_create_item 57 545454545455
+[22.01.23 05:06:33] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_create_item 37000 5454545
+[22.01.23 05:06:48] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 05:06:51] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_gmshop
+[22.01.23 05:06:53] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_buy 9916
+[22.01.23 05:34:08] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 05:34:09] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_gmshop
+[22.01.23 05:34:11] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html gmstore/gear/armor.htm
+[22.01.23 05:34:15] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_buy 9958
+[22.01.23 05:54:27] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 05:54:28] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_gmshop
+[22.01.23 05:54:31] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html gmstore/gear/weapons.htm
+[22.01.23 05:54:44] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_buy 11004
+[22.01.23 05:54:57] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_characters 0
+[22.01.23 05:54:57] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[22.01.23 05:54:58] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_gmshop
+[22.01.23 05:54:59] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html gmstore/gear/weapons.htm
+[22.01.23 05:55:06] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_buy 11003

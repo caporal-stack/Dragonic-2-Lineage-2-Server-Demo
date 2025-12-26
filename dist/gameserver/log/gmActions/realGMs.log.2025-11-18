@@ -1,0 +1,21 @@
+[18.11.25 18:27:14] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[18.11.25 18:27:17] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[18.11.25 18:27:17] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[18.11.25 18:27:19] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[18.11.25 18:27:20] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[18.11.25 18:27:32] SUCCESS AlinAdmin[268481608] admin_vis
+[18.11.25 18:34:19] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[18.11.25 18:34:22] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[18.11.25 18:34:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[18.11.25 18:34:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[18.11.25 18:34:27] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[18.11.25 21:59:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[18.11.25 21:59:01] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[18.11.25 21:59:04] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[18.11.25 21:59:05] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[18.11.25 21:59:05] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[18.11.25 21:59:23] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[18.11.25 21:59:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[18.11.25 21:59:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[18.11.25 21:59:27] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[18.11.25 21:59:28] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473

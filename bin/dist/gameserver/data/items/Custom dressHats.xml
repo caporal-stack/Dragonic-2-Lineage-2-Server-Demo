@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<armor id="25000" name="Grand Crusade Hair" add_name="">
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="true"/>
+        <set name="icon" value="viRUS_HAIR_ALLstyle012.viRUS_Icon.viRUS_012_i00"/>
+		<set name="sellable" value="true"/>
+		<set name="tradeable" value="true"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1000"/>
+        <equip>
+          <slot id="HAIR"/>
+        </equip>
+  </armor>
+	<armor id="25001" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_00.viRUS_Icon.viRUS_01_H_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25002" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_00.viRUS_Icon.viRUS_02_H_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25003" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_00.viRUS_Icon.viRUS_08_H_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25004" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_05.viRUS_Icon.viRUS_h001_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25005" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_05.viRUS_Icon.viRUS_h002_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25006" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_05.viRUS_Icon.viRUS_h003_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25007" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_05.viRUS_Icon.viRUS_h004_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25008" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_05.viRUS_Icon.viRUS_006_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25009" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_05.viRUS_Icon.viRUS_007_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+	<armor id="25010" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_05.viRUS_Icon.viRUS_008_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>  
+  	<armor id="25011" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_02.viRUS_Icon.viRUS_007_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor> 
+  	<armor id="25012" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_02.viRUS_Icon.viRUS_019_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor> 
+  	<armor id="25013" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_02.viRUS_Icon.viRUS_022_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor> 
+  	<armor id="25014" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_02.viRUS_Icon.viRUS_023_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor> 
+  	<armor id="25015" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_02.viRUS_Icon.viRUS_041_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+  <armor id="25017" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_02.viRUS_Icon.viRUS_082_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+  	<armor id="25018" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_03.viRUS_Icon.viRUS_049_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>
+  	<armor id="25019" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_03.viRUS_Icon.viRUS_053_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor> 
+  	<armor id="25020" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_04.viRUS_Icon.viRUS_092_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor> 
+  	<armor id="25021" name="Dark Assassins Hood">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="EspadaWorld_04.viRUS_Icon.viRUS_097_h_i00"/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR"/>
+    </equip>
+  </armor>  
+</list>

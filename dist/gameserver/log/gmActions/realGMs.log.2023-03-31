@@ -1,0 +1,37 @@
+[31.03.23 00:11:36] SUCCESS VastoLordes[268481608] admin_vis
+[31.03.23 00:16:19] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[31.03.23 00:16:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[31.03.23 00:16:21] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[31.03.23 00:16:22] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[31.03.23 00:16:24] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_recall_char_menu Sadiko
+[31.03.23 00:17:22] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[31.03.23 00:17:23] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[31.03.23 00:17:23] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[31.03.23 00:17:25] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_character_list Sadiko
+[31.03.23 00:17:26] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_recall_char_menu Sadiko
+[31.03.23 00:19:09] SUCCESS VastoLordes[268481608] admin_spawn 37004
+[31.03.23 00:19:16] SUCCESS VastoLordes[268481608] admin_delete
+[31.03.23 00:19:35] SUCCESS VastoLordes[268481608] admin_spawn 37007
+[31.03.23 00:19:40] SUCCESS VastoLordes[268481608] admin_delete
+[31.03.23 00:19:46] SUCCESS VastoLordes[268481608] admin_spawn 37001
+[31.03.23 00:19:51] SUCCESS VastoLordes[268481608] admin_delete
+[31.03.23 00:20:06] SUCCESS VastoLordes[268481608] admin_spawn 37002
+[31.03.23 00:24:38] SUCCESS VastoLordes[268481608] admin_delete
+[31.03.23 00:32:30] SUCCESS VastoLordes[268481608] admin_vis
+[31.03.23 00:33:03] SUCCESS VastoLordes[268481608] admin_spawn 60110
+[31.03.23 00:33:20] SUCCESS VastoLordes[268481608] admin_delete
+[31.03.23 00:33:49] SUCCESS VastoLordes[268481608] admin_spawn 60110
+[31.03.23 00:34:01] SUCCESS VastoLordes[268481608] admin_delete
+[31.03.23 00:34:16] SUCCESS VastoLordes[268481608] admin_spawn 60110
+[31.03.23 00:35:56] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[31.03.23 00:36:01] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_server admserver.htm
+[31.03.23 00:36:04] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[31.03.23 00:36:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html events/events.htm
+[31.03.23 00:36:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[31.03.23 00:36:08] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_list_announcements
+[31.03.23 00:37:02] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_reload_announcements
+[31.03.23 00:53:43] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_show_effects
+[31.03.23 00:53:54] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_show_skills
+[31.03.23 00:54:04] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_get_skills
+[31.03.23 00:54:05] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_skill_list
+[31.03.23 00:54:09] SUCCESS VastoLordes[268481608] -> Sadiko[268520996] admin_show_html skills/Special/Hero_Skills.htm

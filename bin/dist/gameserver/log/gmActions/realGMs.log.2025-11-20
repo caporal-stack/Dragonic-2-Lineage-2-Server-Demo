@@ -1,0 +1,119 @@
+[20.11.25 01:23:32] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000aa0d admin_vis
+[20.11.25 01:23:50] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 01:23:52] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[20.11.25 01:23:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[20.11.25 01:23:55] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[20.11.25 01:23:56] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[20.11.25 01:28:41] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 01:28:43] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[20.11.25 01:28:47] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[20.11.25 01:28:49] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_character_list AlinAdmin
+[20.11.25 01:28:58] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 01:29:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[20.11.25 01:29:04] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[20.11.25 01:29:10] SUCCESS AlinAdmin[268481608] -> Alin[268488585] admin_character_list Alin
+[20.11.25 01:29:18] SUCCESS AlinAdmin[268481608] -> Alin[268488585] admin_show_characters 0
+[20.11.25 01:29:20] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_character_list AlinAdmin
+[20.11.25 04:32:48] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 04:35:04] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 04:35:10] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[20.11.25 04:35:12] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[20.11.25 04:35:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[20.11.25 04:35:14] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[20.11.25 04:35:23] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 04:35:24] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[20.11.25 04:35:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/raid.htm
+[20.11.25 04:35:31] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/raid/raid_special.htm
+[20.11.25 04:35:32] SUCCESS AlinAdmin[268481608] admin_move_to 115213 16623 10080
+[20.11.25 04:35:49] SUCCESS AlinAdmin[268481608] -> 29025 Baium admin_invul
+[20.11.25 04:36:11] SUCCESS AlinAdmin[268481608] -> 29025 Baium admin_invul
+[20.11.25 04:36:16] SUCCESS AlinAdmin[268481608] -> 29025 Baium admin_invul
+[20.11.25 04:36:40] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 04:36:42] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[20.11.25 04:36:51] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[20.11.25 04:36:56] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[20.11.25 04:37:00] SUCCESS AlinAdmin[268481608] admin_move_to 112122 144855 -2751
+[20.11.25 04:40:20] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[20.11.25 04:40:26] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[20.11.25 04:41:32] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[20.11.25 04:41:39] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[20.11.25 04:57:04] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 04:57:05] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[20.11.25 04:57:07] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[20.11.25 04:57:09] SUCCESS AlinAdmin[268481608] -> Alin[268488585] admin_character_list Alin
+[20.11.25 04:58:09] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 05:05:36] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 05:06:10] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[20.11.25 05:06:17] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[20.11.25 05:06:32] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[20.11.25 05:06:36] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[20.11.25 05:06:57] SUCCESS AlinAdmin[268481608] admin_invul
+[20.11.25 05:11:15] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[20.11.25 05:11:23] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[20.11.25 05:11:47] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[20.11.25 05:11:57] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[20.11.25 08:02:42] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 08:03:40] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[20.11.25 08:03:52] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[20.11.25 08:04:14] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[20.11.25 08:04:18] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[20.11.25 08:04:45] SUCCESS AlinAdmin[268481608] admin_invul
+[20.11.25 08:09:41] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[20.11.25 08:09:46] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[20.11.25 08:10:05] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[20.11.25 08:10:11] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[20.11.25 12:09:13] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 12:09:33] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[20.11.25 12:09:41] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[20.11.25 12:10:29] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_invul
+[20.11.25 12:10:34] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[20.11.25 12:10:42] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[20.11.25 12:16:23] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[20.11.25 12:16:29] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[20.11.25 12:16:55] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[20.11.25 12:17:00] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[20.11.25 14:12:55] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000a9e1 admin_vis
+[20.11.25 14:13:11] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000a9e1 admin_invul
+[20.11.25 14:54:47] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 14:55:07] SUCCESS AlinAdmin[268481608] admin_invul
+[20.11.25 14:55:32] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[20.11.25 14:55:43] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[20.11.25 14:56:06] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[20.11.25 14:56:13] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[20.11.25 15:01:10] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[20.11.25 15:01:14] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[20.11.25 15:01:29] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[20.11.25 15:01:35] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[20.11.25 15:04:42] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 15:04:44] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[20.11.25 15:04:47] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[20.11.25 15:04:48] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[20.11.25 15:04:48] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[20.11.25 15:05:23] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 15:05:24] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_server admserver.htm
+[20.11.25 15:05:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_shutdown shutdown.htm
+[20.11.25 15:06:05] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_restart_seconds 300 True
+[20.11.25 15:21:07] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 15:21:09] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_server admserver.htm
+[20.11.25 15:21:10] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_shutdown shutdown.htm
+[20.11.25 15:21:24] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_restart_seconds 30 False
+[20.11.25 15:25:45] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 15:25:48] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_server admserver.htm
+[20.11.25 15:25:49] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_shutdown shutdown.htm
+[20.11.25 15:25:56] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_restart_seconds 30 False
+[20.11.25 15:48:49] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[20.11.25 15:48:57] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[20.11.25 15:48:59] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[20.11.25 15:49:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[20.11.25 15:49:01] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[20.11.25 15:49:18] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 15:49:35] SUCCESS AlinAdmin[268481608] admin_invul
+[20.11.25 17:29:19] SUCCESS AlinAdmin[268481608] admin_vis
+[20.11.25 17:30:01] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[20.11.25 17:30:12] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[20.11.25 17:30:39] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[20.11.25 17:30:48] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[20.11.25 17:36:50] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[20.11.25 17:36:56] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[20.11.25 17:37:21] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[20.11.25 17:37:27] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close

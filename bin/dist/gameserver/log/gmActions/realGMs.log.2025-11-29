@@ -1,0 +1,5 @@
+[29.11.25 08:20:23] SUCCESS AlinAdmin[268481608] admin_vis
+[29.11.25 13:17:16] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[29.11.25 13:17:18] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_server admserver.htm
+[29.11.25 13:17:19] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_shutdown shutdown.htm
+[29.11.25 13:17:31] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_restart_seconds 5 True

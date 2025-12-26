@@ -1,0 +1,4 @@
+[30.03.23 00:09:30] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.03.23 00:09:30] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_server admserver.htm
+[30.03.23 00:09:32] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_shutdown shutdown.htm
+[30.03.23 00:09:39] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_restart_seconds 30 True

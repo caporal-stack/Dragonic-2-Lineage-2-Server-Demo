@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Medals -->
+
+<list>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9952" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9953" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9954" />
+	</item>	
+</list>

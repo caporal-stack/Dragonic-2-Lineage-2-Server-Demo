@@ -1,0 +1,354 @@
+[22.01.23 00:27:43] enchants test|Trying to put enchant|14957|+16|268484277
+[22.01.23 00:37:44] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 00:37:44] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 00:37:44] bosses BaylorManager : Init BaylorManager.
+[22.01.23 03:07:52] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 03:07:52] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 03:07:52] bosses BaylorManager : Init BaylorManager.
+[22.01.23 03:55:31] fame test|-14000|31000|MultiSell
+[22.01.23 03:57:21] fame test|-50000|11000|MultiSell
+[22.01.23 03:59:41] enchant_skills test|Successfully safe enchanted|216|to+101|97
+[22.01.23 03:59:45] enchant_skills test|Successfully safe enchanted|216|to+102|95
+[22.01.23 03:59:46] enchant_skills test|Successfully safe enchanted|216|to+103|93
+[22.01.23 03:59:46] enchant_skills test|Successfully safe enchanted|216|to+104|91
+[22.01.23 03:59:47] enchant_skills test|Successfully safe enchanted|216|to+105|89
+[22.01.23 03:59:47] enchant_skills test|Failed to safe enchant|216|to+106|87
+[22.01.23 03:59:47] enchant_skills test|Successfully safe enchanted|216|to+106|87
+[22.01.23 03:59:48] enchant_skills test|Successfully safe enchanted|216|to+107|85
+[22.01.23 03:59:48] enchant_skills test|Successfully safe enchanted|216|to+108|83
+[22.01.23 03:59:48] enchant_skills test|Successfully safe enchanted|216|to+109|81
+[22.01.23 03:59:48] enchant_skills test|Failed to safe enchant|216|to+110|79
+[22.01.23 03:59:49] enchant_skills test|Successfully safe enchanted|216|to+110|79
+[22.01.23 03:59:49] enchant_skills test|Successfully safe enchanted|216|to+111|77
+[22.01.23 03:59:49] enchant_skills test|Successfully safe enchanted|216|to+112|75
+[22.01.23 03:59:49] enchant_skills test|Successfully safe enchanted|216|to+113|73
+[22.01.23 03:59:50] enchant_skills test|Successfully safe enchanted|216|to+114|71
+[22.01.23 03:59:50] enchant_skills test|Failed to safe enchant|216|to+115|69
+[22.01.23 03:59:50] enchant_skills test|Failed to safe enchant|216|to+115|69
+[22.01.23 03:59:50] enchant_skills test|Failed to safe enchant|216|to+115|69
+[22.01.23 03:59:51] enchant_skills test|Successfully safe enchanted|216|to+115|69
+[22.01.23 03:59:51] enchant_skills test|Successfully safe enchanted|216|to+116|67
+[22.01.23 03:59:51] enchant_skills test|Successfully safe enchanted|216|to+117|65
+[22.01.23 03:59:51] enchant_skills test|Failed to safe enchant|216|to+118|63
+[22.01.23 03:59:52] enchant_skills test|Failed to safe enchant|216|to+118|63
+[22.01.23 03:59:52] enchant_skills test|Successfully safe enchanted|216|to+118|63
+[22.01.23 03:59:52] enchant_skills test|Failed to safe enchant|216|to+119|61
+[22.01.23 03:59:52] enchant_skills test|Successfully safe enchanted|216|to+119|61
+[22.01.23 03:59:53] enchant_skills test|Failed to safe enchant|216|to+120|59
+[22.01.23 03:59:53] enchant_skills test|Failed to safe enchant|216|to+120|59
+[22.01.23 03:59:53] enchant_skills test|Successfully safe enchanted|216|to+120|59
+[22.01.23 03:59:54] enchant_skills test|Successfully safe enchanted|216|to+121|57
+[22.01.23 03:59:54] enchant_skills test|Successfully safe enchanted|216|to+122|55
+[22.01.23 03:59:54] enchant_skills test|Failed to safe enchant|216|to+123|53
+[22.01.23 03:59:54] enchant_skills test|Successfully safe enchanted|216|to+123|53
+[22.01.23 03:59:55] enchant_skills test|Failed to safe enchant|216|to+124|51
+[22.01.23 03:59:55] enchant_skills test|Successfully safe enchanted|216|to+124|51
+[22.01.23 03:59:55] enchant_skills test|Failed to safe enchant|216|to+125|44
+[22.01.23 03:59:56] enchant_skills test|Successfully safe enchanted|216|to+125|44
+[22.01.23 03:59:56] enchant_skills test|Failed to safe enchant|216|to+126|42
+[22.01.23 03:59:56] enchant_skills test|Failed to safe enchant|216|to+126|42
+[22.01.23 03:59:57] enchant_skills test|Failed to safe enchant|216|to+126|42
+[22.01.23 03:59:57] enchant_skills test|Successfully safe enchanted|216|to+126|42
+[22.01.23 03:59:57] enchant_skills test|Successfully safe enchanted|216|to+127|40
+[22.01.23 03:59:57] enchant_skills test|Successfully safe enchanted|216|to+128|28
+[22.01.23 03:59:58] enchant_skills test|Failed to safe enchant|216|to+129|26
+[22.01.23 03:59:58] enchant_skills test|Successfully safe enchanted|216|to+129|26
+[22.01.23 03:59:58] enchant_skills test|Failed to safe enchant|216|to+130|24
+[22.01.23 03:59:59] enchant_skills test|Failed to safe enchant|216|to+130|24
+[22.01.23 03:59:59] enchant_skills test|Successfully safe enchanted|216|to+130|24
+[22.01.23 04:00:42] enchant_skills test|Successfully safe enchanted|231|to+201|97
+[22.01.23 04:00:42] enchant_skills test|Successfully safe enchanted|231|to+202|95
+[22.01.23 04:00:43] enchant_skills test|Successfully safe enchanted|231|to+203|93
+[22.01.23 04:00:43] enchant_skills test|Successfully safe enchanted|231|to+204|91
+[22.01.23 04:00:43] enchant_skills test|Successfully safe enchanted|231|to+205|89
+[22.01.23 04:00:43] enchant_skills test|Successfully safe enchanted|231|to+206|87
+[22.01.23 04:00:44] enchant_skills test|Successfully safe enchanted|231|to+207|85
+[22.01.23 04:00:44] enchant_skills test|Successfully safe enchanted|231|to+208|83
+[22.01.23 04:00:44] enchant_skills test|Failed to safe enchant|231|to+209|81
+[22.01.23 04:00:45] enchant_skills test|Successfully safe enchanted|231|to+209|81
+[22.01.23 04:00:45] enchant_skills test|Failed to safe enchant|231|to+210|79
+[22.01.23 04:00:45] enchant_skills test|Successfully safe enchanted|231|to+210|79
+[22.01.23 04:00:45] enchant_skills test|Successfully safe enchanted|231|to+211|77
+[22.01.23 04:00:46] enchant_skills test|Successfully safe enchanted|231|to+212|75
+[22.01.23 04:00:46] enchant_skills test|Failed to safe enchant|231|to+213|73
+[22.01.23 04:00:46] enchant_skills test|Successfully safe enchanted|231|to+213|73
+[22.01.23 04:00:47] enchant_skills test|Successfully safe enchanted|231|to+214|71
+[22.01.23 04:00:47] enchant_skills test|Successfully safe enchanted|231|to+215|69
+[22.01.23 04:00:47] enchant_skills test|Failed to safe enchant|231|to+216|67
+[22.01.23 04:00:47] enchant_skills test|Successfully safe enchanted|231|to+216|67
+[22.01.23 04:00:48] enchant_skills test|Failed to safe enchant|231|to+217|65
+[22.01.23 04:00:48] enchant_skills test|Successfully safe enchanted|231|to+217|65
+[22.01.23 04:00:48] enchant_skills test|Failed to safe enchant|231|to+218|63
+[22.01.23 04:00:48] enchant_skills test|Successfully safe enchanted|231|to+218|63
+[22.01.23 04:00:49] enchant_skills test|Failed to safe enchant|231|to+219|61
+[22.01.23 04:00:49] enchant_skills test|Successfully safe enchanted|231|to+219|61
+[22.01.23 04:00:49] enchant_skills test|Successfully safe enchanted|231|to+220|59
+[22.01.23 04:00:49] enchant_skills test|Failed to safe enchant|231|to+221|57
+[22.01.23 04:00:50] enchant_skills test|Successfully safe enchanted|231|to+221|57
+[22.01.23 04:00:50] enchant_skills test|Successfully safe enchanted|231|to+222|55
+[22.01.23 04:00:50] enchant_skills test|Successfully safe enchanted|231|to+223|53
+[22.01.23 04:00:51] enchant_skills test|Failed to safe enchant|231|to+224|51
+[22.01.23 04:00:51] enchant_skills test|Failed to safe enchant|231|to+224|51
+[22.01.23 04:00:51] enchant_skills test|Successfully safe enchanted|231|to+224|51
+[22.01.23 04:00:51] enchant_skills test|Successfully safe enchanted|231|to+225|44
+[22.01.23 04:00:52] enchant_skills test|Successfully safe enchanted|231|to+226|42
+[22.01.23 04:00:52] enchant_skills test|Failed to safe enchant|231|to+227|40
+[22.01.23 04:00:52] enchant_skills test|Failed to safe enchant|231|to+227|40
+[22.01.23 04:00:52] enchant_skills test|Failed to safe enchant|231|to+227|40
+[22.01.23 04:00:53] enchant_skills test|Successfully safe enchanted|231|to+227|40
+[22.01.23 04:00:53] enchant_skills test|Failed to safe enchant|231|to+228|28
+[22.01.23 04:00:53] enchant_skills test|Successfully safe enchanted|231|to+228|28
+[22.01.23 04:00:54] enchant_skills test|Failed to safe enchant|231|to+229|26
+[22.01.23 04:00:54] enchant_skills test|Failed to safe enchant|231|to+229|26
+[22.01.23 04:00:54] enchant_skills test|Successfully safe enchanted|231|to+229|26
+[22.01.23 04:00:54] enchant_skills test|Successfully safe enchanted|231|to+230|24
+[22.01.23 04:01:38] enchant_skills test|Successfully safe enchanted|328|to+101|97
+[22.01.23 04:01:39] enchant_skills test|Successfully safe enchanted|328|to+102|95
+[22.01.23 04:01:39] enchant_skills test|Successfully safe enchanted|328|to+103|93
+[22.01.23 04:01:39] enchant_skills test|Successfully safe enchanted|328|to+104|91
+[22.01.23 04:01:40] enchant_skills test|Successfully safe enchanted|328|to+105|89
+[22.01.23 04:01:40] enchant_skills test|Successfully safe enchanted|328|to+106|87
+[22.01.23 04:01:40] enchant_skills test|Successfully safe enchanted|328|to+107|85
+[22.01.23 04:01:41] enchant_skills test|Successfully safe enchanted|328|to+108|83
+[22.01.23 04:01:41] enchant_skills test|Failed to safe enchant|328|to+109|81
+[22.01.23 04:01:41] enchant_skills test|Successfully safe enchanted|328|to+109|81
+[22.01.23 04:01:41] enchant_skills test|Successfully safe enchanted|328|to+110|74
+[22.01.23 04:01:42] enchant_skills test|Successfully safe enchanted|328|to+111|72
+[22.01.23 04:01:42] enchant_skills test|Successfully safe enchanted|328|to+112|70
+[22.01.23 04:01:42] enchant_skills test|Successfully safe enchanted|328|to+113|58
+[22.01.23 04:01:43] enchant_skills test|Successfully safe enchanted|328|to+114|56
+[22.01.23 04:01:43] enchant_skills test|Failed to safe enchant|328|to+115|54
+[22.01.23 04:01:43] enchant_skills test|Successfully safe enchanted|328|to+115|54
+[22.01.23 04:02:05] enchant_skills test|Successfully safe enchanted|329|to+201|97
+[22.01.23 04:02:05] enchant_skills test|Successfully safe enchanted|329|to+202|95
+[22.01.23 04:02:05] enchant_skills test|Successfully safe enchanted|329|to+203|93
+[22.01.23 04:02:06] enchant_skills test|Successfully safe enchanted|329|to+204|91
+[22.01.23 04:02:06] enchant_skills test|Successfully safe enchanted|329|to+205|89
+[22.01.23 04:02:06] enchant_skills test|Failed to safe enchant|329|to+206|87
+[22.01.23 04:02:06] enchant_skills test|Successfully safe enchanted|329|to+206|87
+[22.01.23 04:02:07] enchant_skills test|Successfully safe enchanted|329|to+207|85
+[22.01.23 04:02:07] enchant_skills test|Successfully safe enchanted|329|to+208|83
+[22.01.23 04:02:07] enchant_skills test|Successfully safe enchanted|329|to+209|81
+[22.01.23 04:02:07] enchant_skills test|Failed to safe enchant|329|to+210|74
+[22.01.23 04:02:08] enchant_skills test|Successfully safe enchanted|329|to+210|74
+[22.01.23 04:02:08] enchant_skills test|Successfully safe enchanted|329|to+211|72
+[22.01.23 04:02:08] enchant_skills test|Successfully safe enchanted|329|to+212|70
+[22.01.23 04:02:08] enchant_skills test|Failed to safe enchant|329|to+213|58
+[22.01.23 04:02:09] enchant_skills test|Failed to safe enchant|329|to+213|58
+[22.01.23 04:02:09] enchant_skills test|Successfully safe enchanted|329|to+213|58
+[22.01.23 04:02:09] enchant_skills test|Failed to safe enchant|329|to+214|56
+[22.01.23 04:02:10] enchant_skills test|Successfully safe enchanted|329|to+214|56
+[22.01.23 04:02:10] enchant_skills test|Failed to safe enchant|329|to+215|54
+[22.01.23 04:02:10] enchant_skills test|Failed to safe enchant|329|to+215|54
+[22.01.23 04:02:10] enchant_skills test|Failed to safe enchant|329|to+215|54
+[22.01.23 04:02:11] enchant_skills test|Successfully safe enchanted|329|to+215|54
+[22.01.23 04:02:26] enchant_skills test|Successfully safe enchanted|290|to+101|97
+[22.01.23 04:02:27] enchant_skills test|Successfully safe enchanted|290|to+102|95
+[22.01.23 04:02:27] enchant_skills test|Successfully safe enchanted|290|to+103|93
+[22.01.23 04:02:27] enchant_skills test|Failed to safe enchant|290|to+104|91
+[22.01.23 04:02:27] enchant_skills test|Successfully safe enchanted|290|to+104|91
+[22.01.23 04:02:28] enchant_skills test|Successfully safe enchanted|290|to+105|89
+[22.01.23 04:02:28] enchant_skills test|Failed to safe enchant|290|to+106|87
+[22.01.23 04:02:28] enchant_skills test|Successfully safe enchanted|290|to+106|87
+[22.01.23 04:02:28] enchant_skills test|Successfully safe enchanted|290|to+107|85
+[22.01.23 04:02:29] enchant_skills test|Successfully safe enchanted|290|to+108|83
+[22.01.23 04:02:29] enchant_skills test|Successfully safe enchanted|290|to+109|81
+[22.01.23 04:02:29] enchant_skills test|Failed to safe enchant|290|to+110|79
+[22.01.23 04:02:29] enchant_skills test|Successfully safe enchanted|290|to+110|79
+[22.01.23 04:02:30] enchant_skills test|Successfully safe enchanted|290|to+111|77
+[22.01.23 04:02:30] enchant_skills test|Successfully safe enchanted|290|to+112|75
+[22.01.23 04:02:30] enchant_skills test|Successfully safe enchanted|290|to+113|73
+[22.01.23 04:02:30] enchant_skills test|Successfully safe enchanted|290|to+114|71
+[22.01.23 04:02:31] enchant_skills test|Successfully safe enchanted|290|to+115|69
+[22.01.23 04:02:31] enchant_skills test|Successfully safe enchanted|290|to+116|67
+[22.01.23 04:02:31] enchant_skills test|Successfully safe enchanted|290|to+117|65
+[22.01.23 04:02:32] enchant_skills test|Failed to safe enchant|290|to+118|63
+[22.01.23 04:02:32] enchant_skills test|Successfully safe enchanted|290|to+118|63
+[22.01.23 04:02:32] enchant_skills test|Successfully safe enchanted|290|to+119|61
+[22.01.23 04:02:32] enchant_skills test|Successfully safe enchanted|290|to+120|59
+[22.01.23 04:02:33] enchant_skills test|Successfully safe enchanted|290|to+121|57
+[22.01.23 04:02:33] enchant_skills test|Successfully safe enchanted|290|to+122|55
+[22.01.23 04:02:33] enchant_skills test|Successfully safe enchanted|290|to+123|53
+[22.01.23 04:02:33] enchant_skills test|Successfully safe enchanted|290|to+124|51
+[22.01.23 04:02:34] enchant_skills test|Failed to safe enchant|290|to+125|44
+[22.01.23 04:02:34] enchant_skills test|Successfully safe enchanted|290|to+125|44
+[22.01.23 04:02:34] enchant_skills test|Failed to safe enchant|290|to+126|42
+[22.01.23 04:02:35] enchant_skills test|Failed to safe enchant|290|to+126|42
+[22.01.23 04:02:35] enchant_skills test|Successfully safe enchanted|290|to+126|42
+[22.01.23 04:02:35] enchant_skills test|Failed to safe enchant|290|to+127|40
+[22.01.23 04:02:35] enchant_skills test|Failed to safe enchant|290|to+127|40
+[22.01.23 04:02:36] enchant_skills test|Failed to safe enchant|290|to+127|40
+[22.01.23 04:02:36] enchant_skills test|Failed to safe enchant|290|to+127|40
+[22.01.23 04:02:36] enchant_skills test|Successfully safe enchanted|290|to+127|40
+[22.01.23 04:02:36] enchant_skills test|Failed to safe enchant|290|to+128|28
+[22.01.23 04:02:37] enchant_skills test|Failed to safe enchant|290|to+128|28
+[22.01.23 04:02:37] enchant_skills test|Failed to safe enchant|290|to+128|28
+[22.01.23 04:02:37] enchant_skills test|Failed to safe enchant|290|to+128|28
+[22.01.23 04:02:38] enchant_skills test|Successfully safe enchanted|290|to+128|28
+[22.01.23 04:02:38] enchant_skills test|Failed to safe enchant|290|to+129|26
+[22.01.23 04:02:38] enchant_skills test|Failed to safe enchant|290|to+129|26
+[22.01.23 04:02:38] enchant_skills test|Successfully safe enchanted|290|to+129|26
+[22.01.23 04:02:39] enchant_skills test|Successfully safe enchanted|290|to+130|24
+[22.01.23 04:02:58] enchant_skills test|Successfully safe enchanted|430|to+101|97
+[22.01.23 04:02:58] enchant_skills test|Successfully safe enchanted|430|to+102|95
+[22.01.23 04:02:58] enchant_skills test|Successfully safe enchanted|430|to+103|93
+[22.01.23 04:02:59] enchant_skills test|Successfully safe enchanted|430|to+104|91
+[22.01.23 04:02:59] enchant_skills test|Successfully safe enchanted|430|to+105|89
+[22.01.23 04:02:59] enchant_skills test|Successfully safe enchanted|430|to+106|87
+[22.01.23 04:02:59] enchant_skills test|Successfully safe enchanted|430|to+107|85
+[22.01.23 04:03:00] enchant_skills test|Successfully safe enchanted|430|to+108|83
+[22.01.23 04:03:00] enchant_skills test|Successfully safe enchanted|430|to+109|81
+[22.01.23 04:03:00] enchant_skills test|Successfully safe enchanted|430|to+110|74
+[22.01.23 04:03:00] enchant_skills test|Successfully safe enchanted|430|to+111|72
+[22.01.23 04:03:01] enchant_skills test|Successfully safe enchanted|430|to+112|70
+[22.01.23 04:03:01] enchant_skills test|Successfully safe enchanted|430|to+113|58
+[22.01.23 04:03:01] enchant_skills test|Successfully safe enchanted|430|to+114|56
+[22.01.23 04:03:01] enchant_skills test|Successfully safe enchanted|430|to+115|54
+[22.01.23 04:03:28] enchant_skills test|Successfully safe enchanted|227|to+101|97
+[22.01.23 04:03:29] enchant_skills test|Successfully safe enchanted|227|to+102|95
+[22.01.23 04:03:29] enchant_skills test|Successfully safe enchanted|227|to+103|93
+[22.01.23 04:03:29] enchant_skills test|Successfully safe enchanted|227|to+104|91
+[22.01.23 04:03:30] enchant_skills test|Failed to safe enchant|227|to+105|89
+[22.01.23 04:03:30] enchant_skills test|Successfully safe enchanted|227|to+105|89
+[22.01.23 04:03:30] enchant_skills test|Successfully safe enchanted|227|to+106|87
+[22.01.23 04:03:31] enchant_skills test|Successfully safe enchanted|227|to+107|85
+[22.01.23 04:03:31] enchant_skills test|Successfully safe enchanted|227|to+108|83
+[22.01.23 04:03:31] enchant_skills test|Successfully safe enchanted|227|to+109|81
+[22.01.23 04:03:31] enchant_skills test|Successfully safe enchanted|227|to+110|79
+[22.01.23 04:03:32] enchant_skills test|Failed to safe enchant|227|to+111|77
+[22.01.23 04:03:32] enchant_skills test|Successfully safe enchanted|227|to+111|77
+[22.01.23 04:03:33] enchant_skills test|Failed to safe enchant|227|to+112|75
+[22.01.23 04:03:33] enchant_skills test|Successfully safe enchanted|227|to+112|75
+[22.01.23 04:03:34] enchant_skills test|Successfully safe enchanted|227|to+113|73
+[22.01.23 04:03:34] enchant_skills test|Successfully safe enchanted|227|to+114|71
+[22.01.23 04:03:34] enchant_skills test|Successfully safe enchanted|227|to+115|69
+[22.01.23 04:03:35] enchant_skills test|Failed to safe enchant|227|to+116|67
+[22.01.23 04:03:35] enchant_skills test|Successfully safe enchanted|227|to+116|67
+[22.01.23 04:03:35] enchant_skills test|Failed to safe enchant|227|to+117|65
+[22.01.23 04:03:35] enchant_skills test|Successfully safe enchanted|227|to+117|65
+[22.01.23 04:03:36] enchant_skills test|Successfully safe enchanted|227|to+118|63
+[22.01.23 04:03:36] enchant_skills test|Failed to safe enchant|227|to+119|61
+[22.01.23 04:03:37] enchant_skills test|Failed to safe enchant|227|to+119|61
+[22.01.23 04:03:37] enchant_skills test|Failed to safe enchant|227|to+119|61
+[22.01.23 04:03:37] enchant_skills test|Failed to safe enchant|227|to+119|61
+[22.01.23 04:03:37] enchant_skills test|Failed to safe enchant|227|to+119|61
+[22.01.23 04:03:38] enchant_skills test|Failed to safe enchant|227|to+119|61
+[22.01.23 04:03:38] enchant_skills test|Successfully safe enchanted|227|to+119|61
+[22.01.23 04:03:38] enchant_skills test|Successfully safe enchanted|227|to+120|59
+[22.01.23 04:03:39] enchant_skills test|Successfully safe enchanted|227|to+121|57
+[22.01.23 04:04:26] Achievements: Player test recived 100 fame from achievement Wise Walker game
+[22.01.23 04:19:58] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 04:19:58] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 04:19:58] bosses BaylorManager : Init BaylorManager.
+[22.01.23 04:29:51] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 04:29:51] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 04:29:51] bosses BaylorManager : Init BaylorManager.
+[22.01.23 04:32:16] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 04:32:16] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 04:32:16] bosses BaylorManager : Init BaylorManager.
+[22.01.23 04:34:19] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 04:34:19] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 04:34:19] bosses BaylorManager : Init BaylorManager.
+[22.01.23 04:36:49] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 04:36:49] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 04:36:49] bosses BaylorManager : Init BaylorManager.
+[22.01.23 04:47:06] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 04:47:06] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 04:47:06] bosses BaylorManager : Init BaylorManager.
+[22.01.23 04:52:28] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 04:52:28] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 04:52:28] bosses BaylorManager : Init BaylorManager.
+[22.01.23 05:16:05] enchant_skills dfasdf|Successfully safe enchanted|210|to+101|97
+[22.01.23 05:16:10] enchant_skills dfasdf|Successfully safe enchanted|210|to+102|95
+[22.01.23 05:16:13] enchant_skills dfasdf|Successfully safe enchanted|210|to+103|93
+[22.01.23 05:16:17] enchant_skills dfasdf|Successfully safe enchanted|210|to+104|91
+[22.01.23 05:16:18] enchant_skills dfasdf|Successfully safe enchanted|210|to+105|89
+[22.01.23 05:16:18] enchant_skills dfasdf|Failed to safe enchant|210|to+106|87
+[22.01.23 05:16:18] enchant_skills dfasdf|Successfully safe enchanted|210|to+106|87
+[22.01.23 05:16:28] enchant_skills dfasdf|Successfully safe enchanted|210|to+107|85
+[22.01.23 05:16:29] enchant_skills dfasdf|Successfully safe enchanted|210|to+108|83
+[22.01.23 05:16:29] enchant_skills dfasdf|Successfully safe enchanted|210|to+109|81
+[22.01.23 05:16:29] enchant_skills dfasdf|Successfully safe enchanted|210|to+110|79
+[22.01.23 05:16:30] enchant_skills dfasdf|Failed to safe enchant|210|to+111|77
+[22.01.23 05:16:30] enchant_skills dfasdf|Successfully safe enchanted|210|to+111|77
+[22.01.23 05:16:30] enchant_skills dfasdf|Successfully safe enchanted|210|to+112|75
+[22.01.23 05:16:30] enchant_skills dfasdf|Failed to safe enchant|210|to+113|73
+[22.01.23 05:16:31] enchant_skills dfasdf|Failed to safe enchant|210|to+113|73
+[22.01.23 05:16:32] enchant_skills dfasdf|Failed to safe enchant|210|to+113|73
+[22.01.23 05:16:32] enchant_skills dfasdf|Successfully safe enchanted|210|to+113|73
+[22.01.23 05:16:33] enchant_skills dfasdf|Successfully safe enchanted|210|to+114|71
+[22.01.23 05:16:33] enchant_skills dfasdf|Failed to safe enchant|210|to+115|69
+[22.01.23 05:16:34] enchant_skills dfasdf|Successfully safe enchanted|210|to+115|69
+[22.01.23 05:16:44] enchant_skills dfasdf|Successfully safe enchanted|233|to+201|97
+[22.01.23 05:16:44] enchant_skills dfasdf|Successfully safe enchanted|233|to+202|95
+[22.01.23 05:16:44] enchant_skills dfasdf|Successfully safe enchanted|233|to+203|93
+[22.01.23 05:16:45] enchant_skills dfasdf|Successfully safe enchanted|233|to+204|91
+[22.01.23 05:16:45] enchant_skills dfasdf|Successfully safe enchanted|233|to+205|89
+[22.01.23 05:16:52] enchant_skills dfasdf|Successfully safe enchanted|233|to+206|87
+[22.01.23 05:16:52] enchant_skills dfasdf|Successfully safe enchanted|233|to+207|85
+[22.01.23 05:16:53] enchant_skills dfasdf|Successfully safe enchanted|233|to+208|83
+[22.01.23 05:16:53] enchant_skills dfasdf|Successfully safe enchanted|233|to+209|81
+[22.01.23 05:16:53] enchant_skills dfasdf|Successfully safe enchanted|233|to+210|79
+[22.01.23 05:16:53] enchant_skills dfasdf|Successfully safe enchanted|233|to+211|77
+[22.01.23 05:16:54] enchant_skills dfasdf|Successfully safe enchanted|233|to+212|75
+[22.01.23 05:16:54] enchant_skills dfasdf|Successfully safe enchanted|233|to+213|73
+[22.01.23 05:16:54] enchant_skills dfasdf|Successfully safe enchanted|233|to+214|71
+[22.01.23 05:16:56] enchant_skills dfasdf|Failed to safe enchant|233|to+215|69
+[22.01.23 05:16:57] enchant_skills dfasdf|Failed to safe enchant|233|to+215|69
+[22.01.23 05:16:58] enchant_skills dfasdf|Successfully safe enchanted|233|to+215|69
+[22.01.23 05:17:17] enchant_skills dfasdf|Successfully safe enchanted|168|to+101|97
+[22.01.23 05:17:18] enchant_skills dfasdf|Successfully safe enchanted|168|to+102|95
+[22.01.23 05:17:18] enchant_skills dfasdf|Successfully safe enchanted|168|to+103|93
+[22.01.23 05:17:18] enchant_skills dfasdf|Successfully safe enchanted|168|to+104|91
+[22.01.23 05:17:18] enchant_skills dfasdf|Successfully safe enchanted|168|to+105|89
+[22.01.23 05:17:19] enchant_skills dfasdf|Successfully safe enchanted|168|to+106|87
+[22.01.23 05:17:19] enchant_skills dfasdf|Successfully safe enchanted|168|to+107|85
+[22.01.23 05:17:19] enchant_skills dfasdf|Failed to safe enchant|168|to+108|83
+[22.01.23 05:17:20] enchant_skills dfasdf|Successfully safe enchanted|168|to+108|83
+[22.01.23 05:17:20] enchant_skills dfasdf|Successfully safe enchanted|168|to+109|81
+[22.01.23 05:17:20] enchant_skills dfasdf|Successfully safe enchanted|168|to+110|79
+[22.01.23 05:17:20] enchant_skills dfasdf|Successfully safe enchanted|168|to+111|77
+[22.01.23 05:17:21] enchant_skills dfasdf|Successfully safe enchanted|168|to+112|75
+[22.01.23 05:17:21] enchant_skills dfasdf|Successfully safe enchanted|168|to+113|73
+[22.01.23 05:17:21] enchant_skills dfasdf|Failed to safe enchant|168|to+114|71
+[22.01.23 05:17:23] enchant_skills dfasdf|Failed to safe enchant|168|to+114|71
+[22.01.23 05:17:24] enchant_skills dfasdf|Successfully safe enchanted|168|to+114|71
+[22.01.23 05:17:24] enchant_skills dfasdf|Failed to safe enchant|168|to+115|69
+[22.01.23 05:17:25] enchant_skills dfasdf|Failed to safe enchant|168|to+115|69
+[22.01.23 05:17:25] enchant_skills dfasdf|Successfully safe enchanted|168|to+115|69
+[22.01.23 05:18:17] enchant_skills dfasdf|Successfully safe enchanted|319|to+201|97
+[22.01.23 05:18:17] enchant_skills dfasdf|Successfully safe enchanted|319|to+202|95
+[22.01.23 05:18:17] enchant_skills dfasdf|Successfully safe enchanted|319|to+203|93
+[22.01.23 05:18:18] enchant_skills dfasdf|Successfully safe enchanted|319|to+204|91
+[22.01.23 05:18:18] enchant_skills dfasdf|Successfully safe enchanted|319|to+205|89
+[22.01.23 05:18:18] enchant_skills dfasdf|Successfully safe enchanted|319|to+206|87
+[22.01.23 05:18:19] enchant_skills dfasdf|Successfully safe enchanted|319|to+207|85
+[22.01.23 05:18:19] enchant_skills dfasdf|Successfully safe enchanted|319|to+208|83
+[22.01.23 05:18:20] enchant_skills dfasdf|Successfully safe enchanted|319|to+209|81
+[22.01.23 05:18:21] enchant_skills dfasdf|Failed to safe enchant|319|to+210|79
+[22.01.23 05:18:22] enchant_skills dfasdf|Successfully safe enchanted|319|to+210|79
+[22.01.23 05:18:53] enchant_skills dfasdf|Successfully safe enchanted|430|to+201|97
+[22.01.23 05:18:53] enchant_skills dfasdf|Successfully safe enchanted|430|to+202|95
+[22.01.23 05:18:53] enchant_skills dfasdf|Successfully safe enchanted|430|to+203|93
+[22.01.23 05:18:53] enchant_skills dfasdf|Successfully safe enchanted|430|to+204|91
+[22.01.23 05:18:54] enchant_skills dfasdf|Successfully safe enchanted|430|to+205|89
+[22.01.23 05:18:54] enchant_skills dfasdf|Failed to safe enchant|430|to+206|87
+[22.01.23 05:18:54] enchant_skills dfasdf|Successfully safe enchanted|430|to+206|87
+[22.01.23 05:18:54] enchant_skills dfasdf|Successfully safe enchanted|430|to+207|85
+[22.01.23 05:18:55] enchant_skills dfasdf|Successfully safe enchanted|430|to+208|83
+[22.01.23 05:18:55] enchant_skills dfasdf|Successfully safe enchanted|430|to+209|81
+[22.01.23 05:18:55] enchant_skills dfasdf|Failed to safe enchant|430|to+210|74
+[22.01.23 05:18:56] enchant_skills dfasdf|Failed to safe enchant|430|to+210|74
+[22.01.23 05:18:56] enchant_skills dfasdf|Successfully safe enchanted|430|to+210|74
+[22.01.23 05:18:56] enchant_skills dfasdf|Successfully safe enchanted|430|to+211|72
+[22.01.23 05:18:56] enchant_skills dfasdf|Successfully safe enchanted|430|to+212|70
+[22.01.23 05:18:57] enchant_skills dfasdf|Failed to safe enchant|430|to+213|58
+[22.01.23 05:18:57] enchant_skills dfasdf|Successfully safe enchanted|430|to+213|58
+[22.01.23 05:18:57] enchant_skills dfasdf|Failed to safe enchant|430|to+214|56
+[22.01.23 05:18:57] enchant_skills dfasdf|Successfully safe enchanted|430|to+214|56
+[22.01.23 05:18:58] enchant_skills dfasdf|Successfully safe enchanted|430|to+215|54
+[22.01.23 05:27:09] enchants dfasdf|Trying to put enchant|14137|+4|268487195
+[22.01.23 05:27:14] enchants dfasdf|Trying to put enchant|14137|+5|268487195
+[22.01.23 09:00:21] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[22.01.23 09:00:21] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[22.01.23 09:00:21] bosses BaylorManager : Init BaylorManager.

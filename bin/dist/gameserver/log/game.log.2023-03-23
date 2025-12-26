@@ -1,0 +1,254 @@
+[23.03.23 09:00:19] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[23.03.23 09:00:19] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[23.03.23 09:00:19] bosses BaylorManager : Init BaylorManager.
+[23.03.23 18:54:53] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[23.03.23 18:54:53] bosses BaylorManager : Next spawn date of Baylor is Thu Jan 01 02:00:00 EET 1970.
+[23.03.23 18:54:53] bosses BaylorManager : Init BaylorManager.
+[23.03.23 22:03:43] enchants Sadiko|Trying to put enchant|14953|+16|268523991
+[23.03.23 22:03:46] enchants Sadiko|Trying to put enchant|21580|+10|268523298
+[23.03.23 22:13:43] enchants Sadiko|Trying to put enchant|10210|+0|268533683
+[23.03.23 22:31:09] enchant_skills Sadiko|Failed to safe enchant|342|to+207|85
+[23.03.23 22:31:12] enchant_skills Sadiko|Successfully safe enchanted|342|to+207|85
+[23.03.23 22:31:14] enchant_skills Sadiko|Successfully safe enchanted|342|to+208|83
+[23.03.23 22:31:16] enchant_skills Sadiko|Successfully safe enchanted|342|to+209|81
+[23.03.23 22:31:18] enchant_skills Sadiko|Successfully safe enchanted|342|to+210|74
+[23.03.23 22:31:20] enchant_skills Sadiko|Failed to safe enchant|342|to+211|72
+[23.03.23 22:31:22] enchant_skills Sadiko|Failed to safe enchant|342|to+211|72
+[23.03.23 22:31:23] enchant_skills Sadiko|Successfully safe enchanted|342|to+211|72
+[23.03.23 23:14:26] enchant_skills Sadiko|Successfully safe enchanted|342|to+212|70
+[23.03.23 23:14:29] enchant_skills Sadiko|Successfully safe enchanted|342|to+213|58
+[23.03.23 23:14:30] enchant_skills Sadiko|Successfully safe enchanted|342|to+214|56
+[23.03.23 23:14:31] enchant_skills Sadiko|Successfully safe enchanted|342|to+215|54
+[23.03.23 23:15:07] enchant_skills Sadiko|Successfully safe enchanted|352|to+101|97
+[23.03.23 23:15:09] enchant_skills Sadiko|Successfully safe enchanted|352|to+102|95
+[23.03.23 23:15:09] enchant_skills Sadiko|Successfully safe enchanted|352|to+103|93
+[23.03.23 23:15:09] enchant_skills Sadiko|Successfully safe enchanted|352|to+104|91
+[23.03.23 23:15:10] enchant_skills Sadiko|Successfully safe enchanted|352|to+105|89
+[23.03.23 23:15:10] enchant_skills Sadiko|Successfully safe enchanted|352|to+106|87
+[23.03.23 23:15:11] enchant_skills Sadiko|Successfully safe enchanted|352|to+107|85
+[23.03.23 23:15:11] enchant_skills Sadiko|Successfully safe enchanted|352|to+108|83
+[23.03.23 23:15:11] enchant_skills Sadiko|Successfully safe enchanted|352|to+109|81
+[23.03.23 23:15:12] enchant_skills Sadiko|Successfully safe enchanted|352|to+110|74
+[23.03.23 23:15:12] enchant_skills Sadiko|Successfully safe enchanted|352|to+111|72
+[23.03.23 23:15:13] enchant_skills Sadiko|Successfully safe enchanted|352|to+112|70
+[23.03.23 23:15:13] enchant_skills Sadiko|Successfully safe enchanted|352|to+113|58
+[23.03.23 23:15:13] enchant_skills Sadiko|Successfully safe enchanted|352|to+114|56
+[23.03.23 23:15:14] enchant_skills Sadiko|Failed to safe enchant|352|to+115|54
+[23.03.23 23:15:14] enchant_skills Sadiko|Successfully safe enchanted|352|to+115|54
+[23.03.23 23:15:56] enchant_skills Sadiko|Successfully safe enchanted|401|to+401|97
+[23.03.23 23:15:56] enchant_skills Sadiko|Successfully safe enchanted|401|to+402|95
+[23.03.23 23:15:57] enchant_skills Sadiko|Successfully safe enchanted|401|to+403|93
+[23.03.23 23:15:57] enchant_skills Sadiko|Successfully safe enchanted|401|to+404|91
+[23.03.23 23:15:57] enchant_skills Sadiko|Successfully safe enchanted|401|to+405|89
+[23.03.23 23:15:58] enchant_skills Sadiko|Successfully safe enchanted|401|to+406|87
+[23.03.23 23:15:58] enchant_skills Sadiko|Successfully safe enchanted|401|to+407|85
+[23.03.23 23:15:58] enchant_skills Sadiko|Failed to safe enchant|401|to+408|83
+[23.03.23 23:15:59] enchant_skills Sadiko|Successfully safe enchanted|401|to+408|83
+[23.03.23 23:15:59] enchant_skills Sadiko|Successfully safe enchanted|401|to+409|81
+[23.03.23 23:16:00] enchant_skills Sadiko|Successfully safe enchanted|401|to+410|79
+[23.03.23 23:16:00] enchant_skills Sadiko|Successfully safe enchanted|401|to+411|77
+[23.03.23 23:16:00] enchant_skills Sadiko|Successfully safe enchanted|401|to+412|75
+[23.03.23 23:16:01] enchant_skills Sadiko|Successfully safe enchanted|401|to+413|73
+[23.03.23 23:16:01] enchant_skills Sadiko|Successfully safe enchanted|401|to+414|71
+[23.03.23 23:16:02] enchant_skills Sadiko|Failed to safe enchant|401|to+415|69
+[23.03.23 23:16:02] enchant_skills Sadiko|Successfully safe enchanted|401|to+415|69
+[23.03.23 23:16:03] enchant_skills Sadiko|Successfully safe enchanted|401|to+416|67
+[23.03.23 23:16:03] enchant_skills Sadiko|Successfully safe enchanted|401|to+417|65
+[23.03.23 23:16:03] enchant_skills Sadiko|Failed to safe enchant|401|to+418|63
+[23.03.23 23:16:04] enchant_skills Sadiko|Failed to safe enchant|401|to+418|63
+[23.03.23 23:16:04] enchant_skills Sadiko|Successfully safe enchanted|401|to+418|63
+[23.03.23 23:16:05] enchant_skills Sadiko|Successfully safe enchanted|401|to+419|61
+[23.03.23 23:16:05] enchant_skills Sadiko|Successfully safe enchanted|401|to+420|59
+[23.03.23 23:16:05] enchant_skills Sadiko|Successfully safe enchanted|401|to+421|57
+[23.03.23 23:16:06] enchant_skills Sadiko|Failed to safe enchant|401|to+422|55
+[23.03.23 23:16:06] enchant_skills Sadiko|Successfully safe enchanted|401|to+422|55
+[23.03.23 23:16:07] enchant_skills Sadiko|Failed to safe enchant|401|to+423|53
+[23.03.23 23:16:07] enchant_skills Sadiko|Successfully safe enchanted|401|to+423|53
+[23.03.23 23:16:08] enchant_skills Sadiko|Successfully safe enchanted|401|to+424|51
+[23.03.23 23:16:08] enchant_skills Sadiko|Failed to safe enchant|401|to+425|44
+[23.03.23 23:16:08] enchant_skills Sadiko|Failed to safe enchant|401|to+425|44
+[23.03.23 23:16:09] enchant_skills Sadiko|Failed to safe enchant|401|to+425|44
+[23.03.23 23:16:09] enchant_skills Sadiko|Failed to safe enchant|401|to+425|44
+[23.03.23 23:16:10] enchant_skills Sadiko|Successfully safe enchanted|401|to+425|44
+[23.03.23 23:16:10] enchant_skills Sadiko|Successfully safe enchanted|401|to+426|42
+[23.03.23 23:16:10] enchant_skills Sadiko|Failed to safe enchant|401|to+427|40
+[23.03.23 23:16:11] enchant_skills Sadiko|Failed to safe enchant|401|to+427|40
+[23.03.23 23:16:11] enchant_skills Sadiko|Failed to safe enchant|401|to+427|40
+[23.03.23 23:16:12] enchant_skills Sadiko|Failed to safe enchant|401|to+427|40
+[23.03.23 23:16:12] enchant_skills Sadiko|Failed to safe enchant|401|to+427|40
+[23.03.23 23:16:13] enchant_skills Sadiko|Successfully safe enchanted|401|to+427|40
+[23.03.23 23:16:13] enchant_skills Sadiko|Successfully safe enchanted|401|to+428|28
+[23.03.23 23:16:13] enchant_skills Sadiko|Failed to safe enchant|401|to+429|26
+[23.03.23 23:16:14] enchant_skills Sadiko|Failed to safe enchant|401|to+429|26
+[23.03.23 23:16:14] enchant_skills Sadiko|Failed to safe enchant|401|to+429|26
+[23.03.23 23:16:15] enchant_skills Sadiko|Successfully safe enchanted|401|to+429|26
+[23.03.23 23:16:15] enchant_skills Sadiko|Successfully safe enchanted|401|to+430|24
+[23.03.23 23:16:43] enchant_skills Sadiko|Successfully safe enchanted|122|to+101|97
+[23.03.23 23:16:44] enchant_skills Sadiko|Successfully safe enchanted|122|to+102|95
+[23.03.23 23:16:45] enchant_skills Sadiko|Successfully safe enchanted|122|to+103|93
+[23.03.23 23:16:45] enchant_skills Sadiko|Successfully safe enchanted|122|to+104|91
+[23.03.23 23:16:45] enchant_skills Sadiko|Successfully safe enchanted|122|to+105|89
+[23.03.23 23:16:46] enchant_skills Sadiko|Successfully safe enchanted|122|to+106|87
+[23.03.23 23:16:46] enchant_skills Sadiko|Failed to safe enchant|122|to+107|85
+[23.03.23 23:16:46] enchant_skills Sadiko|Successfully safe enchanted|122|to+107|85
+[23.03.23 23:16:47] enchant_skills Sadiko|Successfully safe enchanted|122|to+108|83
+[23.03.23 23:16:47] enchant_skills Sadiko|Successfully safe enchanted|122|to+109|81
+[23.03.23 23:16:48] enchant_skills Sadiko|Failed to safe enchant|122|to+110|79
+[23.03.23 23:16:48] enchant_skills Sadiko|Successfully safe enchanted|122|to+110|79
+[23.03.23 23:16:48] enchant_skills Sadiko|Successfully safe enchanted|122|to+111|77
+[23.03.23 23:16:49] enchant_skills Sadiko|Successfully safe enchanted|122|to+112|75
+[23.03.23 23:16:49] enchant_skills Sadiko|Failed to safe enchant|122|to+113|73
+[23.03.23 23:16:50] enchant_skills Sadiko|Successfully safe enchanted|122|to+113|73
+[23.03.23 23:16:50] enchant_skills Sadiko|Successfully safe enchanted|122|to+114|71
+[23.03.23 23:16:51] enchant_skills Sadiko|Successfully safe enchanted|122|to+115|69
+[23.03.23 23:16:51] enchant_skills Sadiko|Successfully safe enchanted|122|to+116|67
+[23.03.23 23:16:51] enchant_skills Sadiko|Failed to safe enchant|122|to+117|65
+[23.03.23 23:16:52] enchant_skills Sadiko|Successfully safe enchanted|122|to+117|65
+[23.03.23 23:16:52] enchant_skills Sadiko|Successfully safe enchanted|122|to+118|63
+[23.03.23 23:16:53] enchant_skills Sadiko|Successfully safe enchanted|122|to+119|61
+[23.03.23 23:16:53] enchant_skills Sadiko|Failed to safe enchant|122|to+120|59
+[23.03.23 23:16:54] enchant_skills Sadiko|Successfully safe enchanted|122|to+120|59
+[23.03.23 23:16:54] enchant_skills Sadiko|Failed to safe enchant|122|to+121|57
+[23.03.23 23:16:54] enchant_skills Sadiko|Failed to safe enchant|122|to+121|57
+[23.03.23 23:16:55] enchant_skills Sadiko|Successfully safe enchanted|122|to+121|57
+[23.03.23 23:16:55] enchant_skills Sadiko|Failed to safe enchant|122|to+122|55
+[23.03.23 23:16:56] enchant_skills Sadiko|Successfully safe enchanted|122|to+122|55
+[23.03.23 23:16:56] enchant_skills Sadiko|Successfully safe enchanted|122|to+123|53
+[23.03.23 23:16:57] enchant_skills Sadiko|Failed to safe enchant|122|to+124|51
+[23.03.23 23:16:57] enchant_skills Sadiko|Successfully safe enchanted|122|to+124|51
+[23.03.23 23:16:57] enchant_skills Sadiko|Successfully safe enchanted|122|to+125|44
+[23.03.23 23:16:58] enchant_skills Sadiko|Successfully safe enchanted|122|to+126|42
+[23.03.23 23:16:58] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:16:59] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:16:59] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:17:00] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:17:00] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:17:00] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:17:01] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:17:01] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:17:02] enchant_skills Sadiko|Failed to safe enchant|122|to+127|40
+[23.03.23 23:17:02] enchant_skills Sadiko|Successfully safe enchanted|122|to+127|40
+[23.03.23 23:17:03] enchant_skills Sadiko|Failed to safe enchant|122|to+128|28
+[23.03.23 23:17:03] enchant_skills Sadiko|Failed to safe enchant|122|to+128|28
+[23.03.23 23:17:04] enchant_skills Sadiko|Successfully safe enchanted|122|to+128|28
+[23.03.23 23:17:04] enchant_skills Sadiko|Failed to safe enchant|122|to+129|26
+[23.03.23 23:17:04] enchant_skills Sadiko|Failed to safe enchant|122|to+129|26
+[23.03.23 23:17:05] enchant_skills Sadiko|Failed to safe enchant|122|to+129|26
+[23.03.23 23:17:05] enchant_skills Sadiko|Successfully safe enchanted|122|to+129|26
+[23.03.23 23:17:06] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:06] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:07] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:07] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:07] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:08] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:08] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:09] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:09] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:10] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:10] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:11] enchant_skills Sadiko|Failed to safe enchant|122|to+130|24
+[23.03.23 23:17:11] enchant_skills Sadiko|Successfully safe enchanted|122|to+130|24
+[23.03.23 23:17:28] enchant_skills Sadiko|Successfully safe enchanted|288|to+101|97
+[23.03.23 23:17:29] enchant_skills Sadiko|Successfully safe enchanted|288|to+102|95
+[23.03.23 23:17:29] enchant_skills Sadiko|Successfully safe enchanted|288|to+103|93
+[23.03.23 23:17:30] enchant_skills Sadiko|Failed to safe enchant|288|to+104|91
+[23.03.23 23:17:30] enchant_skills Sadiko|Successfully safe enchanted|288|to+104|91
+[23.03.23 23:17:30] enchant_skills Sadiko|Successfully safe enchanted|288|to+105|89
+[23.03.23 23:17:31] enchant_skills Sadiko|Successfully safe enchanted|288|to+106|87
+[23.03.23 23:17:31] enchant_skills Sadiko|Successfully safe enchanted|288|to+107|85
+[23.03.23 23:17:32] enchant_skills Sadiko|Successfully safe enchanted|288|to+108|83
+[23.03.23 23:17:32] enchant_skills Sadiko|Successfully safe enchanted|288|to+109|81
+[23.03.23 23:17:32] enchant_skills Sadiko|Successfully safe enchanted|288|to+110|79
+[23.03.23 23:17:33] enchant_skills Sadiko|Successfully safe enchanted|288|to+111|77
+[23.03.23 23:17:33] enchant_skills Sadiko|Successfully safe enchanted|288|to+112|75
+[23.03.23 23:17:34] enchant_skills Sadiko|Successfully safe enchanted|288|to+113|73
+[23.03.23 23:17:34] enchant_skills Sadiko|Successfully safe enchanted|288|to+114|71
+[23.03.23 23:17:35] enchant_skills Sadiko|Successfully safe enchanted|288|to+115|69
+[23.03.23 23:17:35] enchant_skills Sadiko|Successfully safe enchanted|288|to+116|67
+[23.03.23 23:17:35] enchant_skills Sadiko|Successfully safe enchanted|288|to+117|65
+[23.03.23 23:17:36] enchant_skills Sadiko|Successfully safe enchanted|288|to+118|63
+[23.03.23 23:17:36] enchant_skills Sadiko|Successfully safe enchanted|288|to+119|61
+[23.03.23 23:17:37] enchant_skills Sadiko|Failed to safe enchant|288|to+120|59
+[23.03.23 23:17:37] enchant_skills Sadiko|Successfully safe enchanted|288|to+120|59
+[23.03.23 23:17:38] enchant_skills Sadiko|Successfully safe enchanted|288|to+121|57
+[23.03.23 23:17:38] enchant_skills Sadiko|Failed to safe enchant|288|to+122|55
+[23.03.23 23:17:39] enchant_skills Sadiko|Successfully safe enchanted|288|to+122|55
+[23.03.23 23:17:39] enchant_skills Sadiko|Successfully safe enchanted|288|to+123|53
+[23.03.23 23:17:39] enchant_skills Sadiko|Successfully safe enchanted|288|to+124|51
+[23.03.23 23:17:40] enchant_skills Sadiko|Failed to safe enchant|288|to+125|44
+[23.03.23 23:17:40] enchant_skills Sadiko|Failed to safe enchant|288|to+125|44
+[23.03.23 23:17:41] enchant_skills Sadiko|Failed to safe enchant|288|to+125|44
+[23.03.23 23:17:41] enchant_skills Sadiko|Failed to safe enchant|288|to+125|44
+[23.03.23 23:17:42] enchant_skills Sadiko|Successfully safe enchanted|288|to+125|44
+[23.03.23 23:17:42] enchant_skills Sadiko|Successfully safe enchanted|288|to+126|42
+[23.03.23 23:17:43] enchant_skills Sadiko|Successfully safe enchanted|288|to+127|40
+[23.03.23 23:17:43] enchant_skills Sadiko|Failed to safe enchant|288|to+128|28
+[23.03.23 23:17:44] enchant_skills Sadiko|Failed to safe enchant|288|to+128|28
+[23.03.23 23:17:44] enchant_skills Sadiko|Failed to safe enchant|288|to+128|28
+[23.03.23 23:17:45] enchant_skills Sadiko|Failed to safe enchant|288|to+128|28
+[23.03.23 23:17:45] enchant_skills Sadiko|Failed to safe enchant|288|to+128|28
+[23.03.23 23:17:45] enchant_skills Sadiko|Successfully safe enchanted|288|to+128|28
+[23.03.23 23:17:46] enchant_skills Sadiko|Failed to safe enchant|288|to+129|26
+[23.03.23 23:17:46] enchant_skills Sadiko|Failed to safe enchant|288|to+129|26
+[23.03.23 23:17:47] enchant_skills Sadiko|Successfully safe enchanted|288|to+129|26
+[23.03.23 23:17:47] enchant_skills Sadiko|Failed to safe enchant|288|to+130|24
+[23.03.23 23:17:48] enchant_skills Sadiko|Failed to safe enchant|288|to+130|24
+[23.03.23 23:17:48] enchant_skills Sadiko|Failed to safe enchant|288|to+130|24
+[23.03.23 23:17:49] enchant_skills Sadiko|Failed to safe enchant|288|to+130|24
+[23.03.23 23:17:49] enchant_skills Sadiko|Successfully safe enchanted|288|to+130|24
+[23.03.23 23:18:11] enchant_skills Sadiko|Successfully safe enchanted|322|to+101|97
+[23.03.23 23:18:11] enchant_skills Sadiko|Successfully safe enchanted|322|to+102|95
+[23.03.23 23:18:12] enchant_skills Sadiko|Successfully safe enchanted|322|to+103|93
+[23.03.23 23:18:12] enchant_skills Sadiko|Successfully safe enchanted|322|to+104|91
+[23.03.23 23:18:13] enchant_skills Sadiko|Successfully safe enchanted|322|to+105|89
+[23.03.23 23:18:13] enchant_skills Sadiko|Successfully safe enchanted|322|to+106|87
+[23.03.23 23:18:13] enchant_skills Sadiko|Successfully safe enchanted|322|to+107|85
+[23.03.23 23:18:14] enchant_skills Sadiko|Successfully safe enchanted|322|to+108|83
+[23.03.23 23:18:14] enchant_skills Sadiko|Successfully safe enchanted|322|to+109|81
+[23.03.23 23:18:15] enchant_skills Sadiko|Successfully safe enchanted|322|to+110|79
+[23.03.23 23:18:15] enchant_skills Sadiko|Successfully safe enchanted|322|to+111|77
+[23.03.23 23:18:15] enchant_skills Sadiko|Successfully safe enchanted|322|to+112|75
+[23.03.23 23:18:16] enchant_skills Sadiko|Failed to safe enchant|322|to+113|73
+[23.03.23 23:18:16] enchant_skills Sadiko|Failed to safe enchant|322|to+113|73
+[23.03.23 23:18:17] enchant_skills Sadiko|Successfully safe enchanted|322|to+113|73
+[23.03.23 23:18:17] enchant_skills Sadiko|Successfully safe enchanted|322|to+114|71
+[23.03.23 23:18:18] enchant_skills Sadiko|Successfully safe enchanted|322|to+115|69
+[23.03.23 23:18:18] enchant_skills Sadiko|Successfully safe enchanted|322|to+116|67
+[23.03.23 23:18:19] enchant_skills Sadiko|Failed to safe enchant|322|to+117|65
+[23.03.23 23:18:19] enchant_skills Sadiko|Failed to safe enchant|322|to+117|65
+[23.03.23 23:18:19] enchant_skills Sadiko|Successfully safe enchanted|322|to+117|65
+[23.03.23 23:18:20] enchant_skills Sadiko|Successfully safe enchanted|322|to+118|63
+[23.03.23 23:18:20] enchant_skills Sadiko|Successfully safe enchanted|322|to+119|61
+[23.03.23 23:18:21] enchant_skills Sadiko|Successfully safe enchanted|322|to+120|59
+[23.03.23 23:18:21] enchant_skills Sadiko|Successfully safe enchanted|322|to+121|57
+[23.03.23 23:18:22] enchant_skills Sadiko|Failed to safe enchant|322|to+122|55
+[23.03.23 23:18:22] enchant_skills Sadiko|Failed to safe enchant|322|to+122|55
+[23.03.23 23:18:23] enchant_skills Sadiko|Successfully safe enchanted|322|to+122|55
+[23.03.23 23:18:23] enchant_skills Sadiko|Successfully safe enchanted|322|to+123|53
+[23.03.23 23:18:24] enchant_skills Sadiko|Failed to safe enchant|322|to+124|51
+[23.03.23 23:18:24] enchant_skills Sadiko|Failed to safe enchant|322|to+124|51
+[23.03.23 23:18:24] enchant_skills Sadiko|Successfully safe enchanted|322|to+124|51
+[23.03.23 23:18:25] enchant_skills Sadiko|Failed to safe enchant|322|to+125|44
+[23.03.23 23:18:25] enchant_skills Sadiko|Successfully safe enchanted|322|to+125|44
+[23.03.23 23:18:26] enchant_skills Sadiko|Successfully safe enchanted|322|to+126|42
+[23.03.23 23:18:26] enchant_skills Sadiko|Successfully safe enchanted|322|to+127|40
+[23.03.23 23:18:27] enchant_skills Sadiko|Failed to safe enchant|322|to+128|28
+[23.03.23 23:18:27] enchant_skills Sadiko|Successfully safe enchanted|322|to+128|28
+[23.03.23 23:18:28] enchant_skills Sadiko|Failed to safe enchant|322|to+129|26
+[23.03.23 23:18:28] enchant_skills Sadiko|Failed to safe enchant|322|to+129|26
+[23.03.23 23:18:29] enchant_skills Sadiko|Failed to safe enchant|322|to+129|26
+[23.03.23 23:18:29] enchant_skills Sadiko|Successfully safe enchanted|322|to+129|26
+[23.03.23 23:18:29] enchant_skills Sadiko|Successfully safe enchanted|322|to+130|24
+[23.03.23 23:18:55] enchant_skills Sadiko|Successfully safe enchanted|335|to+101|97
+[23.03.23 23:18:55] enchant_skills Sadiko|Successfully safe enchanted|335|to+102|95
+[23.03.23 23:18:56] enchant_skills Sadiko|Successfully safe enchanted|335|to+103|93
+[23.03.23 23:18:56] enchant_skills Sadiko|Successfully safe enchanted|335|to+104|91
+[23.03.23 23:18:57] enchant_skills Sadiko|Successfully safe enchanted|335|to+105|89
+[23.03.23 23:18:57] enchant_skills Sadiko|Successfully safe enchanted|335|to+106|87
+[23.03.23 23:18:58] enchant_skills Sadiko|Successfully safe enchanted|335|to+107|85
+[23.03.23 23:53:57] enchant_skills Sadiko|Successfully safe enchanted|335|to+108|83
+[23.03.23 23:54:00] enchant_skills Sadiko|Successfully safe enchanted|335|to+109|81
+[23.03.23 23:54:01] enchant_skills Sadiko|Successfully safe enchanted|335|to+110|74
+[23.03.23 23:54:02] enchant_skills Sadiko|Successfully safe enchanted|335|to+111|72
+[23.03.23 23:54:02] enchant_skills Sadiko|Successfully safe enchanted|335|to+112|70
+[23.03.23 23:59:26] bosses Spawned Baium, awake by: Sadiko[268520996]

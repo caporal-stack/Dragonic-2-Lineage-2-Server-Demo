@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Medals -->
+
+<list>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="50"/>
+
+		<!-- Iron Bracelet -->
+		<production count="1" id="9589" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="100"/>
+
+		<!-- Bronze Bracelet -->
+		<production count="1" id="9590" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="150"/>
+
+		<!-- Steel Bracelet -->
+		<production count="1" id="9591" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="300"/>
+
+		<!-- Enhanced Steel Bracelet -->
+		<production count="1" id="10209" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="400"/>
+
+		<!-- Mithril Bracelet -->
+		<production count="1" id="9592" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="500"/>
+
+		<!-- Enhanced Mithril Bracelet -->
+		<production count="1" id="10210" />
+	</item>
+
+</list>

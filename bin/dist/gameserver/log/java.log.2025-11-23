@@ -1,0 +1,388 @@
+[23.11.25 00:00:03:124]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 00:00:28:191]  INFO olympiad.CompEndTask: Olympiad System: Olympiad Game Ended
+[23.11.25 00:00:28:193]  INFO olympiad.Olympiad: Olympiad System: Competition Period Starts in 0 days, 18 hours and 0 mins.
+[23.11.25 00:00:28:193]  INFO olympiad.Olympiad: Olympiad System: Event starts/started: Sun Nov 23 18:00:28 PST 2025
+[23.11.25 00:06:00:715]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 00:06:00:715]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 00:06:00:715]  INFO fightclubmanager.FightClubEventManager: Last Hero: Removing room because it doesnt have enough players
+[23.11.25 00:38:29:341]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 00:50:27:499]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 00:55:27 PST 2025
+[22.11.25 16:00:35:701]  INFO threading.RunnableImpl: Manor System: Next period approved
+[22.11.25 16:05:36:418]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 16:05:36:418]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 16:05:36:418]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[22.11.25 16:38:05:044]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 16:50:03:318]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 16:55:03 PST 2025
+[22.11.25 17:05:36:417]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 17:05:36:577]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 17:05:36:577]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[22.11.25 17:06:00:424]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 17:06:00:424]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 17:06:00:424]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[22.11.25 17:09:09:164]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[22.11.25 17:09:09:172]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[22.11.25 17:09:09:176]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[22.11.25 17:09:09:204]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[22.11.25 17:09:09:209]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[22.11.25 17:09:09:214]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[22.11.25 17:09:09:220]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[22.11.25 17:09:09:224]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[22.11.25 17:09:09:228]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[22.11.25 17:09:09:232]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[22.11.25 17:09:09:234]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[22.11.25 17:09:09:238]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[22.11.25 17:09:09:240]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[22.11.25 17:38:05:044]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 17:50:03:434]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 17:55:03 PST 2025
+[22.11.25 17:59:38:230]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[22.11.25 18:05:36:417]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 18:05:36:417]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 18:05:36:417]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[22.11.25 18:06:00:439]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 18:06:00:439]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 18:06:00:439]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[22.11.25 18:06:11:325] ERROR impl.SelectorThread: Incorrect packet size : 58818! Client : CONNECTED IP: 35.203.211.78. Closing connection. Packet:-62
+[22.11.25 18:06:34:525] ERROR impl.SelectorThread: Incorrect packet size : 40576! Client : CONNECTED IP: 35.203.211.78. Closing connection. Packet:-128
+[22.11.25 18:38:05:045]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 18:39:09:220]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[22.11.25 18:50:03:540]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 18:55:03 PST 2025
+[22.11.25 18:59:35:702]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[22.11.25 19:05:36:577]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 19:05:36:577]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 19:05:36:577]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[22.11.25 19:06:00:458]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 19:06:00:458]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 19:06:00:458]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[22.11.25 19:38:05:042]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 19:50:03:654]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 19:55:03 PST 2025
+[22.11.25 20:00:35:701]  INFO threading.RunnableImpl: Manor System: Under maintenance mode started
+[22.11.25 20:05:36:432]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 20:05:36:432]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 20:05:36:432]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[22.11.25 20:06:00:578]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 20:06:00:578]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 20:06:00:578]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[22.11.25 20:06:35:700]  INFO threading.RunnableImpl: Manor System: Next period started
+[22.11.25 20:38:05:042]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 20:50:03:760]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 20:55:03 PST 2025
+[22.11.25 21:05:36:419]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 21:05:36:419]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 21:05:36:419]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[22.11.25 21:06:00:499]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 21:06:00:499]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 21:06:00:499]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[22.11.25 21:29:36:244]  INFO tasks.TaskNevitSystem: Navit System Global Task: launched.
+[22.11.25 21:29:36:244]  INFO tasks.TaskRecom: Recommendation Global Task: launched.
+[22.11.25 21:29:36:244]  INFO tasks.TaskRecom: Recommendation Global Task: completed.
+[22.11.25 21:29:36:244]  INFO tasks.TaskNevitSystem: Navit System Task: completed.
+[22.11.25 21:38:05:042]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 21:39:35:881]  INFO dao.DatabaseBackupManager: Executing CMD: [mysqldump, DRAGONIC2, -r, C:\Users\SAMSUNG\Documents\backup\server\Dragonic 2-Compiled\gameserver\log\backups\DRAGONIC2 2025-11-22 21.39.sql]
+[22.11.25 21:39:35:894] ERROR dao.DatabaseBackupManager: Error while making Backup!
+java.io.IOException: Cannot run program "mysqldump": CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(Unknown Source)
+	at java.lang.Runtime.exec(Unknown Source)
+	at java.lang.Runtime.exec(Unknown Source)
+	at l2f.gameserver.dao.DatabaseBackupManager.executeCMD(DatabaseBackupManager.java:67)
+	at l2f.gameserver.dao.DatabaseBackupManager.doBackup(DatabaseBackupManager.java:57)
+	at l2f.gameserver.taskmanager.BackupTaskManager$AutoBackup.runImpl(BackupTaskManager.java:76)
+	at l2f.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(Unknown Source)
+	at java.lang.ProcessImpl.start(Unknown Source)
+	... 14 more
+[22.11.25 21:39:35:899]  INFO taskmanager.BackupTaskManager: Backup finished. Server frozen for 0 seconds!
+[22.11.25 21:39:35:899]  INFO taskmanager.BackupTaskManager: Next Auto Backup in 9 H.
+[22.11.25 21:50:03:874]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 21:55:03 PST 2025
+[22.11.25 21:59:38:209]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[22.11.25 22:05:36:428]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 22:05:36:428]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 22:05:36:428]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[22.11.25 22:06:00:433]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 22:06:00:433]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 22:06:00:433]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[22.11.25 22:38:05:042]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 22:50:03:988]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 22:55:03 PST 2025
+[22.11.25 22:59:35:701]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[22.11.25 23:05:36:417]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 23:05:36:417]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 23:05:36:417]  INFO fightclubmanager.FightClubEventManager: Last Hero: Removing room because it doesnt have enough players
+[22.11.25 23:06:00:433]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[22.11.25 23:06:00:433]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[22.11.25 23:06:00:433]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[22.11.25 23:38:05:042]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[22.11.25 23:39:08:983]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[22.11.25 23:39:08:988]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[22.11.25 23:39:08:990]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[22.11.25 23:39:08:995]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[22.11.25 23:39:08:998]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[22.11.25 23:39:09:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[22.11.25 23:39:09:007]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[22.11.25 23:39:09:011]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[22.11.25 23:39:09:014]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[22.11.25 23:39:09:017]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[22.11.25 23:39:09:020]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[22.11.25 23:39:09:023]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[22.11.25 23:39:09:025]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[22.11.25 23:50:04:104]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 22 23:55:04 PST 2025
+[23.11.25 00:06:00:447]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 00:06:00:447]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 00:06:00:447]  INFO fightclubmanager.FightClubEventManager: Last Hero: Removing room because it doesnt have enough players
+[23.11.25 00:38:05:042]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 00:49:36:315]  INFO threading.RunnableImpl: Lottery: Stopping ticket sell for lottery #142.
+[23.11.25 00:50:04:217]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 00:55:04 PST 2025
+[23.11.25 00:59:36:316]  INFO threading.RunnableImpl: Lottery: Ending lottery #142.
+[23.11.25 00:59:36:316]  INFO threading.RunnableImpl: Lottery: The lucky numbers are 7, 14, 16, 12, 20.
+[23.11.25 00:59:36:316]  INFO threading.RunnableImpl: Lottery: Encoded lucky numbers are 43072, 8
+[23.11.25 00:59:36:317]  INFO threading.RunnableImpl: Lottery: Jackpot for next lottery is 50000.
+[23.11.25 01:00:36:485]  INFO games.LotteryManager: Lottery: Starting ticket sell for lottery #143.
+[23.11.25 01:06:00:426]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 01:06:00:426]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 01:06:00:426]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[23.11.25 01:09:09:242]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[23.11.25 01:38:05:041]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 01:50:04:353]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 01:55:04 PST 2025
+[23.11.25 01:59:35:700]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 02:06:00:459]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 02:06:00:459]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 02:06:00:459]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[23.11.25 02:38:05:042]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 02:50:04:502]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 02:55:04 PST 2025
+[23.11.25 02:59:35:701]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 03:06:00:458]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 03:06:00:458]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 03:06:00:458]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[23.11.25 03:38:05:040]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 03:42:18:295]  WARN community.CommunityBoard: Error while update <?news?>
+[23.11.25 03:42:18:296]  WARN community.CommunityBoard: Error while update <?news?>
+[23.11.25 03:50:04:591]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 03:55:04 PST 2025
+[23.11.25 04:06:00:577]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 04:06:00:577]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 04:06:00:577]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[23.11.25 04:38:05:044]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 04:50:04:680]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 04:55:04 PST 2025
+[23.11.25 05:06:00:498]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 05:06:00:498]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 05:06:00:498]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[23.11.25 05:38:05:040]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 05:50:04:787]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 05:55:04 PST 2025
+[23.11.25 05:59:35:699]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 06:00:35:698]  INFO threading.RunnableImpl: Manor System: Next period approved
+[23.11.25 06:06:00:462]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 06:06:00:462]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 06:06:00:462]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[23.11.25 06:06:58:083] ERROR impl.SelectorThread: Incorrect packet size : 58818! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:-62
+[23.11.25 06:09:08:986]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[23.11.25 06:09:08:991]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[23.11.25 06:09:08:993]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[23.11.25 06:09:08:998]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[23.11.25 06:09:09:002]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[23.11.25 06:09:09:007]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[23.11.25 06:09:09:012]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[23.11.25 06:09:09:016]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[23.11.25 06:09:09:019]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[23.11.25 06:09:09:022]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[23.11.25 06:09:09:024]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[23.11.25 06:09:09:027]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[23.11.25 06:09:09:053]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[23.11.25 06:09:46:954] ERROR impl.SelectorThread: Incorrect packet size : 0! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:09:49:390] ERROR impl.SelectorThread: Incorrect packet size : 0! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:09:51:802] ERROR impl.SelectorThread: Incorrect packet size : 0! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:10:12:786] ERROR impl.SelectorThread: Incorrect packet size : 48889! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:-7
+[23.11.25 06:10:15:175] ERROR impl.SelectorThread: Incorrect packet size : 33840! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:48
+[23.11.25 06:11:03:657] ERROR impl.SelectorThread: Incorrect packet size : 33542! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:6
+[23.11.25 06:11:24:626] ERROR impl.SelectorThread: Incorrect packet size : 39936! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:11:39:438] ERROR impl.SelectorThread: Incorrect packet size : 0! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:12:20:811] ERROR impl.SelectorThread: Incorrect packet size : 62961! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:-15
+[23.11.25 06:12:23:313] ERROR impl.SelectorThread: Incorrect packet size : 0! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:12:34:930] ERROR impl.SelectorThread: Incorrect packet size : 0! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:12:58:740] ERROR impl.SelectorThread: Incorrect packet size : 0! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:0
+[23.11.25 06:13:35:039] ERROR impl.SelectorThread: Incorrect packet size : 1! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:1
+[23.11.25 06:14:14:485] ERROR impl.SelectorThread: Incorrect packet size : 49665! Client : CONNECTED IP: 101.36.121.72. Closing connection. Packet:1
+[23.11.25 06:22:07:329] ERROR impl.SelectorThread: Incorrect packet size : 58818! Client : CONNECTED IP: 162.216.150.161. Closing connection. Packet:-62
+[23.11.25 06:22:30:939] ERROR impl.SelectorThread: Incorrect packet size : 40576! Client : CONNECTED IP: 162.216.150.161. Closing connection. Packet:-128
+[23.11.25 06:38:05:039]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 06:39:59:999]  INFO dao.DatabaseBackupManager: Executing CMD: [mysqldump, DRAGONIC2, -r, C:\Users\SAMSUNG\Documents\backup\server\Dragonic 2-Compiled\gameserver\log\backups\DRAGONIC2 2025-11-23 06.39.sql]
+[23.11.25 06:40:00:002] ERROR dao.DatabaseBackupManager: Error while making Backup!
+java.io.IOException: Cannot run program "mysqldump": CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(Unknown Source)
+	at java.lang.Runtime.exec(Unknown Source)
+	at java.lang.Runtime.exec(Unknown Source)
+	at l2f.gameserver.dao.DatabaseBackupManager.executeCMD(DatabaseBackupManager.java:67)
+	at l2f.gameserver.dao.DatabaseBackupManager.doBackup(DatabaseBackupManager.java:57)
+	at l2f.gameserver.taskmanager.BackupTaskManager$AutoBackup.runImpl(BackupTaskManager.java:76)
+	at l2f.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(Unknown Source)
+	at java.lang.ProcessImpl.start(Unknown Source)
+	... 14 more
+[23.11.25 06:40:00:003]  INFO taskmanager.BackupTaskManager: Backup finished. Server frozen for 0 seconds!
+[23.11.25 06:40:00:003]  INFO taskmanager.BackupTaskManager: Next Auto Backup in 23 H., 59 Min.
+[23.11.25 06:50:05:063]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 06:55:05 PST 2025
+[23.11.25 06:59:35:700]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 07:06:00:433]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 07:06:00:433]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 07:06:00:433]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[23.11.25 07:09:09:260]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[23.11.25 07:38:05:038]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 07:50:05:151]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 07:55:05 PST 2025
+[23.11.25 08:06:00:450]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 08:06:00:450]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 08:06:00:450]  INFO fightclubmanager.FightClubEventManager: Last Hero: Removing room because it doesnt have enough players
+[23.11.25 08:38:05:038]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 08:50:05:239]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 08:55:05 PST 2025
+[23.11.25 08:59:35:697]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 08:59:35:697]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 08:59:35:697]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 08:59:35:697]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 08:59:35:697]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 09:00:03:898]  INFO olympiad.CompStartTask: Olympiad System: Olympiad Game Started
+[23.11.25 09:06:00:425]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 09:06:00:425]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 09:06:00:425]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[23.11.25 09:38:05:038]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 09:50:05:376]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 09:55:05 PST 2025
+[23.11.25 09:59:35:698]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 10:06:00:459]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 10:06:00:459]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 10:06:00:459]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[23.11.25 10:38:05:038]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 10:50:05:493]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 10:55:05 PST 2025
+[23.11.25 10:59:35:698]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 11:06:00:456]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 11:06:00:456]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 11:06:00:456]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[23.11.25 11:38:05:038]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 11:39:08:983]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[23.11.25 11:39:08:988]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[23.11.25 11:39:08:990]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[23.11.25 11:39:09:016]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[23.11.25 11:39:09:020]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[23.11.25 11:39:09:024]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[23.11.25 11:39:09:029]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[23.11.25 11:39:09:032]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[23.11.25 11:39:09:036]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[23.11.25 11:39:09:039]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[23.11.25 11:39:09:040]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[23.11.25 11:39:09:044]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[23.11.25 11:39:09:045]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[23.11.25 11:50:05:605]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 11:55:05 PST 2025
+[23.11.25 12:06:00:577]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 12:06:00:577]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 12:06:00:577]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[23.11.25 12:38:05:038]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 12:50:05:713]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 12:55:05 PST 2025
+[23.11.25 12:59:35:696]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 12:59:35:696]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 12:59:35:696]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 12:59:35:696]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 13:06:00:499]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 13:06:00:499]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 13:06:00:499]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[23.11.25 13:38:05:048]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 13:39:09:304]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[23.11.25 13:50:05:847]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 13:55:05 PST 2025
+[23.11.25 13:59:35:700]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 14:06:00:824]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 14:06:00:830]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 14:06:00:830]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[23.11.25 14:38:05:037]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 14:50:05:965]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 14:55:05 PST 2025
+[23.11.25 14:59:35:697]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 15:06:00:466]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 15:06:00:466]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 15:06:00:466]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[23.11.25 15:38:05:037]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 15:50:06:078]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 15:55:06 PST 2025
+[23.11.25 16:06:00:471]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 16:06:00:471]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 16:06:00:471]  INFO fightclubmanager.FightClubEventManager: Last Hero: Removing room because it doesnt have enough players
+[23.11.25 16:38:05:036]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 16:50:06:204]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 16:55:06 PST 2025
+[23.11.25 17:06:00:431]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 17:06:00:438]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 17:06:00:439]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[23.11.25 17:13:49:372]  WARN community.CommunityBoard: Error while update <?news?>
+[23.11.25 17:13:49:373]  WARN community.CommunityBoard: Error while update <?news?>
+[23.11.25 17:38:05:052]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 17:50:06:326]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 17:55:06 PST 2025
+[23.11.25 17:59:35:696]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 18:00:00:001]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 18:00:00:001]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 18:00:00:001]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 18:00:00:017]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 18:00:00:017]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 18:06:00:537]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 18:06:00:537]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 18:06:00:537]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[23.11.25 18:09:09:048]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[23.11.25 18:09:09:057]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[23.11.25 18:09:09:061]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[23.11.25 18:09:09:069]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[23.11.25 18:09:09:075]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[23.11.25 18:09:09:081]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[23.11.25 18:09:09:087]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[23.11.25 18:09:09:091]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[23.11.25 18:09:09:096]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[23.11.25 18:09:09:100]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[23.11.25 18:09:09:102]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[23.11.25 18:09:09:105]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[23.11.25 18:09:09:107]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[23.11.25 18:38:05:041]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 18:50:06:445]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 18:55:06 PST 2025
+[23.11.25 18:59:35:696]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 19:06:00:474]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 19:06:00:474]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 19:06:00:474]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[23.11.25 19:22:55:285] ERROR impl.SelectorThread: Incorrect packet size : 58818! Client : CONNECTED IP: 35.203.210.209. Closing connection. Packet:-62
+[23.11.25 19:23:16:194] ERROR impl.SelectorThread: Incorrect packet size : 40576! Client : CONNECTED IP: 35.203.210.209. Closing connection. Packet:-128
+[23.11.25 19:38:05:036]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 19:50:06:593]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 19:55:06 PST 2025
+[23.11.25 20:00:35:819]  INFO threading.RunnableImpl: Manor System: Under maintenance mode started
+[23.11.25 20:06:00:580]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 20:06:00:580]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 20:06:00:580]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[23.11.25 20:06:35:694]  INFO threading.RunnableImpl: Manor System: Next period started
+[23.11.25 20:38:05:035]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 20:39:09:587]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[23.11.25 20:50:06:687]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 20:55:06 PST 2025
+[23.11.25 21:06:00:539]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 21:06:00:539]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 21:06:00:539]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[23.11.25 21:29:36:240]  INFO tasks.TaskNevitSystem: Navit System Global Task: launched.
+[23.11.25 21:29:36:242]  INFO tasks.TaskNevitSystem: Navit System Task: completed.
+[23.11.25 21:29:36:241]  INFO tasks.TaskRecom: Recommendation Global Task: launched.
+[23.11.25 21:29:36:242]  INFO tasks.TaskRecom: Recommendation Global Task: completed.
+[23.11.25 21:38:05:039]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 21:50:06:814]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 21:55:06 PST 2025
+[23.11.25 21:59:35:695]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 21:59:59:998]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 21:59:59:998]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 21:59:59:998]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 22:00:00:000]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[23.11.25 22:06:00:712]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 22:06:00:712]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 22:06:00:712]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[23.11.25 22:38:05:038]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 22:50:06:940]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 22:55:06 PST 2025
+[23.11.25 22:59:35:695]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[23.11.25 23:06:00:491]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[23.11.25 23:06:00:491]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[23.11.25 23:06:00:491]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[23.11.25 23:38:05:035]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[23.11.25 23:50:07:029]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Nov 23 23:55:07 PST 2025

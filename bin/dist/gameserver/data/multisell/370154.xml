@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Glitterings -->
+
+<list>
+	<item>
+		<!-- Golden Goblet -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Fenrir -->
+		<production count="1" id="10426" />
+	</item>
+	<item>
+		<!-- Golden Goblet -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Snow Fenrir -->
+		<production count="1" id="10611" />
+	</item>
+	<item>
+		<!-- Golden Goblet -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Red Strider -->
+		<production count="1" id="10308" />
+	</item>
+	<item>
+		<!-- Golden Goblet -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Red Strider -->
+		<production count="1" id="10309" />
+	</item>
+	<item>
+		<!-- Golden Goblet -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Red Strider -->
+		<production count="1" id="10310" />
+	</item>
+	<item>
+		<!-- Golden Goblet -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Dragon Strider -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="3500" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="3501" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="3502" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="6648" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="6649" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="6650" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="10311" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="10312" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="10313" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="6393" />
+
+		<!-- Pet -->
+		<production count="1" id="2375" />
+	</item>	
+</list>

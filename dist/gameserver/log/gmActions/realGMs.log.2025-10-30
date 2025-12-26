@@ -1,0 +1,89 @@
+[30.10.25 06:06:10] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:06:12] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 06:06:13] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[30.10.25 06:06:14] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[30.10.25 06:06:15] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[30.10.25 06:19:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:19:09] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[30.10.25 06:19:10] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[30.10.25 06:23:57] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:23:58] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 06:23:59] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[30.10.25 06:24:01] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:24:03] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 06:24:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/others.htm
+[30.10.25 06:24:08] SUCCESS VastoLordes[268481608] admin_move_to -113360 -244676 -15536
+[30.10.25 06:25:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:25:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 06:25:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/others.htm
+[30.10.25 06:25:09] SUCCESS VastoLordes[268481608] admin_move_to -113360 -244676 -15536
+[30.10.25 06:25:20] SUCCESS VastoLordes[268481608] admin_spawn 22797
+[30.10.25 06:27:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:27:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 06:27:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[30.10.25 06:27:08] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[30.10.25 06:27:09] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[30.10.25 06:28:46] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_invul
+[30.10.25 06:28:51] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_vis
+[30.10.25 06:31:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:31:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 06:31:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[30.10.25 06:31:08] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[30.10.25 06:31:09] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[30.10.25 06:31:38] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 06:31:41] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_invul
+[30.10.25 06:33:34] SUCCESS VastoLordes[268481608] -> 29021 Archangel admin_kill
+[30.10.25 06:33:41] SUCCESS VastoLordes[268481608] -> 29021 Archangel admin_kill
+[30.10.25 06:33:48] SUCCESS VastoLordes[268481608] -> 29021 Archangel admin_kill
+[30.10.25 06:34:04] SUCCESS VastoLordes[268481608] -> 29021 Archangel admin_kill
+[30.10.25 06:37:53] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_add_exp_sp_to_character
+[30.10.25 06:37:59] FAIL    VastoLordes[268481608] -> VastoLordes[268481608] admin_setlevel
+[30.10.25 06:38:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_add_exp_sp_to_character
+[30.10.25 06:38:13] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_setlevel 80
+[30.10.25 07:42:36] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 07:42:39] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 07:42:42] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/others.htm
+[30.10.25 07:42:43] SUCCESS VastoLordes[268481608] admin_move_to -113360 -244676 -15536
+[30.10.25 07:42:52] SUCCESS VastoLordes[268481608] admin_vis
+[30.10.25 09:47:36] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 09:47:38] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[30.10.25 09:47:40] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[30.10.25 09:47:41] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_character_list Alin2001
+[30.10.25 09:47:42] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_recall_char_menu Alin2001
+[30.10.25 09:47:59] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_vis
+[30.10.25 10:09:05] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_invul
+[30.10.25 10:09:50] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_goto_char_menu VastoLordes
+[30.10.25 10:09:51] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 10:09:52] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 10:09:53] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[30.10.25 10:09:53] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[30.10.25 10:09:54] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[30.10.25 10:09:59] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 10:09:59] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[30.10.25 10:10:01] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[30.10.25 10:10:02] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_character_list Alin2001
+[30.10.25 10:10:04] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_recall_char_menu Alin2001
+[30.10.25 10:12:54] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 10:12:55] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 10:12:56] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[30.10.25 10:12:57] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[30.10.25 10:12:58] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[30.10.25 10:24:18] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 10:24:19] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[30.10.25 10:24:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[30.10.25 10:24:22] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_character_list Alin2001
+[30.10.25 10:24:23] SUCCESS VastoLordes[268481608] admin_goto_char_menu Alin2001
+[30.10.25 13:37:03] SUCCESS VastoLordes[268481608] admin_vis
+[30.10.25 13:39:19] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 13:39:21] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[30.10.25 13:39:22] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[30.10.25 13:39:24] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_character_list Alin2001
+[30.10.25 13:39:25] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_recall_char_menu Alin2001
+[30.10.25 13:52:15] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_admin
+[30.10.25 13:52:24] SUCCESS VastoLordes[268481608] -> Alin2001[268481717] admin_heal
+[30.10.25 13:56:21] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[30.10.25 13:56:22] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_moves
+[30.10.25 13:56:23] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town.htm
+[30.10.25 13:56:24] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_html teleports/town/giran.htm
+[30.10.25 13:56:25] SUCCESS VastoLordes[268481608] admin_move_to 82698 148638 -3473
+[30.10.25 14:03:06] SUCCESS VastoLordes[268481608] admin_spawn 53000

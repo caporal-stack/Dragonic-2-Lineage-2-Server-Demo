@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Pets -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+
+  <!-- Improved Buffalo Panpipe -->
+  <item id="1">
+    <production id="10311" count="1"/>     
+	<ingredient id="10639" count="50"/>
+  </item>
+
+  <!-- Improved Cougar Chime -->
+  <item id="2">
+    <production id="10312" count="1"/>     
+	<ingredient id="10639" count="50"/>
+  </item>
+
+  <!-- Improved Kookaburra Ocarina -->
+  <item id="3">
+    <production id="10313" count="1"/>     
+	<ingredient id="10639" count="50"/>
+  </item>
+
+  <!-- Fenrir Necklace -->
+  <item id="4">
+    <production id="10426" count="1"/>     
+	<ingredient id="10639" count="200"/>
+  </item>
+
+  <!-- Dragon Bugle of Star -->
+  <item id="5">
+    <production id="4423" count="1"/>     
+	<ingredient id="10639" count="200"/>
+  </item>
+
+  <!-- Dragon Bugle of Twilight -->
+  <item id="6">
+    <production id="4424" count="1"/>     
+	<ingredient id="10639" count="200"/>
+  </item>
+
+  <!-- Dragon Bugle of Wind -->
+  <item id="7">
+    <production id="4422" count="1"/>     
+	<ingredient id="10639" count="200"/>
+  </item>
+
+
+
+
+</list>
