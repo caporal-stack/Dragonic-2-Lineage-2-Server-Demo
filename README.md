@@ -24,6 +24,6 @@ Custom Lineage II HF server source with Community Board auctions, ranking, and d
 3. **Build the project**
    ```bash
    mvn clean install
-4. **Premium Pack price: 500€, Updated to match the current market demand and to make the project accessible to more buyers**
+4. **Premium Pack price: 500€, "updated to match the current market demand and to make the project accessible to more buyers"**
 5. **For payment contact me at: "nestlejoe30@gmail.com"**
 6. **Payment method: PayPal "https://www.paypal.com/paypalme/nestlejoe30"**
