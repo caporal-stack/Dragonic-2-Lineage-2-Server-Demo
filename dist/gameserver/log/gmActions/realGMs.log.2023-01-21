@@ -1,0 +1,73 @@
+[21.01.23 04:05:08] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_add_exp_sp_to_character
+[21.01.23 04:05:12] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_setlevel 66
+[21.01.23 04:23:58] SUCCESS VastoLordes[268489491] admin_vis
+[21.01.23 04:28:12] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 04:28:14] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_itemcreate
+[21.01.23 04:28:20] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_create_item 37000 76767
+[21.01.23 04:29:15] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_add_exp_sp_to_character
+[21.01.23 04:29:23] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_setlevel 84
+[21.01.23 18:42:21] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 18:42:22] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_char_manage
+[21.01.23 18:42:22] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_characters 0
+[21.01.23 18:42:23] SUCCESS VastoLordes[268489491] -> BabaYaga[268481880] admin_character_list BabaYaga
+[21.01.23 18:42:25] SUCCESS VastoLordes[268489491] -> BabaYaga[268481880] admin_recall_char_menu BabaYaga
+[21.01.23 18:42:31] SUCCESS VastoLordes[268489491] -> BabaYaga[268481880] admin_vis
+[21.01.23 18:42:47] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 18:42:51] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_itemcreate
+[21.01.23 18:42:56] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_create_item 57 423423424324242
+[21.01.23 18:54:32] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 18:54:33] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_server admserver.htm
+[21.01.23 18:54:34] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html reload.htm
+[21.01.23 18:54:50] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_reload_shops
+[21.01.23 18:54:53] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_reload_multisell
+[21.01.23 18:55:03] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_reload_npc
+[21.01.23 18:55:15] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_reload_im
+[21.01.23 18:55:46] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 18:55:47] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_server admserver.htm
+[21.01.23 18:55:47] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_shutdown shutdown.htm
+[21.01.23 18:55:52] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_restart_seconds 10 True
+[21.01.23 18:59:34] SUCCESS VastoLordes[268489491] -> 37002 Janna admin_vis
+[21.01.23 19:54:06] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 19:54:08] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_char_manage
+[21.01.23 19:54:08] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_characters 0
+[21.01.23 19:54:10] SUCCESS VastoLordes[268489491] -> BabaYaga[268481880] admin_character_list BabaYaga
+[21.01.23 19:54:11] SUCCESS VastoLordes[268489491] admin_goto_char_menu BabaYaga
+[21.01.23 20:03:19] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 20:03:22] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_itemcreate
+[21.01.23 20:03:37] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_create_item 37000 434343
+[21.01.23 20:23:45] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 20:23:46] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_server admserver.htm
+[21.01.23 20:23:47] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html reload.htm
+[21.01.23 20:23:51] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_reload_multisell
+[21.01.23 20:47:24] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_add_exp_sp_to_character
+[21.01.23 20:47:28] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_setlevel 84
+[21.01.23 21:10:28] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 21:10:29] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_char_manage
+[21.01.23 21:10:30] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_characters 0
+[21.01.23 21:10:32] SUCCESS VastoLordes[268489491] -> BabaYaga[268481880] admin_character_list BabaYaga
+[21.01.23 21:10:33] SUCCESS VastoLordes[268489491] admin_goto_char_menu BabaYaga
+[21.01.23 21:34:35] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 21:34:37] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_server admserver.htm
+[21.01.23 21:34:38] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_shutdown shutdown.htm
+[21.01.23 21:34:40] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_restart_seconds 11 True
+[21.01.23 21:37:56] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 21:37:57] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_char_manage
+[21.01.23 21:37:59] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_characters 0
+[21.01.23 21:37:59] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 21:38:01] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_moves
+[21.01.23 21:38:02] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html teleports/town.htm
+[21.01.23 21:38:03] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html teleports/town/giran.htm
+[21.01.23 21:38:04] SUCCESS VastoLordes[268489491] admin_move_to 82698 148638 -3473
+[21.01.23 22:00:48] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[21.01.23 22:00:49] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_char_manage
+[21.01.23 22:00:49] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_characters 0
+[21.01.23 22:01:21] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_skills
+[21.01.23 22:01:29] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_skill_list
+[21.01.23 22:01:32] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_skills
+[21.01.23 22:01:37] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_get_skills
+[21.01.23 22:01:46] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_skill_list
+[21.01.23 22:02:06] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html skills/Elf/elf.htm
+[21.01.23 22:02:10] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html skills.htm
+[21.01.23 22:02:11] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_skills
+[21.01.23 22:02:21] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_skill_list
+[21.01.23 22:03:26] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_add_skill 1542 1

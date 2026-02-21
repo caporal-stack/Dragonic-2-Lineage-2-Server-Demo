@@ -1,0 +1,26 @@
+[06.01.26 01:50:23] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[06.01.26 01:50:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[06.01.26 01:50:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[06.01.26 01:50:28] SUCCESS AlinAdmin[268481608] -> VagabondNr1[268508389] admin_character_list VagabondNr1
+[06.01.26 01:52:55] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[06.01.26 01:52:55] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[06.01.26 01:52:58] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[06.01.26 01:53:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[06.01.26 01:53:01] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[06.01.26 01:53:38] SUCCESS AlinAdmin[268481608] admin_invul
+[06.01.26 01:53:40] SUCCESS AlinAdmin[268481608] admin_vis
+[06.01.26 01:54:24] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[06.01.26 01:54:27] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[06.01.26 01:54:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[06.01.26 01:54:30] SUCCESS AlinAdmin[268481608] -> VagabondNr1[268508389] admin_character_list VagabondNr1
+[06.01.26 01:54:32] SUCCESS AlinAdmin[268481608] -> VagabondNr1[268508389] admin_recall_char_menu VagabondNr1
+[06.01.26 02:05:57] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[06.01.26 02:06:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[06.01.26 02:06:01] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[06.01.26 02:06:03] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[06.01.26 02:06:04] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[06.01.26 22:02:30] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[06.01.26 22:02:31] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[06.01.26 22:02:32] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[06.01.26 22:02:34] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_character_list AlinAdmin
+[06.01.26 22:42:52] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests

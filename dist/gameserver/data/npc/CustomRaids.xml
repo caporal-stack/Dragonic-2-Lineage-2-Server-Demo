@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="60000" name="Lindvior" title="Raid Boss">
+		<set name="displayId" value="13148" />
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="Fighter" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="57" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="73" />
+		<set name="baseHpMax" value="10960000" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="100" />
+		<set name="baseINT" value="76" />
+		<set name="baseMAtk" value="15900" />
+		<set name="baseMAtkSpd" value="1972" />
+		<set name="baseMDef" value="1328" />
+		<set name="baseMEN" value="80" />
+		<set name="baseMpMax" value="30000.8" />
+		<set name="baseMpReg" value="2.1" />
+		<set name="basePAtk" value="105561" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="2615" />
+		<set name="baseRunSpd" value="372" />
+		<set name="baseSTR" value="60" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="70" />
+		<set name="baseWalkSpd" value="129" />
+		<set name="collision_height" value="700.0" />
+		<set name="collision_radius" value="300.0" />
+		<set name="level" value="87" />
+		<set name="rewardExp" value="21709536" />
+		<set name="rewardRp" value="1680" />
+		<set name="rewardSp" value="140740" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="RaidBoss" />
+		<skills>
+			<skill id="4416" level="6" /> <!--Humanoids-->
+			<skill id="4408" level="1" /> <!--HP Increase (1x)-->
+			<skill id="4409" level="1" /> <!--MP Increase (1x)-->
+			<skill id="4410" level="11" /> <!--Average P. Atk.-->
+			<skill id="4411" level="11" /> <!--Average M. Atk.-->
+			<skill id="4412" level="11" /> <!--Average P. Def.-->
+			<skill id="4413" level="11" /> <!--Average M. Def.-->
+			<skill id="4414" level="2" /> <!--Standard Type-->
+			<skill id="4415" level="3" /> <!--One-handed Sword-->
+			<skill id="6644" level="1" /> <!--Ice Queen Freya-->
+			<skill id="5463" level="1" /> <!--Water Attacks-->
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="70.0">
+				<reward item_id="15544" min="1" max="1" chance="8.5400" />	<!--Eternal Core Sword-->
+				<reward item_id="15545" min="1" max="1" chance="8.5400" />	<!--Mamba Edge-->
+				<reward item_id="15546" min="1" max="1" chance="8.5400" />	<!--Eversor Mace-->
+				<reward item_id="15547" min="1" max="1" chance="8.5400" />	<!--Contristo Hammer-->
+				<reward item_id="15548" min="1" max="1" chance="8.5400" />	<!--Lava Saw-->
+				<reward item_id="15549" min="1" max="1" chance="8.5400" />	<!--Jade Claw-->
+				<reward item_id="15550" min="1" max="1" chance="8.5400" />	<!--Demitelum-->
+				<reward item_id="15551" min="1" max="1" chance="8.5400" />	<!--Sacredium-->
+				<reward item_id="15552" min="1" max="1" chance="8.5400" />	<!--Cyclic Cane-->
+				<reward item_id="15553" min="1" max="1" chance="8.5400" />	<!--Archangel Sword-->
+				<reward item_id="15554" min="1" max="1" chance="8.5400" />	<!--Recurve Thorne Bow-->
+			</group>
+			<group chance="50.0">
+				<reward item_id="15760" min="1" max="1" chance="16.7000" />	<!--Sealed Elegia Ring-->
+				<reward item_id="15761" min="1" max="1" chance="16.6000" />	<!--Sealed Elegia Earring-->
+				<reward item_id="15762" min="1" max="1" chance="16.6000" />	<!--Sealed Elegia Necklace-->
+			</group>
+			<group chance="55.0">
+				<reward item_id="15726" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Helmet-->
+				<reward item_id="15727" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Leather Helmet-->
+				<reward item_id="15728" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Circlet-->
+				<reward item_id="15735" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Gauntlet-->
+				<reward item_id="15736" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Leather Gloves-->
+				<reward item_id="15737" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Gloves-->
+				<reward item_id="15738" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Boots-->
+				<reward item_id="15739" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Leather Boots-->
+				<reward item_id="15740" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Shoes-->
+				<reward item_id="15741" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Shield-->
+				<reward item_id="15742" min="1" max="1" chance="9.0000" />	<!--Sealed Elegia Sigil-->
+			</group>
+			<group chance="50.0">
+				<reward item_id="15729" min="1" max="1" chance="15.0000" />	<!--Sealed Elegia Breastplate-->
+				<reward item_id="15730" min="1" max="1" chance="15.0000" />	<!--Sealed Elegia Leather Breastplate-->
+				<reward item_id="15731" min="1" max="1" chance="15.0000" />	<!--Sealed Elegia Tunic-->
+				<reward item_id="15732" min="1" max="1" chance="15.0000" />	<!--Sealed Elegia Gaiter-->
+				<reward item_id="15733" min="1" max="1" chance="15.0000" />	<!--Sealed Elegia Leather Legging-->
+				<reward item_id="15734" min="1" max="1" chance="15.0000" />	<!--Sealed Elegia Stockings-->
+			</group>		
+			<group chance="100.0">
+				<reward item_id="16162" min="2" max="4" chance="45.0000" />	<!--High-Grade Life Stone -  Level 85-->
+				<reward item_id="16166" min="2" max="4" chance="40.0000" />	<!--High-Grade Life Stone -  Level 86-->
+				<reward item_id="16163" min="1" max="2" chance="25.0000" />	<!--Top-Grade Life Stone -  Level 85-->
+				<reward item_id="16167" min="1" max="2" chance="15.0000" />	<!--Top-Grade Life Stone -  Level 86-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>			
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="57" min="14000000" max="18000000" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="14052" min="500" max="1000" chance="46.0000" />	<!--Noble Enhancement Stone -->
+			</group>
+			<group chance="100.0">
+				<reward item_id="14052" min="500" max="1000" chance="46.0000" />	<!--Noble Enhancement Stone -->
+			</group>
+			<group chance="100.0">
+				<reward item_id="14052" min="500" max="1000" chance="46.0000" />	<!--Noble Enhancement Stone -->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9912" min="700" max="1000" chance="46.0000" />	<!--Knight's Epaulette -->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9912" min="700" max="1000" chance="46.0000" />	<!--Knight's Epaulette -->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9912" min="700" max="1000" chance="46.0000" />	<!--Knight's Epaulette -->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9912" min="700" max="1000" chance="46.0000" />	<!--Knight's Epaulette -->
+			</group>
+			<group chance="100.0">
+				<reward item_id="14953" min="1" max="1" chance="10.0000" />	<!--Top-grade Magic Ornament Mithril Belt PVP Physical Attack-->
+				<reward item_id="14957" min="1" max="1" chance="10.0000" />	<!--Top-grade Magic Ornament Mithril Belt PVP Skill Attack-->
+				<reward item_id="14961" min="1" max="1" chance="10.0000" />	<!--Top-grade Magic Ornament Mithril Belt PVP Defence-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="10514" min="1" max="2" chance="19.0000" />	<!--Striped Mithril Shirt CP-->
+				<reward item_id="10512" min="1" max="2" chance="10.0000" />	<!--Striped Mithril Shirt HP-->
+				<reward item_id="10513" min="1" max="2" chance="10.0000" />	<!--Striped Mithril Shirt MP-->
+			</group>			
+			<group chance="100.0">
+				<reward item_id="1538" min="1" max="59" chance="100.0000" />	<!--Blessed Scroll of Escape-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="3936" min="1" max="39" chance="100.0000" />	<!--Blessed Scroll of Resurrection-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="6577" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6578" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>			
+			<group chance="100.0">
+				<reward item_id="6577" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6578" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="6577" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6578" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="6577" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6578" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9627" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6622" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9627" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6622" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9627" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6622" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9627" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6622" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="9627" min="1" max="2" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="6622" min="1" max="3" chance="13.0435" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="37000" min="1" max="20" chance="13.0435" />	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+			</group>	
+			<group chance="100.0">
+				<reward item_id="959" min="1" max="5" chance="100.0000" />	<!--Scroll: Enchant Weapon (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="959" min="1" max="5" chance="100.0000" />	<!--Scroll: Enchant Weapon (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="959" min="1" max="5" chance="100.0000" />	<!--Scroll: Enchant Weapon (S-Grade)-->
+			</group>
+			<group chance="100.0">
+				<reward item_id="959" min="1" max="5" chance="100.0000" />	<!--Scroll: Enchant Weapon (S-Grade)-->
+			</group>
+		</rewardlist>
+    </npc>
+  	<npc id="999999" name="Son of Baium" title="Raid Boss">
+		<set name="displayId" value="13148" />
+		<set name="aggroRange" value="1000" />
+        <set name="ai_type" value="Fighter" />
+        <set name="baseAtkRange" value="40" />
+        <set name="baseCON" value="57" />
+        <set name="baseCritRate" value="40" />
+        <set name="baseDEX" value="73" />
+        <set name="baseHpMax" value="2709400" />
+        <set name="baseHpRate" value="1" />
+        <set name="baseHpReg" value="750" />
+        <set name="baseINT" value="76" />
+        <set name="baseMAtk" value="4282" />
+        <set name="baseMAtkSpd" value="2362" />
+        <set name="baseMDef" value="12005" />
+        <set name="baseMEN" value="80" />
+        <set name="baseMpMax" value="18000" />
+        <set name="baseMpReg" value="99" />
+        <set name="basePAtk" value="7285" />
+        <set name="basePAtkSpd" value="253" />
+        <set name="basePDef" value="12412" />
+        <set name="baseRunSpd" value="194" />
+        <set name="baseSTR" value="60" />
+        <set name="baseShldDef" value="0" />
+        <set name="baseShldRate" value="0" />
+        <set name="baseWIT" value="70" />
+        <set name="baseWalkSpd" value="129" />
+        <set name="collision_height" value="90.00" />
+        <set name="collision_radius" value="65.0" />
+        <set name="level" value="85" />
+        <set name="rewardExp" value="10253400" />
+        <set name="rewardRp" value="13008" />
+        <set name="rewardSp" value="1081544" />
+        <set name="shots" value="NONE" />
+        <set name="texture" value="" />
+        <set name="type" value="RaidBoss" />
+		<ai_params>
+			<set name="noRandomAnimation" value="true" />
+		</ai_params>
+		<skills>
+            <skill id="4045" level="1" />   <!--Resist Full Magic Attack-->
+            <skill id="4256" level="1" />   <!--100% stun resistance.-->
+            <skill id="4408" level="1" />   <!--HP Increase (1x)-->
+            <skill id="4409" level="1" />   <!--MP Increase (1x)-->
+            <skill id="4410" level="11" />  <!--Average P. Atk.-->
+            <skill id="4411" level="11" />  <!--Average M. Atk.-->
+            <skill id="4412" level="11" />  <!--Average P. Def.-->
+            <skill id="4413" level="11" />  <!--Average M. Def.-->
+            <skill id="4414" level="2" />   <!--Standard Type-->
+            <skill id="4416" level="1" />   <!--Undead-->
+            <skill id="4131" level="1" />   <!--Stun-->
+         </skills>
+		 <attributes>
+			<attack attribute="water" value="270" />
+			<defence attribute="fire" value="150" />
+			<defence attribute="water" value="270" />
+			<defence attribute="wind" value="100" />
+			<defence attribute="earth" value="100" />
+			<defence attribute="holy" value="100" />
+			<defence attribute="unholy" value="200" />
+		</attributes>
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward item_id="6673" min="5" max="35" chance="100.0000" />    <!--Festival Coin-->
+        </rewardlist>
+	</npc>
+</list>

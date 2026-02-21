@@ -1,0 +1,52 @@
+[19.11.25 00:01:28] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 00:01:31] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_server admserver.htm
+[19.11.25 00:01:32] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_shutdown shutdown.htm
+[19.11.25 00:01:41] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_restart_seconds 1 True
+[19.11.25 07:07:08] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 07:07:09] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[19.11.25 07:07:10] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[19.11.25 07:07:12] SUCCESS AlinAdmin[268481608] -> IonutCriss[268493484] admin_character_list IonutCriss
+[19.11.25 07:07:18] SUCCESS AlinAdmin[268481608] -> IonutCriss[268493484] admin_recall_char_menu IonutCriss
+[19.11.25 07:08:13] SUCCESS AlinAdmin[268481608] -> IonutCriss[268493484] admin_vis
+[19.11.25 07:09:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 07:09:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[19.11.25 07:09:28] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[19.11.25 07:09:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[19.11.25 07:09:33] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[19.11.25 07:09:34] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports.htm
+[19.11.25 07:09:36] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[19.11.25 07:09:38] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[19.11.25 07:09:38] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[19.11.25 07:16:55] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000a8ce admin_vis
+[19.11.25 07:21:57] SUCCESS AlinAdmin[268481608] admin_vis
+[19.11.25 07:22:34] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 07:22:39] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[19.11.25 07:22:40] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[19.11.25 07:22:41] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[19.11.25 07:22:42] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[19.11.25 07:24:58] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 07:25:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[19.11.25 07:25:01] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[19.11.25 07:25:02] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[19.11.25 07:25:04] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[19.11.25 07:25:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 07:25:14] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[19.11.25 07:25:15] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[19.11.25 07:25:18] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/aden.htm
+[19.11.25 07:25:19] SUCCESS AlinAdmin[268481608] admin_move_to 147446 4652 -340
+[19.11.25 07:26:22] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 07:26:23] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[19.11.25 07:26:24] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[19.11.25 07:26:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[19.11.25 07:26:26] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[19.11.25 18:07:47] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000a9b4 admin_vis
+[19.11.25 18:08:06] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 18:08:11] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[19.11.25 18:08:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[19.11.25 18:08:14] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[19.11.25 18:08:15] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[19.11.25 18:11:36] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[19.11.25 18:11:44] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[19.11.25 18:11:46] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[19.11.25 18:11:48] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[19.11.25 18:11:48] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Potions -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+
+  
+  <!-- Bottle of Souls -->
+	<item id="1">
+		<ingredient id="57" count="55000" />
+		<production id="10409" count="1" />
+	</item>
+  
+  <!-- Full Bottle of Souls - 5 Souls (For Combat) -->
+	<item id="2">
+		<ingredient id="57" count="15000" />
+		<production id="10411" count="1" />
+	</item>
+
+  
+
+  <!-- Greater Healing Potion -->
+  <item id="3">
+    <ingredient id="57" count="5000"/>
+    <production id="1539" count="10"/>
+  </item>
+  
+    <!-- Mana Potion -->
+  <item id="4">
+    <ingredient id="57" count="50000"/>
+    <production id="728" count="10"/>
+  </item>
+  
+
+  <!-- Elixir of Life (S-Grade) -->
+  <item id="5">
+    <ingredient id="57" count="100000"/>
+    <production id="8627" count="10"/>
+  </item>
+  
+
+
+  <!-- Elixir of Mental Strength (S-Grade) -->
+  <item id="6">
+    <ingredient id="57" count="1000000"/>
+    <production id="8633" count="10"/>
+  </item>
+
+  
+  <!-- Elixir of CP (S-Grade) -->
+  <item id="7">
+    <ingredient id="57" count="1000000"/>
+    <production id="8639" count="10"/>
+  </item>
+  
+
+
+
+</list>

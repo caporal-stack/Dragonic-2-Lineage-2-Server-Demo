@@ -1,0 +1,1603 @@
+[18.01.26 00:00:01:144]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[18.01.26 00:06:00:418]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 00:06:00:418]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 00:06:00:418]  INFO fightclubmanager.FightClubEventManager: Last Hero: Removing room because it doesnt have enough players
+[18.01.26 00:11:02:848]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 00:50:03:130]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 00:55:03 CET 2026
+[18.01.26 01:06:00:441]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 01:06:00:441]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 01:06:00:441]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[18.01.26 01:11:02:836]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 01:11:18:272]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[18.01.26 01:11:18:274]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[18.01.26 01:11:18:275]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[18.01.26 01:11:18:277]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[18.01.26 01:11:18:278]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[18.01.26 01:11:18:281]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[18.01.26 01:11:18:290]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[18.01.26 01:11:18:291]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[18.01.26 01:11:18:293]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[18.01.26 01:11:18:294]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[18.01.26 01:11:18:294]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[18.01.26 01:11:18:295]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[18.01.26 01:11:18:296]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[18.01.26 01:12:19:709]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 01:12:28:691]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 01:13:02:089]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 01:13:02:089]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 01:47:30:315]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 01:47:46:359]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 01:47:58:036]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 01:48:47:409]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 01:48:47:409]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 01:49:43:718]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 01:50:03:197]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 01:55:03 CET 2026
+[18.01.26 02:00:17:060]  INFO olympiad.CompEndTask: Olympiad System: Olympiad Game Ended
+[18.01.26 02:00:17:062]  INFO olympiad.Olympiad: Olympiad System: Competition Period Starts in 0 days, 18 hours and 0 mins.
+[18.01.26 02:00:17:062]  INFO olympiad.Olympiad: Olympiad System: Event starts/started: Sun Jan 18 20:00:17 CET 2026
+[18.01.26 02:06:00:432]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 02:06:00:432]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 02:06:00:432]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[18.01.26 02:11:02:844]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 02:12:29:085]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 02:13:27:349]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 02:13:27:349]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 02:41:18:373]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[18.01.26 02:50:03:281]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 02:55:03 CET 2026
+[18.01.26 03:00:00:921]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[18.01.26 03:06:00:409]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 03:06:00:409]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 03:06:00:409]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[18.01.26 03:11:02:836]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 03:13:26:676]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 03:14:10:273]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:10:274]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:20:524]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:20:525]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:070]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:070]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:092]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:093]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:134]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:135]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:239]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:239]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:284]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:284]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:384]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:384]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:427]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:427]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:528]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:21:528]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:14:44:188]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 03:15:31:675]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:15:31:675]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:15:41:196]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:15:41:196]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:16:46:049]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 03:17:08:867]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 03:17:55:466]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:17:55:466]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 03:19:49:545]  INFO clientpackets.ProtocolVersion: Status HWID MAC : 6C71D9D8CF65
+[18.01.26 03:50:03:319]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 03:55:03 CET 2026
+[18.01.26 04:00:00:993]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[18.01.26 04:06:00:405]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 04:06:00:405]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 04:06:00:405]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[18.01.26 04:11:02:842]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 04:50:03:357]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 04:55:03 CET 2026
+[18.01.26 05:06:00:406]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 05:06:00:406]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 05:06:00:406]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[18.01.26 05:09:16:511] ERROR impl.SelectorThread: Incorrect packet size : 58818! Client : CONNECTED IP: 35.203.210.62. Closing connection. Packet:-62
+[18.01.26 05:09:54:459] ERROR impl.SelectorThread: Incorrect packet size : 40576! Client : CONNECTED IP: 35.203.210.62. Closing connection. Packet:-128
+[18.01.26 05:11:02:836]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 05:50:03:406]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 05:55:03 CET 2026
+[18.01.26 06:00:00:001]  INFO threading.RunnableImpl: Manor System: Next period approved
+[18.01.26 06:06:00:426]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 06:06:00:426]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 06:06:00:426]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[18.01.26 06:11:02:840]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 06:30:00:101]  INFO tasks.TaskRecom: Recommendation Global Task: launched.
+[18.01.26 06:30:00:101]  INFO tasks.TaskRecom: Recommendation Global Task: completed.
+[18.01.26 06:30:00:101]  INFO tasks.TaskNevitSystem: Navit System Global Task: launched.
+[18.01.26 06:30:00:102]  INFO tasks.TaskNevitSystem: Navit System Task: completed.
+[18.01.26 06:50:03:445]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 06:55:03 CET 2026
+[18.01.26 07:00:00:858]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[18.01.26 07:06:00:440]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 07:06:00:440]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 07:06:00:440]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[18.01.26 07:11:02:836]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 07:50:03:497]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 07:55:03 CET 2026
+[18.01.26 08:00:00:378]  INFO gameserver.Shutdown: Shutting down LS/GS communication...
+[18.01.26 08:00:00:378]  INFO gameserver.Shutdown: Shutting down scripts...
+[18.01.26 08:00:00:394]  INFO gameserver.Shutdown: Disconnecting players...
+[18.01.26 08:00:00:395]  INFO gameserver.Shutdown: Saving data...
+[18.01.26 08:00:00:398]  INFO gameserver.Shutdown: SevenSignsFestival: Data saved.
+[18.01.26 08:00:00:399]  INFO gameserver.Shutdown: PvpTable: Data saved [0 inserts and 0 updates].
+[18.01.26 08:00:00:401]  INFO gameserver.Shutdown: SevenSigns: Data saved.
+[18.01.26 08:00:00:401]  INFO gameserver.Shutdown: Olympiad: Data saved.
+[18.01.26 08:00:00:402]  INFO gameserver.Shutdown: CoupleManager: Data saved.
+[18.01.26 08:00:00:402]  INFO gameserver.Shutdown: FishingChampionShipManager: Data saved.
+[18.01.26 08:00:00:402]  INFO gameserver.Shutdown: Hero: Data saved.
+[18.01.26 08:00:00:412]  INFO gameserver.Shutdown: All HWID data saved.
+[18.01.26 08:00:00:416]  INFO gameserver.Shutdown: All stream reward times saved
+[18.01.26 08:00:00:417]  INFO gameserver.Shutdown: CursedWeaponsManager: Data saved,
+[18.01.26 08:00:00:417]  INFO gameserver.Shutdown: Deleting Void Items...
+[18.01.26 08:00:00:417]  INFO gameserver.Shutdown: Listeners...
+[18.01.26 08:00:00:418]  INFO gameserver.Shutdown: Shutting down thread pool...
+[18.01.26 08:00:00:838]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[18.01.26 08:00:10:421]  INFO gameserver.Shutdown: Shutting down selector...
+[18.01.26 08:00:10:421]  INFO gameserver.Shutdown: Shutting down database communication...
+[18.01.26 08:00:10:429]  INFO gameserver.Shutdown: Shutdown finished.
+[18.01.26 08:00:11:866]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:868]  INFO gameserver.GameServer: **********[ Loading Lineage ][ Protect GameServer ]*******************
+[18.01.26 08:00:11:868]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: * ####   ####     ####    ####    ####   #    #  #   ####     ###    *
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: * #   #  #   #   #    #  #       #    #  ##   #  #  #    #   #   #   *
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: * #   #  #   #   #    #  #       #    #  # #  #  #  #            #   *
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: * #   #  ####    ######  #   ##  #    #  #  # #  #  #           #    *
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: * #   #  #   #   #    #  #    #  #    #  #   ##  #  #    #     #     *
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: * ####   #    #  #    #   ####    ####   #    #  #   ####    #####   *
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: **********[ GameServer System: Lineage ][ Protect ON ]****************
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:869]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: =====================================================================================
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Developer: ............... Alin Costea
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Site: .................... https://dragonic2.com/
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: License type: ............ Dragonic 2
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: =====================================================================================
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Revision: ................ Rev.V.2
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Build date: .............. 2026.01.05 20:00
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Core Dev: .............. Alin Costea
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Data Dev: .............. Alin Costea
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Compiler version: ........ 1.8.0_241-b07 (Oracle Corporation)
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: =====================================================================================
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Copyright: ............... Dragonic 2.inc                            *
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Owner: ................... Alin Costea                               *
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Edition: ................. Top Premium                               *
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Chronicle: ............... High Five Part 5                          *
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Contact Person: .......... +40 793374945                             *
+[18.01.26 08:00:11:871]  INFO gameserver.GameServer: Information: ............. All Rights Reserved Dragonic 2            *
+[18.01.26 08:00:11:872]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 08:00:11:921]  INFO gameserver.Config: Loaded 12 trade words.
+[18.01.26 08:00:11:931]  INFO gameserver.Config: Abuse: Loaded 61 abuse words.
+[18.01.26 08:00:11:966]  INFO gameserver.Config: Gameserver Version: 1, build date: 2015.04.02 03:24
+[18.01.26 08:00:33:057]  INFO gameserver.Config: Loaded 308 Configs!
+[18.01.26 08:00:33:064]  INFO gameserver.GameServer: Licensed IP 87.90.149.239
+[18.01.26 08:00:33:064]  INFO gameserver.GameServer: Licensed IP Please Contact Alin Costea
+[18.01.26 08:00:33:333]  INFO gameserver.GameServer: -----------------------------------------=[ Loading Protection Configuration ]
+[18.01.26 08:00:33:339]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
+[18.01.26 08:00:33:356]  INFO idfactory.IdFactory: IdFactory: Cleaned 0 elements from database in 0sec.
+[18.01.26 08:00:33:363]  INFO idfactory.IdFactory: IdFactory: Extracted 6 used id's from characters
+[18.01.26 08:00:33:365]  INFO idfactory.IdFactory: IdFactory: Extracted 235 used id's from items
+[18.01.26 08:00:33:365]  INFO idfactory.IdFactory: IdFactory: Extracted 2 used id's from clan_data
+[18.01.26 08:00:33:366]  INFO idfactory.IdFactory: IdFactory: Extracted total 243 used id's.
+[18.01.26 08:00:33:367]  INFO idfactory.BitSetIDFactory: IdFactory: 1646592 id's available.
+[18.01.26 08:00:33:554]  INFO gameserver.GameServer: ===============[Loading Scripts]==================
+[18.01.26 08:00:33:558]  INFO scripts.Scripts: Scripts: Loading...
+[18.01.26 08:00:33:558]  INFO scripts.Scripts: Loading Server Scripts
+[18.01.26 08:00:33:987]  INFO scripts.Scripts: Scripts: Loaded 1287 classes.
+[18.01.26 08:00:33:999]  INFO geodata.GeoEngine: GeoEngine: Loading Geodata...
+[18.01.26 08:00:34:000]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_23.l2j
+[18.01.26 08:00:34:018]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_24.l2j
+[18.01.26 08:00:34:031]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_25.l2j
+[18.01.26 08:00:34:039]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_26.l2j
+[18.01.26 08:00:34:050]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_23.l2j
+[18.01.26 08:00:34:053]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_24.l2j
+[18.01.26 08:00:34:114]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_25.l2j
+[18.01.26 08:00:34:140]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_26.l2j
+[18.01.26 08:00:34:146]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_21.l2j
+[18.01.26 08:00:34:147]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_22.l2j
+[18.01.26 08:00:34:148]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_23.l2j
+[18.01.26 08:00:34:160]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_24.l2j
+[18.01.26 08:00:34:212]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_25.l2j
+[18.01.26 08:00:34:229]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_26.l2j
+[18.01.26 08:00:34:235]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_21.l2j
+[18.01.26 08:00:34:236]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_22.l2j
+[18.01.26 08:00:34:262]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_23.l2j
+[18.01.26 08:00:34:285]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_24.l2j
+[18.01.26 08:00:34:339]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_25.l2j
+[18.01.26 08:00:34:364]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_26.l2j
+[18.01.26 08:00:34:370]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_10.l2j
+[18.01.26 08:00:34:376]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_11.l2j
+[18.01.26 08:00:34:382]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_12.l2j
+[18.01.26 08:00:34:388]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_18.l2j
+[18.01.26 08:00:34:391]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_19.l2j
+[18.01.26 08:00:34:431]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_20.l2j
+[18.01.26 08:00:34:432]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_21.l2j
+[18.01.26 08:00:34:433]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_22.l2j
+[18.01.26 08:00:34:434]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_23.l2j
+[18.01.26 08:00:34:437]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_24.l2j
+[18.01.26 08:00:34:438]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_25.l2j
+[18.01.26 08:00:34:444]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_26.l2j
+[18.01.26 08:00:34:447]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_10.l2j
+[18.01.26 08:00:34:450]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_11.l2j
+[18.01.26 08:00:34:454]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_12.l2j
+[18.01.26 08:00:34:469]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_13.l2j
+[18.01.26 08:00:34:474]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_14.l2j
+[18.01.26 08:00:34:475]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_15.l2j
+[18.01.26 08:00:34:477]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_16.l2j
+[18.01.26 08:00:34:478]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_17.l2j
+[18.01.26 08:00:34:480]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_18.l2j
+[18.01.26 08:00:34:541]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_19.l2j
+[18.01.26 08:00:34:565]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_20.l2j
+[18.01.26 08:00:34:587]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_21.l2j
+[18.01.26 08:00:34:592]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_22.l2j
+[18.01.26 08:00:34:594]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_23.l2j
+[18.01.26 08:00:34:596]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_24.l2j
+[18.01.26 08:00:34:606]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_25.l2j
+[18.01.26 08:00:34:656]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_26.l2j
+[18.01.26 08:00:34:659]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_10.l2j
+[18.01.26 08:00:34:662]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_11.l2j
+[18.01.26 08:00:34:665]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_12.l2j
+[18.01.26 08:00:34:669]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_13.l2j
+[18.01.26 08:00:34:672]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_14.l2j
+[18.01.26 08:00:34:674]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_15.l2j
+[18.01.26 08:00:34:684]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_16.l2j
+[18.01.26 08:00:34:712]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_17.l2j
+[18.01.26 08:00:34:756]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_18.l2j
+[18.01.26 08:00:34:757]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_19.l2j
+[18.01.26 08:00:34:778]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_20.l2j
+[18.01.26 08:00:34:792]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_21.l2j
+[18.01.26 08:00:34:814]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_22.l2j
+[18.01.26 08:00:34:865]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_23.l2j
+[18.01.26 08:00:34:873]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_24.l2j
+[18.01.26 08:00:34:879]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_25.l2j
+[18.01.26 08:00:34:896]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_26.l2j
+[18.01.26 08:00:34:898]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_10.l2j
+[18.01.26 08:00:34:903]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_11.l2j
+[18.01.26 08:00:34:907]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_12.l2j
+[18.01.26 08:00:34:910]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_13.l2j
+[18.01.26 08:00:34:912]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_14.l2j
+[18.01.26 08:00:34:964]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_15.l2j
+[18.01.26 08:00:34:976]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_16.l2j
+[18.01.26 08:00:34:989]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_17.l2j
+[18.01.26 08:00:34:991]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_18.l2j
+[18.01.26 08:00:34:992]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_19.l2j
+[18.01.26 08:00:35:009]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_20.l2j
+[18.01.26 08:00:35:036]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_21.l2j
+[18.01.26 08:00:35:119]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_22.l2j
+[18.01.26 08:00:35:148]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_23.l2j
+[18.01.26 08:00:35:176]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_24.l2j
+[18.01.26 08:00:35:230]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_25.l2j
+[18.01.26 08:00:35:237]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_26.l2j
+[18.01.26 08:00:35:239]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_10.l2j
+[18.01.26 08:00:35:247]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_11.l2j
+[18.01.26 08:00:35:251]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_12.l2j
+[18.01.26 08:00:35:254]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_13.l2j
+[18.01.26 08:00:35:269]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_14.l2j
+[18.01.26 08:00:35:294]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_15.l2j
+[18.01.26 08:00:35:358]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_16.l2j
+[18.01.26 08:00:35:374]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_17.l2j
+[18.01.26 08:00:35:380]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_18.l2j
+[18.01.26 08:00:35:402]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_19.l2j
+[18.01.26 08:00:35:409]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_20.l2j
+[18.01.26 08:00:35:450]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_21.l2j
+[18.01.26 08:00:35:457]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_22.l2j
+[18.01.26 08:00:35:466]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_23.l2j
+[18.01.26 08:00:35:476]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_24.l2j
+[18.01.26 08:00:35:508]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_25.l2j
+[18.01.26 08:00:35:517]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_26.l2j
+[18.01.26 08:00:35:521]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_10.l2j
+[18.01.26 08:00:35:523]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_11.l2j
+[18.01.26 08:00:35:526]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_12.l2j
+[18.01.26 08:00:35:528]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_13.l2j
+[18.01.26 08:00:35:534]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_14.l2j
+[18.01.26 08:00:35:578]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_15.l2j
+[18.01.26 08:00:35:582]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_16.l2j
+[18.01.26 08:00:35:588]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_17.l2j
+[18.01.26 08:00:35:598]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_18.l2j
+[18.01.26 08:00:35:605]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_19.l2j
+[18.01.26 08:00:35:641]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_20.l2j
+[18.01.26 08:00:35:652]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_21.l2j
+[18.01.26 08:00:35:665]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_22.l2j
+[18.01.26 08:00:35:702]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_23.l2j
+[18.01.26 08:00:35:711]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_24.l2j
+[18.01.26 08:00:35:714]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_25.l2j
+[18.01.26 08:00:35:722]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_26.l2j
+[18.01.26 08:00:35:726]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_10.l2j
+[18.01.26 08:00:35:728]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_11.l2j
+[18.01.26 08:00:35:729]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_12.l2j
+[18.01.26 08:00:35:732]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_13.l2j
+[18.01.26 08:00:35:733]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_14.l2j
+[18.01.26 08:00:35:781]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_15.l2j
+[18.01.26 08:00:35:789]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_16.l2j
+[18.01.26 08:00:35:798]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_17.l2j
+[18.01.26 08:00:35:802]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_18.l2j
+[18.01.26 08:00:35:845]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_19.l2j
+[18.01.26 08:00:35:854]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_20.l2j
+[18.01.26 08:00:35:861]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_21.l2j
+[18.01.26 08:00:35:905]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_22.l2j
+[18.01.26 08:00:35:914]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_23.l2j
+[18.01.26 08:00:35:926]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_24.l2j
+[18.01.26 08:00:35:937]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_25.l2j
+[18.01.26 08:00:35:940]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_10.l2j
+[18.01.26 08:00:35:974]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_11.l2j
+[18.01.26 08:00:35:984]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_12.l2j
+[18.01.26 08:00:35:985]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_13.l2j
+[18.01.26 08:00:35:994]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_14.l2j
+[18.01.26 08:00:36:006]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_15.l2j
+[18.01.26 08:00:36:051]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_16.l2j
+[18.01.26 08:00:36:062]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_17.l2j
+[18.01.26 08:00:36:069]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_18.l2j
+[18.01.26 08:00:36:076]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_19.l2j
+[18.01.26 08:00:36:114]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_20.l2j
+[18.01.26 08:00:36:125]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_21.l2j
+[18.01.26 08:00:36:136]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_22.l2j
+[18.01.26 08:00:36:176]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_23.l2j
+[18.01.26 08:00:36:184]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_24.l2j
+[18.01.26 08:00:36:192]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_25.l2j
+[18.01.26 08:00:36:203]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_26.l2j
+[18.01.26 08:00:36:204]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_10.l2j
+[18.01.26 08:00:36:206]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_11.l2j
+[18.01.26 08:00:36:243]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_12.l2j
+[18.01.26 08:00:36:252]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_13.l2j
+[18.01.26 08:00:36:260]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_14.l2j
+[18.01.26 08:00:36:306]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_15.l2j
+[18.01.26 08:00:36:318]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_16.l2j
+[18.01.26 08:00:36:331]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_17.l2j
+[18.01.26 08:00:36:341]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_18.l2j
+[18.01.26 08:00:36:383]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_19.l2j
+[18.01.26 08:00:36:394]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_20.l2j
+[18.01.26 08:00:36:403]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_21.l2j
+[18.01.26 08:00:36:463]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_22.l2j
+[18.01.26 08:00:36:474]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_23.l2j
+[18.01.26 08:00:36:483]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_24.l2j
+[18.01.26 08:00:36:489]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_25.l2j
+[18.01.26 08:00:36:537]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_26.l2j
+[18.01.26 08:00:36:539]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_10.l2j
+[18.01.26 08:00:36:540]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_11.l2j
+[18.01.26 08:00:36:546]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_12.l2j
+[18.01.26 08:00:36:559]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_13.l2j
+[18.01.26 08:00:36:563]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_14.l2j
+[18.01.26 08:00:36:607]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_15.l2j
+[18.01.26 08:00:36:618]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_16.l2j
+[18.01.26 08:00:36:628]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_17.l2j
+[18.01.26 08:00:36:668]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_18.l2j
+[18.01.26 08:00:36:679]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_19.l2j
+[18.01.26 08:00:36:688]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_20.l2j
+[18.01.26 08:00:36:704]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_21.l2j
+[18.01.26 08:00:36:745]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_22.l2j
+[18.01.26 08:00:36:758]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_23.l2j
+[18.01.26 08:00:36:768]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_24.l2j
+[18.01.26 08:00:36:770]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_25.l2j
+[18.01.26 08:00:36:773]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_26.l2j
+[18.01.26 08:00:36:774]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_10.l2j
+[18.01.26 08:00:36:776]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_11.l2j
+[18.01.26 08:00:36:821]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_12.l2j
+[18.01.26 08:00:36:837]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_14.l2j
+[18.01.26 08:00:36:852]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_15.l2j
+[18.01.26 08:00:36:900]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_16.l2j
+[18.01.26 08:00:36:909]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_17.l2j
+[18.01.26 08:00:36:919]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_18.l2j
+[18.01.26 08:00:36:952]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_19.l2j
+[18.01.26 08:00:36:963]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_20.l2j
+[18.01.26 08:00:36:966]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_21.l2j
+[18.01.26 08:00:36:969]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_22.l2j
+[18.01.26 08:00:36:970]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_23.l2j
+[18.01.26 08:00:36:972]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_24.l2j
+[18.01.26 08:00:36:972]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_11.l2j
+[18.01.26 08:00:36:974]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_12.l2j
+[18.01.26 08:00:36:977]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_14.l2j
+[18.01.26 08:00:37:017]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_15.l2j
+[18.01.26 08:00:37:019]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_16.l2j
+[18.01.26 08:00:37:019]  INFO geodata.GeoEngine: GeoEngine: Loaded 203 map(s), max layers: 21
+[18.01.26 08:00:37:022]  INFO vote.VoteMain: Loaded: Vote System - Individual Reward.
+[18.01.26 08:00:37:022]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Twitch Manager ]
+[18.01.26 08:00:37:145]  INFO gameserver.GameServer: -------------------------------------------------------------=[ Vote Manager ]
+[18.01.26 08:00:37:219]  INFO utils.Strings: Loaded 418 translit entries.
+[18.01.26 08:00:37:220]  INFO gameserver.GameTimeController: GameTimeController: initialized. Current time is 6:03 in the day.
+[18.01.26 08:00:37:221]  INFO gameserver.GameServer: ------------------------------------------------------------=[ Lineage World ]
+[18.01.26 08:00:37:221]  INFO model.World: L2World: Creating regions: [256][272][32].
+[18.01.26 08:00:37:221]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 08:00:37:223]  INFO htm.HtmCache: HtmCache: disabled.
+[18.01.26 08:00:37:235]  INFO data.StringHolder: StringHolder: load strings: 1066 for lang: ENGLISH
+[18.01.26 08:00:37:235]  INFO data.StringHolder: StringHolder: load strings: 876 for lang: RUSSIAN
+[18.01.26 08:00:42:087]  INFO skills.SkillsEngine: SkillsEngine: Loaded 66071 skill templates from XML files. Max id: 91000, max level: 259
+[18.01.26 08:00:43:092]  INFO holder.OptionDataHolder: OptionDataHolder: loaded 24975 option data(s) count.
+[18.01.26 08:00:44:294]  INFO holder.ItemHolder: ItemHolder: loaded 19334 item(s) count.
+[18.01.26 08:00:44:300]  INFO holder.FakePlayerNpcsHolder: FakePlayerNpcsHolder: loaded 8 fake player npcs(s) count.
+[18.01.26 08:00:47:247]  INFO holder.NpcHolder: NpcHolder: loaded 10707 npc(s) count.
+[18.01.26 08:00:47:261]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
+[18.01.26 08:00:47:288]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
+[18.01.26 08:00:47:391]  INFO holder.ExchangeItemHolder: ExchangeItemHolder: loaded 602 exchange item(s) count.
+[18.01.26 08:00:47:397]  INFO holder.StaticObjectHolder: StaticObjectHolder: loaded 50 static object(s) count.
+[18.01.26 08:00:47:656]  INFO holder.DoorHolder: DoorHolder: loaded 1155 door(s) count.
+[18.01.26 08:00:47:783]  INFO holder.ZoneHolder: ZoneHolder: loaded 1261 zone(s) count.
+[18.01.26 08:00:48:590]  INFO holder.SpawnHolder: SpawnHolder: loaded 29047 spawn(s) count.
+[18.01.26 08:00:48:724]  INFO holder.InstantZoneHolder: InstantZoneHolder: loaded 94 instant zone(s) count.
+[18.01.26 08:00:50:338]  INFO holder.AirshipDockHolder: AirshipDockHolder: loaded 4 airship dock(s) count.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 57215 normal learns for 103 classes.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 79 transfer learns for 3 classes.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 120 transformation learns for 6 races.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 662 fishing learns for 6 races.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 72 certification learns.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 3 collection learns.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 44 pledge learns.
+[18.01.26 08:00:50:490]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 18 sub unit learns.
+[18.01.26 08:00:50:517]  INFO holder.CharTemplateHolder: CharTemplateHolder: loaded 206 char template(s) count.
+[18.01.26 08:00:50:756]  INFO holder.ResidenceHolder: ResidenceHolder: total size: 83
+[18.01.26 08:00:50:756]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 21 fortress(s).
+[18.01.26 08:00:50:756]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 44 clanhall(s).
+[18.01.26 08:00:50:756]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 dominion(s).
+[18.01.26 08:00:50:756]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 castle(s).
+[18.01.26 08:00:50:910]  INFO instancemanager.RaidBossSpawnManager: RaidBossSpawnManager: Loaded 194 Statuses
+[18.01.26 08:00:50:971]  INFO entity.SevenSigns: SevenSigns: Currently in the Competition (Quest Event) period!
+[18.01.26 08:00:50:971]  INFO entity.SevenSigns: SevenSigns: The Seal of Avarice remains unclaimed.
+[18.01.26 08:00:50:971]  INFO entity.SevenSigns: SevenSigns: The Seal of Gnosis remains unclaimed.
+[18.01.26 08:00:50:971]  INFO entity.SevenSigns: SevenSigns: The Seal of Strife remains unclaimed.
+[18.01.26 08:00:50:971]  INFO entity.SevenSigns: SevenSigns: The Competition this week, if the trend continue, will end with a tie.
+[18.01.26 08:00:50:972]  INFO entity.SevenSigns: SevenSigns: Next period begins in 1 days, 9 hours and 59 mins.
+[18.01.26 08:00:51:188]  INFO holder.EventHolder: EventHolder: loaded 105 event(s) count.
+[18.01.26 08:00:51:211]  INFO holder.FightClubMapHolder: FightClubMapHolder: loaded 42 fight club map(s) count.
+[18.01.26 08:00:51:219]  INFO holder.CubicHolder: CubicHolder: loaded 145 cubic(s) count.
+[18.01.26 08:00:51:298]  INFO holder.BuyListHolder: TradeController: Loaded 4 file(s).
+[18.01.26 08:00:51:298]  INFO holder.BuyListHolder: TradeController: Loaded 25014 Items.
+[18.01.26 08:00:51:298]  INFO holder.BuyListHolder: TradeController: Loaded 727 Buylists.
+[18.01.26 08:00:51:336]  INFO holder.RecipeHolder: RecipeController: Loaded 998 Recipes.
+[18.01.26 08:00:51:945]  INFO holder.ProductHolder: ProductItemTable: Loaded 0 product item on sale.
+[18.01.26 08:00:51:967]  INFO holder.HennaHolder: HennaHolder: loaded 180 henna(s) count.
+[18.01.26 08:00:51:994]  INFO parser.EnchantItemParser: EnchantItemParser: Not supported for now.2
+[18.01.26 08:00:51:994]  INFO holder.EnchantItemHolder: EnchantItemHolder: load 5 enchant scroll(s).
+[18.01.26 08:00:51:999]  INFO holder.SoulCrystalHolder: SoulCrystalHolder: loaded 54 soul crystal(s) count.
+[18.01.26 08:00:52:005]  INFO holder.ArmorSetsHolder: ArmorSetsHolder: loaded 199 armor sets(s) count.
+[18.01.26 08:00:52:015]  INFO holder.PetitionGroupHolder: PetitionGroupHolder: loaded 3 petition group(s) count.
+[18.01.26 08:00:52:019]  INFO holder.DressArmorHolder: DressArmorHolder: loaded 38 dress armor(s) count.
+[18.01.26 08:00:52:023]  INFO holder.DressCloakHolder: DressCloakHolder: loaded 15 dress cloak(s) count.
+[18.01.26 08:00:52:027]  INFO holder.DressShieldHolder: DressShieldHolder: loaded 13 dress shield(s) count.
+[18.01.26 08:00:52:030]  INFO holder.DressWeaponHolder: DressWeaponHolder: loaded 32 dress weapon(s) count.
+[18.01.26 08:00:52:167]  INFO holder.AugmentationDataHolder: AugmentationDataHolder: loaded 1022 augmentation data(s) count.
+[18.01.26 08:00:52:179]  INFO holder.PremiumHolder: PremiumHolder: loaded 5 premium(s) count.
+[18.01.26 08:00:52:183]  INFO holder.FoundationHolder: FoundationHolder: loaded 268 foundation(s) count.
+[18.01.26 08:00:52:201]  INFO holder.DonationHolder: DonationHolder: loaded 221 donation(s) count.
+[18.01.26 08:00:52:205]  INFO holder.TournamentMapHolder: TournamentMapHolder: loaded 3 tournament map(s) count.
+[18.01.26 08:00:52:212]  INFO holder.FacebookCommentsHolder: FacebookCommentsHolder: loaded 2 facebook comments(s) count.
+[18.01.26 08:00:52:212]  INFO gameserver.GameServer: -------------------------------------------------------------=[ Banned HWIDS ]
+[18.01.26 08:00:52:219]  INFO security.HWIDBan: black list (Hwid) loaded size: 0
+[18.01.26 08:00:52:219]  INFO gameserver.GameServer: --------------------------------------------------------------=[ Clan Crests ]
+[18.01.26 08:00:52:223]  INFO cache.CrestCache: CrestCache: Loaded 0 crests
+[18.01.26 08:00:52:223]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Loading Images ]
+[18.01.26 08:00:56:174]  INFO cache.ImagesCache: Loaded 344 Images!
+[18.01.26 08:00:56:174]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 08:00:56:218]  INFO gameserver.GameServer: ---------------------------------------------------------------=[ Fish Table ]
+[18.01.26 08:00:56:222]  INFO tables.FishTable: FishTable: Loaded 270 fishes.
+[18.01.26 08:00:56:227]  INFO tables.FishTable: FishTable: Loaded 919 fish rewards.
+[18.01.26 08:00:56:227]  INFO gameserver.GameServer: -------------------------------------------------------------------=[ Skills ]
+[18.01.26 08:00:56:228]  INFO tables.SkillTreeTable: SkillTreeTable: Loaded 526 enchanted skills.
+[18.01.26 08:00:56:310]  INFO datatables.EnchantNamesTable: EnchantNamesTable: Loaded: 1319 skill enchant names
+[18.01.26 08:00:56:310]  INFO gameserver.GameServer: --------------------------------------------------------=[ Augmentation Data ]
+[18.01.26 08:00:56:312]  INFO tables.AugmentationData: Initializing AugmentationData.
+[18.01.26 08:00:56:328]  INFO tables.AugmentationData: AugmentationData: 10 bad skill(s) were skipped.
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 52 augmentation stats.
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 24 accessory augmentation stats.
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 0
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 1
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 2
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 3
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 4
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 5
+[18.01.26 08:00:56:345]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 6
+[18.01.26 08:00:56:346]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 7
+[18.01.26 08:00:56:346]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 8
+[18.01.26 08:00:56:346]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 9
+[18.01.26 08:00:56:348]  INFO tables.EnchantHPBonusTable: EnchantHPBonusTable: Loaded bonuses for 6 grades.
+[18.01.26 08:00:56:348]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Level Up Table ]
+[18.01.26 08:00:56:351]  INFO tables.LevelUpTable: LevelUpData: Loaded 103 Character Level Up Templates.
+[18.01.26 08:00:56:357]  INFO tables.PetSkillsTable: PetSkillsTable: Loaded 2558 skills.
+[18.01.26 08:00:56:358]  INFO gameserver.GameServer: ----------------------------------------------------------------=[ Item Logs ]
+[18.01.26 08:00:56:361]  INFO gameserver.GameServer: ---------------------------------------------------------------=[ Auctioneer ]
+[18.01.26 08:00:56:363]  INFO itemauction.ItemAuctionManager: Initializing ItemAuctionManager
+[18.01.26 08:00:56:381]  INFO itemauction.ItemAuctionInstance: ItemAuction: Loaded 37 item(s) and registered 12 auction(s) for instance 32320.
+[18.01.26 08:00:56:383]  INFO itemauction.ItemAuctionInstance: ItemAuction: Schedule next auction 32 on 2026.01.20 17:00:00 for instance 32320
+[18.01.26 08:00:56:393]  INFO itemauction.ItemAuctionInstance: ItemAuction: Loaded 37 item(s) and registered 10 auction(s) for instance 32321.
+[18.01.26 08:00:56:393]  INFO itemauction.ItemAuctionInstance: ItemAuction: Schedule next auction 33 on 2026.01.22 17:00:00 for instance 32321
+[18.01.26 08:00:56:407]  INFO itemauction.ItemAuctionInstance: ItemAuction: Loaded 37 item(s) and registered 13 auction(s) for instance 32322.
+[18.01.26 08:00:56:407]  INFO itemauction.ItemAuctionInstance: ItemAuction: Schedule next auction 35 on 2026.01.24 17:00:00 for instance 32322
+[18.01.26 08:00:56:407]  INFO itemauction.ItemAuctionManager: ItemAuctionManager: Loaded 3 instance(s).
+[18.01.26 08:00:56:407]  INFO gameserver.GameServer: ------------------------------------------------------------=[ Masterio Pack ]
+[18.01.26 08:00:56:436]  INFO gameserver.GameServer: ------------------------------------------------------=[ Merge System Loaded ]
+[18.01.26 08:00:56:483]  INFO bosses.AntharasManager: AntharasManager: State of Antharas is NOTSPAWN.
+[18.01.26 08:00:56:484]  INFO bosses.AntharasManager: AntharasManager: Next spawn date of Antharas is 01:00 01.01.1970.
+[18.01.26 08:00:56:486]  INFO bosses.BaiumManager: BaiumManager: State of Baium is NOTSPAWN.
+[18.01.26 08:00:56:490]  INFO bosses.BaiumManager: BaiumManager: Next spawn date: 14:20 17.12.2025
+[18.01.26 08:00:56:499]  INFO bosses.BelethManager: Beleth Manager: Loaded successfully
+[18.01.26 08:00:56:501]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[18.01.26 08:00:56:517]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 physical monsters spawns.
+[18.01.26 08:00:56:535]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 magical monsters spawns.
+[18.01.26 08:00:56:541]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[18.01.26 08:00:56:547]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[18.01.26 08:00:56:551]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[18.01.26 08:00:56:551]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[18.01.26 08:00:56:552]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[18.01.26 08:00:56:552]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[18.01.26 08:00:56:553]  INFO bosses.FourSepulchersManager: FourSepulchersManager: Beginning in Attack time
+[18.01.26 08:00:56:554]  INFO bosses.SailrenManager: SailrenManager: State of Sailren is NOTSPAWN.
+[18.01.26 08:00:56:554]  INFO bosses.SailrenManager: SailrenManager: Next spawn date of Sailren is 01:00 01.01.1970.
+[18.01.26 08:00:56:555]  INFO bosses.ValakasManager: ValakasManager: State of Valakas is NOTSPAWN.
+[18.01.26 08:00:56:557]  INFO bosses.ValakasManager: ValakasManager: Next spawn date of Valakas is 01:00 01.01.1970.
+[18.01.26 08:00:56:577]  INFO threading.RunnableImpl: Sun Jan 18 08:00:56 CET 2026 Atk announce scheduled to 0.0 minute of this hour.
+[18.01.26 08:00:56:746]  INFO tables.PetDataTable: PetDataTable: Loaded 3870 pets.
+[18.01.26 08:00:56:752]  INFO model.Manor: ManorManager: Loaded 270 seeds
+[18.01.26 08:00:57:107]  INFO scriptconfig.ScriptConfig: Loaded Service: ScripsConfig
+[18.01.26 08:00:57:115]  INFO model.Player: Loaded Service: SellPcService
+[18.01.26 08:00:57:118]  INFO community.CareerManager: CommunityBoard: Manage Career service loaded.
+[18.01.26 08:00:57:139]  INFO dailyquests.AbstractDPScript: DailyQuestHandler: Loaded DailyQuests data
+[18.01.26 08:00:57:143]  INFO community.CommunityAuctionHouse: CommunityBoard: Auction System Service loaded.
+[18.01.26 08:00:57:148]  INFO community.CommunityAugment: CommunityBoard: Augmentation Manager loaded with 188 lifestone skills.
+[18.01.26 08:00:57:149]  INFO community.CommunityBoard: CommunityBoard: service loaded.
+[18.01.26 08:00:57:149]  INFO community.CommunityBoardAcademy: CommunityBoard: Academy service loaded.
+[18.01.26 08:00:57:150]  INFO community.CommunityBosses: CommunityBoard: Bosses loaded.
+[18.01.26 08:00:57:152]  INFO community.CommunityClan: CommunityBoard: Clan service loaded.
+[18.01.26 08:00:57:153]  INFO community.CommunityDropCalculator: CommunityBoard: Drop Calculator service loaded.
+[18.01.26 08:00:57:153]  INFO community.CommunityEvents: CommunityBoard: Community Events service loaded.
+[18.01.26 08:00:57:154]  INFO community.CommunityFacebook: CommunityBoard: Facebook Rewards page loaded.
+[18.01.26 08:00:57:156]  INFO community.CommunityNpcs: CommunityBoard: Npcs loaded.
+[18.01.26 08:00:57:157]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 08:00:57:164]  INFO community.CommunityTournament: CommunityBoard: Tournament loaded.
+[18.01.26 08:00:57:164]  INFO community.CommunityWarehouse: CommunityBoard: Warehouse loaded.
+[18.01.26 08:00:57:165]  INFO community.Forge: CommunityBoard: Forge loaded.
+[18.01.26 08:00:57:170]  INFO community.ServicesCommunity: ServicesCommunity: Services Community service loaded.
+[18.01.26 08:00:57:181]  INFO gameserver.GameServer: ===============[Spawn Manager]==================
+[18.01.26 08:00:57:196]  INFO naia.NaiaTowerManager: Naia Tower Manager: Loaded 12 rooms
+[18.01.26 08:00:57:575]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1000 npc for group: NONE
+[18.01.26 08:00:57:839]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3000 npc for group: NONE
+[18.01.26 08:00:58:086]  INFO instancemanager.SpawnManager: SpawnManager: spawned 5000 npc for group: NONE
+[18.01.26 08:00:58:385]  INFO instancemanager.SpawnManager: SpawnManager: spawned 7000 npc for group: NONE
+[18.01.26 08:00:59:535]  INFO instancemanager.SpawnManager: SpawnManager: spawned 12000 npc for group: NONE
+[18.01.26 08:00:59:703]  INFO instancemanager.SpawnManager: SpawnManager: spawned 13000 npc for group: NONE
+[18.01.26 08:00:59:981]  INFO instancemanager.SpawnManager: SpawnManager: spawned 14000 npc for group: NONE
+[18.01.26 08:01:00:260]  INFO instancemanager.SpawnManager: SpawnManager: spawned 15000 npc for group: NONE
+[18.01.26 08:01:00:799]  INFO instancemanager.SpawnManager: SpawnManager: spawned 17000 npc for group: NONE
+[18.01.26 08:01:01:090]  INFO instancemanager.SpawnManager: SpawnManager: spawned 18000 npc for group: NONE
+[18.01.26 08:01:01:383]  INFO instancemanager.SpawnManager: SpawnManager: spawned 19000 npc for group: NONE
+[18.01.26 08:01:01:714]  INFO instancemanager.SpawnManager: SpawnManager: spawned 20000 npc for group: NONE
+[18.01.26 08:01:02:048]  INFO instancemanager.SpawnManager: SpawnManager: spawned 21000 npc for group: NONE
+[18.01.26 08:01:02:548]  INFO instancemanager.SpawnManager: SpawnManager: spawned 22000 npc for group: NONE
+[18.01.26 08:01:05:053]  INFO instancemanager.SpawnManager: SpawnManager: spawned 27000 npc for group: NONE
+[18.01.26 08:01:05:937]  INFO instancemanager.SpawnManager: SpawnManager: spawned 29000 npc for group: NONE
+[18.01.26 08:01:06:639]  INFO instancemanager.SpawnManager: SpawnManager: spawned 30000 npc for group: NONE
+[18.01.26 08:01:07:755]  INFO instancemanager.SpawnManager: SpawnManager: spawned 32000 npc for group: NONE
+[18.01.26 08:01:08:271]  INFO instancemanager.SpawnManager: SpawnManager: spawned 33000 npc for group: NONE
+[18.01.26 08:01:11:702]  INFO instancemanager.SpawnManager: SpawnManager: spawned 38471 npc; spawns: 17185; group: NONE
+[18.01.26 08:01:11:703]  INFO gameserver.GameServer: --------------------------------------------------------------------=[ Boats ]
+[18.01.26 08:01:11:703]  INFO data.BoatHolder: BoatHolder: loaded 2 boat(s) count.
+[18.01.26 08:01:11:707]  INFO data.BoatHolder: BoatHolder: Spawning: RunePrimeval_Vehicle
+[18.01.26 08:01:11:707]  INFO data.BoatHolder: BoatHolder: Spawning: AdenGracia_Airship
+[18.01.26 08:01:11:708]  INFO holder.StaticObjectHolder: StaticObjectHolder: spawned: 50 static object(s).
+[18.01.26 08:01:11:708]  INFO gameserver.GameServer: ---------------------------------------------------------=[ Dimensional Rift ]
+[18.01.26 08:01:11:721]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 13 room types with 112 rooms.
+[18.01.26 08:01:11:721]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 300 DimensionalRift spawns, 0 errors.
+[18.01.26 08:01:11:726]  INFO gameserver.GameServer: --------------------------------------------------------------=[ Seven Signs ]
+[18.01.26 08:01:11:749]  INFO instancemanager.AutoSpawnManager: AutoSpawnHandler: Loaded 50 handlers in total.
+[18.01.26 08:01:11:749]  INFO gameserver.GameServer: ===================================================================
+[18.01.26 08:01:11:750]  INFO gameserver.GameServer: ===================[Loading Olympiad System]=======================
+[18.01.26 08:01:11:755]  INFO olympiad.Olympiad: Olympiad System: Loading Olympiad System....
+[18.01.26 08:01:11:755]  INFO olympiad.Olympiad: Olympiad System: Currently in Olympiad Period
+[18.01.26 08:01:11:755]  INFO olympiad.Olympiad: Olympiad System: Period Ends....
+[18.01.26 08:01:11:755]  INFO olympiad.Olympiad: Olympiad System: In 5 days, 16 hours and 0 mins.
+[18.01.26 08:01:11:755]  INFO olympiad.Olympiad: Olympiad System: Next Weekly Change is in....
+[18.01.26 08:01:11:755]  INFO olympiad.Olympiad: Olympiad System: In 6 days, 2 hours and 39 mins.
+[18.01.26 08:01:11:755]  INFO olympiad.Olympiad: Olympiad System: Loaded 0 Noblesses
+[18.01.26 08:01:11:756]  INFO olympiad.Olympiad: Olympiad System: Competition Period Starts in 0 days, 11 hours and 58 mins.
+[18.01.26 08:01:11:756]  INFO olympiad.Olympiad: Olympiad System: Event starts/started: Sun Jan 18 20:00:11 CET 2026
+[18.01.26 08:01:11:761]  INFO entity.Hero: Hero System: Loaded 0 Heroes.
+[18.01.26 08:01:11:761]  INFO entity.Hero: Hero System: Loaded 0 all time Heroes.
+[18.01.26 08:01:11:761]  INFO gameserver.GameServer: ===================[Olympiad System Loaded]=======================
+[18.01.26 08:01:11:761]  INFO gameserver.GameServer: ===================================================================
+[18.01.26 08:01:11:762]  INFO instancemanager.PetitionManager: Initializing PetitionManager
+[18.01.26 08:01:11:771]  INFO instancemanager.CursedWeaponsManager: CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[18.01.26 08:01:11:771]  INFO gameserver.GameServer: ------------------------------------------=[ Loaded Small Achievement System ]
+[18.01.26 08:01:11:785]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Admin Commands ]
+[18.01.26 08:01:11:785]  INFO admincommands.AdminCommandHandler: AdminCommandHandler: loaded 475 admin command handler(s) count.
+[18.01.26 08:01:11:785]  INFO gameserver.GameServer: ---------------------------------------------------------=[ Players Commands ]
+[18.01.26 08:01:11:788]  INFO usercommands.UserCommandHandler: UserCommandHandler: loaded 16 user command handler(s) count.
+[18.01.26 08:01:11:789]  INFO voicecommands.VoicedCommandHandler: VoicedCommandHandler: loaded 94 voiced command handler(s) count.
+[18.01.26 08:01:11:795]  INFO gameserver.GameServer: ======================[Tournament By Kara`]==========================
+[18.01.26 08:01:11:798]  INFO tournament.TournamentHolder: [TournamentHolder] Initialized 5 tournament holders:
+[18.01.26 08:01:11:798]  INFO tournament.TournamentHolder: 1 vs 1
+[18.01.26 08:01:11:798]  INFO tournament.TournamentHolder: 5 vs 5
+[18.01.26 08:01:11:798]  INFO tournament.TournamentHolder: 9 vs 9
+[18.01.26 08:01:11:798]  INFO tournament.TournamentHolder: 25 vs 25
+[18.01.26 08:01:11:798]  INFO tournament.TournamentHolder: 15 vs 15
+[18.01.26 08:01:11:799]  INFO gameserver.GameServer: ======================[Loading Castels & Clan Halls]==========================
+[18.01.26 08:01:11:900]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Gludio Castle time - 16:00 18.01.2026
+[18.01.26 08:01:11:909]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Dion Castle time - 16:00 18.01.2026
+[18.01.26 08:01:11:918]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Giran Castle time - 20:00 18.01.2026
+[18.01.26 08:01:11:926]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Oren Castle time - 20:00 18.01.2026
+[18.01.26 08:01:11:937]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Aden Castle time - 16:00 18.01.2026
+[18.01.26 08:01:11:951]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Innadril Castle time - 20:00 18.01.2026
+[18.01.26 08:01:11:959]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Goddard Castle time - 20:00 18.01.2026
+[18.01.26 08:01:11:967]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Rune Castle time - 16:00 18.01.2026
+[18.01.26 08:01:11:975]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Schuttgart Castle time - 16:00 18.01.2026
+[18.01.26 08:01:11:978]  INFO impl.ClanHallNpcSiegeEvent: ClanHallNpcSiegeEvent: Fortress Of Resistance time - 18:00 19.01.2026
+[18.01.26 08:01:11:980]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:982]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:983]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Topaz Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:985]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Ruby Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:988]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Crystal Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:990]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:991]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:993]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:994]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 10:40 17.01.2026
+[18.01.26 08:01:11:996]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Atramental Barracks time - 10:40 17.01.2026
+[18.01.26 08:01:11:999]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Scarlet Barracks time - 10:40 17.01.2026
+[18.01.26 08:01:12:001]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Viridian Barracks time - 10:40 17.01.2026
+[18.01.26 08:01:12:002]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Devastated Castle time - 18:00 24.01.2026
+[18.01.26 08:01:12:002]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Bandit Stronghold time - 22:00 24.01.2026
+[18.01.26 08:01:12:004]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:006]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:007]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:010]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 10:40 17.01.2026
+[18.01.26 08:01:12:011]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Gold Manor time - 10:40 17.01.2026
+[18.01.26 08:01:12:014]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:016]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:017]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:019]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:021]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:022]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 10:40 17.01.2026
+[18.01.26 08:01:12:024]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:026]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:028]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:030]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:031]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Mont Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:033]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Astaire Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:034]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Aria Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:036]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Yiana Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:038]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Roien Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:040]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Luna Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:041]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Traban Chamber time - 10:40 17.01.2026
+[18.01.26 08:01:12:043]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Eisen Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:044]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Heavy Metal Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:046]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Molten Ore Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:049]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Titan Hall time - 10:40 17.01.2026
+[18.01.26 08:01:12:051]  INFO impl.ClanHallMiniGameEvent: ClanHallMiniGameEvent: Rainbow Springs time - 22:00 24.01.2026
+[18.01.26 08:01:12:051]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Wild Beast Reserve time - 21:00 24.01.2026
+[18.01.26 08:01:12:052]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Fortress of Dead time - 18:00 24.01.2026
+[18.01.26 08:01:12:056]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Gludio Dominion time - undefined
+[18.01.26 08:01:12:057]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Dion Dominion time - undefined
+[18.01.26 08:01:12:060]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Giran Dominion time - undefined
+[18.01.26 08:01:12:061]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Oren Dominion time - undefined
+[18.01.26 08:01:12:063]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Aden Dominion time - undefined
+[18.01.26 08:01:12:064]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Innadril Dominion time - undefined
+[18.01.26 08:01:12:065]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Goddard Dominion time - undefined
+[18.01.26 08:01:12:066]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Rune Dominion time - undefined
+[18.01.26 08:01:12:067]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Schuttgart Dominion time - undefined
+[18.01.26 08:01:12:070]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Shanty Fortress time - undefined
+[18.01.26 08:01:12:089]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Southern Fortress time - undefined
+[18.01.26 08:01:12:093]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hive Fortress time - undefined
+[18.01.26 08:01:12:097]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Valley Fortress time - undefined
+[18.01.26 08:01:12:102]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Ivory Fortress time - undefined
+[18.01.26 08:01:12:107]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Narsell Fortress time - undefined
+[18.01.26 08:01:12:111]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Bayou Fortress time - undefined
+[18.01.26 08:01:12:115]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: White Sands Fortress time - undefined
+[18.01.26 08:01:12:119]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Borderland Fortress time - undefined
+[18.01.26 08:01:12:125]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Swamp Fortress time - undefined
+[18.01.26 08:01:12:129]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Archaic Fortress time - undefined
+[18.01.26 08:01:12:132]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Floran Fortress time - undefined
+[18.01.26 08:01:12:141]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Cloud Mountain Fortress time - undefined
+[18.01.26 08:01:12:148]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Tanor Fortress time - undefined
+[18.01.26 08:01:12:153]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Dragonspine Fortress time - undefined
+[18.01.26 08:01:12:160]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Antharas Fortress time - undefined
+[18.01.26 08:01:12:164]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Western Fortress time - undefined
+[18.01.26 08:01:12:169]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hunter's Fortress time - undefined
+[18.01.26 08:01:12:174]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Aaru Fortress time - undefined
+[18.01.26 08:01:12:180]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Demon Fortress time - undefined
+[18.01.26 08:01:12:185]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Monastic Fortress time - undefined
+[18.01.26 08:01:12:187]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 70-75 Level time - 08:30 18.01.2026
+[18.01.26 08:01:12:187]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 76-79 Level time - 08:30 18.01.2026
+[18.01.26 08:01:12:187]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 80-85 Level time - 08:30 18.01.2026
+[18.01.26 08:01:12:187]  INFO fightclub.LastManStandingEvent: LastManStandingEvent: Last Hero time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.TeamVSTeamEvent: TeamVSTeamEvent: Team VS Team time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.LuckyCreaturesEvent: LuckyCreaturesEvent: Lucky Creatures time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.CaptureTheFlagEvent: CaptureTheFlagEvent: Capture The Flag time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.FFATreasureHuntEvent: FFATreasureHuntEvent: Treasure Hunt time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.KoreanStyleEvent: KoreanStyleEvent: Korean Style time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.ProtectTheKingEvent: ProtectTheKingEvent: Protect The King time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.FightForThroneEvent: FightForThroneEvent: Fight For Throne time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.DeathMatchEvent: DeathMatchEvent: Death Match time - undefined
+[18.01.26 08:01:12:187]  INFO fightclub.RussianRouletteEvent: RussianRouletteEvent: Russian Roulette time - undefined
+[18.01.26 08:01:12:191]  INFO instancemanager.CastleManorManager: Manor System: Initializing...
+[18.01.26 08:01:12:198]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 08:01:12:200]  INFO gameserver.GameServer: -------------------------------------------------------------=[ Auto Cleaner ]
+[18.01.26 08:01:12:200]  INFO gameserver.GameServer: IdFactory: Free ObjectID's remaining: 1879004306
+[18.01.26 08:01:12:200]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 08:01:12:200]  INFO instancemanager.CoupleManager: Initializing CoupleManager
+[18.01.26 08:01:12:201]  INFO instancemanager.CoupleManager: Loaded: 0 couples(s)
+[18.01.26 08:01:12:203]  INFO gameserver.GameServer: ----------------------------------------------------------------=[ Hellbound ]
+[18.01.26 08:01:12:217]  INFO instancemanager.HellboundManager: HellboundManager: Loaded 335 spawn entries.
+[18.01.26 08:01:12:624]  INFO instancemanager.HellboundManager: HellboundManager: Spawned 623 mobs and NPCs according to the current Hellbound stage
+[18.01.26 08:01:12:625]  INFO instancemanager.HellboundManager: Hellbound Manager: Loaded
+[18.01.26 08:01:12:625]  INFO naia.NaiaTowerManager: Naia Core Manager: Loaded
+[18.01.26 08:01:12:626]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 08:01:12:628]  INFO instancemanager.SoDManager: Seed of Destruction Manager: Loaded
+[18.01.26 08:01:12:628]  INFO instancemanager.SoIManager: Seed of Infinity Manager: Loaded. Current stage is: 1
+[18.01.26 08:01:12:630]  INFO instancemanager.SpawnManager: SpawnManager: spawned 4 npc; spawns: 4; group: soi_world_mouths
+[18.01.26 08:01:12:631]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: soi_world_abyssgaze2
+[18.01.26 08:01:12:632]  INFO instancemanager.BloodAltarManager: Blood Altar Manager: Initializing...
+[18.01.26 08:01:12:657]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[18.01.26 08:01:12:661]  INFO gameserver.GameServer: Preparing Drop Calculator
+[18.01.26 08:01:12:828]  INFO gameserver.GameServer: ----------------------------------------------------------=[ Offline Buffers ]
+[18.01.26 08:01:12:829]  INFO datatables.OfflineBuffersTable: OfflineBuffersTable: Loading offline buffers...
+[18.01.26 08:01:12:830]  INFO datatables.OfflineBuffersTable: OfflineBuffersTable: Loaded: 0 offline buffer(s)
+[18.01.26 08:01:12:851]  INFO achievements.Achievements: Achievement System: Loaded 5 achievement categories and 49 achievements.
+[18.01.26 08:01:12:851]  INFO gameserver.Shutdown: Scheduled server restart in 23h 58m 48s.
+[18.01.26 08:01:12:853]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 08:01:12:853]  INFO gameserver.GameServer: >>>>>>>>>>>>>>> GameServer Started <<<<<<<<<<<<<<
+[18.01.26 08:01:12:853]  INFO gameserver.GameServer: Maximum Numbers of Connected Players: 3500
+[18.01.26 08:01:12:853]  INFO gameserver.GameServer: --------------------------------------------------=[ DataBase Cleaner Loaded ]
+[18.01.26 08:01:12:854]  INFO dao.CharacterDAO: Found 0 characters to delete!
+[18.01.26 08:01:13:242]  INFO instancemanager.AutoAnnounce: AutoAnnounce: Initializing
+[18.01.26 08:01:13:243]  INFO instancemanager.AutoAnnounce: AutoAnnounce: Load OK
+[18.01.26 08:01:13:243]  INFO instancemanager.AutoAnnounce: AutoAnnounce: Loaded 0 announce.
+[18.01.26 08:01:13:245]  INFO gameserver.GameServer: ---------------------------------------------------=[ Loaded Facebook System ]
+[18.01.26 08:01:13:249]  INFO gameserver.GameServer: -----------------------------------------------------=[ Loaded Stream System ]
+[18.01.26 08:01:13:249]  INFO gameserver.GameServer: --------------------------------------------=[ Loaded AUTO - Donation System ]
+[18.01.26 08:01:13:252]  INFO taskmanager.BackupTaskManager: Next Auto Backup in 3 Min.
+[18.01.26 08:01:13:261]  INFO votingengine.VotingSettings: VotingSettings: Loaded 3 messages, 4 drops!
+[18.01.26 08:01:13:264]  INFO votingengine.VotingRewardAPI: VoteReward: Has been successfully loaded!
+[18.01.26 08:01:13:679]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[18.01.26 08:01:13:810]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dawn_spawn
+[18.01.26 08:01:14:266]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dusk_spawn
+[18.01.26 08:01:14:266]  INFO gameserver.GameServer: Telnet server is currently disabled.
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: *********[ Loading Lineage ][ Protect Configuration ]*****************
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: * ####   ####     ####    ####    ####   #    #  #   ####     ###    *
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: * #   #  #   #   #    #  #       #    #  ##   #  #  #    #   #   #   *
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: * #   #  #   #   #    #  #       #    #  # #  #  #  #            #   *
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: * #   #  ####    ######  #   ##  #    #  #  # #  #  #           #    *
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: * #   #  #   #   #    #  #    #  #    #  #   ##  #  #    #     #     *
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: * ####   #    #  #    #   ####    ####   #    #  #   ####    #####   *
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: **************Protection System: Lineage ][ Protect ON****************
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: =====================================================================================
+[18.01.26 08:01:14:273]  INFO ftGuard.ftGuard: Developer: ............... Alin Costea
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: Site: .................... https://dragonic2.com/
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: License type: ............ Dragonic 2
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: =====================================================================================
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: Revision: ................ Rev.V.2
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: Build date: .............. 2026.01.05 20:00
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: Core Dev: .............. Dragonic 2 Team
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: Data Dev: .............. Dragonic 2
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: Compiler version: ........ 1.8.0_241-b07 (Oracle Corporation)
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: =====================================================================================
+[18.01.26 08:01:14:274]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 08:01:14:275]  INFO ftGuard.ftGuard: ************[ Protection System: Starts Loading ]*********************
+[18.01.26 08:01:14:275]  INFO ftGuard.ftGuard: ************[ Protection System: Finish Loading ]*********************
+[18.01.26 08:01:14:275]  INFO ftGuard.ftGuard: ************[ Protection System: Lineage][Protect]********************
+[18.01.26 08:01:14:275]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 08:01:14:276]  INFO hwidmanager.HWIDManager: HWIDManager: Loaded 0 HWIDs
+[18.01.26 08:01:14:279]  INFO loginservercon.AuthServerCommunication: Connecting to authserver on 192.168.0.102:9014
+[18.01.26 08:01:14:283]  INFO lspackets.AuthResponse: Registered on authserver as 4 [Dragonic 2-LIVE]
+[18.01.26 08:02:24:013] ERROR threading.RunnableImpl: Exception: RunnableImpl.run(): java.lang.NullPointerException
+java.lang.NullPointerException
+	at l2f.gameserver.model.Creature.clearCastVars(Unknown Source)
+	at l2f.gameserver.model.Creature.onCastEndTime(Unknown Source)
+	at l2f.gameserver.model.GameObjectTasks$CastEndTimeTask.runImpl(Unknown Source)
+	at l2f.commons.threading.RunnableImpl.run(Unknown Source)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[18.01.26 08:02:53:244]  INFO tasks.RestoreOfflineTraders: Restored 0 offline traders
+[18.01.26 08:05:00:016]  INFO dao.DatabaseBackupManager: Executing CMD: [C:\Program Files\MySQL\MySQL Server 5.6\bin\mysqldump, -udragonic, -piJkgW0WRo0pQq9ov41UZgw8nVS3JCLQa4YOzjA4C93LYsiEWOqWYqwbSJmC5, -hlocalhost, dragonic2, -r, E:\backup\server\Dragonic 2-Compiled\gameserver\log\backups\dragonic2_2026-01-18_08.05.sql]
+[18.01.26 08:05:01:124]  INFO dao.DatabaseBackupManager: Backup finished successfully!
+[18.01.26 08:05:01:124]  INFO taskmanager.BackupTaskManager: Backup finished. Server frozen for 1 seconds!
+[18.01.26 08:05:01:124]  INFO taskmanager.BackupTaskManager: Next Auto Backup in 23 H., 59 Min.
+[18.01.26 08:31:12:744]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[18.01.26 08:31:12:746]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[18.01.26 08:31:12:747]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[18.01.26 08:31:12:748]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[18.01.26 08:31:12:749]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[18.01.26 08:31:12:751]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[18.01.26 08:31:12:753]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[18.01.26 08:31:12:754]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[18.01.26 08:31:12:755]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[18.01.26 08:31:12:757]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[18.01.26 08:31:12:758]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[18.01.26 08:31:12:759]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[18.01.26 08:31:12:759]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[18.01.26 08:50:56:563]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 08:55:56 CET 2026
+[18.01.26 09:00:57:174]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 09:01:12:779]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[18.01.26 09:06:00:896]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 09:06:00:896]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 09:06:00:896]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[18.01.26 09:50:56:625]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 09:55:56 CET 2026
+[18.01.26 10:00:57:171]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 10:06:00:907]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 10:06:00:907]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 10:06:00:907]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[18.01.26 10:50:56:663]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 10:55:56 CET 2026
+[18.01.26 11:00:00:727]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[18.01.26 11:00:53:532] ERROR loginservercon.AuthServerCommunication: AuthServer I/O error
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at l2f.gameserver.network.loginservercon.AuthServerCommunication.read(Unknown Source)
+	at l2f.gameserver.network.loginservercon.AuthServerCommunication.run(Unknown Source)
+[18.01.26 11:00:57:180]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 11:00:58:541]  INFO loginservercon.AuthServerCommunication: Connecting to authserver on 192.168.0.102:9014
+[18.01.26 11:00:58:556]  INFO lspackets.AuthResponse: Registered on authserver as 4 [Dragonic 2-LIVE]
+[18.01.26 11:06:00:894]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 11:06:00:894]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 11:06:00:894]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[18.01.26 11:56:16:408]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:410]  INFO gameserver.GameServer: **********[ Loading Lineage ][ Protect GameServer ]*******************
+[18.01.26 11:56:16:412]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: * ####   ####     ####    ####    ####   #    #  #   ####     ###    *
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: * #   #  #   #   #    #  #       #    #  ##   #  #  #    #   #   #   *
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: * #   #  #   #   #    #  #       #    #  # #  #  #  #            #   *
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: * #   #  ####    ######  #   ##  #    #  #  # #  #  #           #    *
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: * #   #  #   #   #    #  #    #  #    #  #   ##  #  #    #     #     *
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: * ####   #    #  #    #   ####    ####   #    #  #   ####    #####   *
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: **********[ GameServer System: Lineage ][ Protect ON ]****************
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: =====================================================================================
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: Developer: ............... Alin Costea
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: Site: .................... https://dragonic2.com/
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: License type: ............ Dragonic 2
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: =====================================================================================
+[18.01.26 11:56:16:414]  INFO gameserver.GameServer: Revision: ................ Rev.V.2
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Build date: .............. 2026.01.05 20:00
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Core Dev: .............. Alin Costea
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Data Dev: .............. Alin Costea
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Compiler version: ........ 1.8.0_241-b07 (Oracle Corporation)
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: =====================================================================================
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Copyright: ............... Dragonic 2.inc                            *
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Owner: ................... Alin Costea                               *
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Edition: ................. Top Premium                               *
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Chronicle: ............... High Five Part 5                          *
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Contact Person: .......... +40 793374945                             *
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: Information: ............. All Rights Reserved Dragonic 2            *
+[18.01.26 11:56:16:415]  INFO gameserver.GameServer: **********************************************************************
+[18.01.26 11:56:16:506]  INFO gameserver.Config: Loaded 12 trade words.
+[18.01.26 11:56:16:519]  INFO gameserver.Config: Abuse: Loaded 61 abuse words.
+[18.01.26 11:56:16:569]  INFO gameserver.Config: Gameserver Version: 1, build date: 2015.04.02 03:24
+[18.01.26 11:56:37:865]  INFO gameserver.Config: Loaded 308 Configs!
+[18.01.26 11:56:37:874]  INFO gameserver.GameServer: Licensed IP 87.90.149.239
+[18.01.26 11:56:37:874]  INFO gameserver.GameServer: Licensed IP Please Contact Alin Costea
+[18.01.26 11:56:38:242]  INFO gameserver.GameServer: -----------------------------------------=[ Loading Protection Configuration ]
+[18.01.26 11:56:38:255]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
+[18.01.26 11:56:38:378]  INFO idfactory.IdFactory: IdFactory: Cleaned 0 elements from database in 0sec.
+[18.01.26 11:56:38:391]  INFO idfactory.IdFactory: IdFactory: Extracted 6 used id's from characters
+[18.01.26 11:56:38:394]  INFO idfactory.IdFactory: IdFactory: Extracted 235 used id's from items
+[18.01.26 11:56:38:398]  INFO idfactory.IdFactory: IdFactory: Extracted 2 used id's from clan_data
+[18.01.26 11:56:38:400]  INFO idfactory.IdFactory: IdFactory: Extracted total 243 used id's.
+[18.01.26 11:56:38:400]  INFO idfactory.BitSetIDFactory: IdFactory: 1646592 id's available.
+[18.01.26 11:56:38:783]  INFO gameserver.GameServer: ===============[Loading Scripts]==================
+[18.01.26 11:56:38:790]  INFO scripts.Scripts: Scripts: Loading...
+[18.01.26 11:56:38:790]  INFO scripts.Scripts: Loading Server Scripts
+[18.01.26 11:56:39:474]  INFO scripts.Scripts: Scripts: Loaded 1287 classes.
+[18.01.26 11:56:39:494]  INFO geodata.GeoEngine: GeoEngine: Loading Geodata...
+[18.01.26 11:56:39:497]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_23.l2j
+[18.01.26 11:56:39:517]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_24.l2j
+[18.01.26 11:56:39:536]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_25.l2j
+[18.01.26 11:56:39:547]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/11_26.l2j
+[18.01.26 11:56:39:569]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_23.l2j
+[18.01.26 11:56:39:577]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_24.l2j
+[18.01.26 11:56:39:651]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_25.l2j
+[18.01.26 11:56:39:680]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/12_26.l2j
+[18.01.26 11:56:39:689]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_21.l2j
+[18.01.26 11:56:39:691]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_22.l2j
+[18.01.26 11:56:39:693]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_23.l2j
+[18.01.26 11:56:39:704]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_24.l2j
+[18.01.26 11:56:39:773]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_25.l2j
+[18.01.26 11:56:39:795]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/13_26.l2j
+[18.01.26 11:56:39:803]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_21.l2j
+[18.01.26 11:56:39:806]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_22.l2j
+[18.01.26 11:56:39:840]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_23.l2j
+[18.01.26 11:56:39:870]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_24.l2j
+[18.01.26 11:56:39:939]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_25.l2j
+[18.01.26 11:56:39:966]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/14_26.l2j
+[18.01.26 11:56:39:974]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_10.l2j
+[18.01.26 11:56:39:979]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_11.l2j
+[18.01.26 11:56:39:986]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_12.l2j
+[18.01.26 11:56:39:993]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_18.l2j
+[18.01.26 11:56:39:996]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_19.l2j
+[18.01.26 11:56:40:091]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_20.l2j
+[18.01.26 11:56:40:094]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_21.l2j
+[18.01.26 11:56:40:096]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_22.l2j
+[18.01.26 11:56:40:099]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_23.l2j
+[18.01.26 11:56:40:102]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_24.l2j
+[18.01.26 11:56:40:106]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_25.l2j
+[18.01.26 11:56:40:114]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/15_26.l2j
+[18.01.26 11:56:40:125]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_10.l2j
+[18.01.26 11:56:40:127]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_11.l2j
+[18.01.26 11:56:40:133]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_12.l2j
+[18.01.26 11:56:40:140]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_13.l2j
+[18.01.26 11:56:40:144]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_14.l2j
+[18.01.26 11:56:40:146]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_15.l2j
+[18.01.26 11:56:40:149]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_16.l2j
+[18.01.26 11:56:40:152]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_17.l2j
+[18.01.26 11:56:40:155]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_18.l2j
+[18.01.26 11:56:40:237]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_19.l2j
+[18.01.26 11:56:40:266]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_20.l2j
+[18.01.26 11:56:40:294]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_21.l2j
+[18.01.26 11:56:40:301]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_22.l2j
+[18.01.26 11:56:40:303]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_23.l2j
+[18.01.26 11:56:40:305]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_24.l2j
+[18.01.26 11:56:40:318]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_25.l2j
+[18.01.26 11:56:40:378]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/16_26.l2j
+[18.01.26 11:56:40:381]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_10.l2j
+[18.01.26 11:56:40:386]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_11.l2j
+[18.01.26 11:56:40:389]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_12.l2j
+[18.01.26 11:56:40:394]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_13.l2j
+[18.01.26 11:56:40:399]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_14.l2j
+[18.01.26 11:56:40:401]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_15.l2j
+[18.01.26 11:56:40:413]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_16.l2j
+[18.01.26 11:56:40:478]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_17.l2j
+[18.01.26 11:56:40:553]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_18.l2j
+[18.01.26 11:56:40:573]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_19.l2j
+[18.01.26 11:56:40:608]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_20.l2j
+[18.01.26 11:56:40:638]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_21.l2j
+[18.01.26 11:56:40:672]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_22.l2j
+[18.01.26 11:56:40:753]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_23.l2j
+[18.01.26 11:56:40:765]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_24.l2j
+[18.01.26 11:56:40:777]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_25.l2j
+[18.01.26 11:56:40:796]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/17_26.l2j
+[18.01.26 11:56:40:799]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_10.l2j
+[18.01.26 11:56:40:810]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_11.l2j
+[18.01.26 11:56:40:815]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_12.l2j
+[18.01.26 11:56:40:824]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_13.l2j
+[18.01.26 11:56:40:828]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_14.l2j
+[18.01.26 11:56:40:893]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_15.l2j
+[18.01.26 11:56:40:914]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_16.l2j
+[18.01.26 11:56:40:934]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_17.l2j
+[18.01.26 11:56:40:937]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_18.l2j
+[18.01.26 11:56:40:940]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_19.l2j
+[18.01.26 11:56:40:969]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_20.l2j
+[18.01.26 11:56:41:001]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_21.l2j
+[18.01.26 11:56:41:069]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_22.l2j
+[18.01.26 11:56:41:097]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_23.l2j
+[18.01.26 11:56:41:124]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_24.l2j
+[18.01.26 11:56:41:183]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_25.l2j
+[18.01.26 11:56:41:190]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/18_26.l2j
+[18.01.26 11:56:41:192]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_10.l2j
+[18.01.26 11:56:41:201]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_11.l2j
+[18.01.26 11:56:41:204]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_12.l2j
+[18.01.26 11:56:41:208]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_13.l2j
+[18.01.26 11:56:41:223]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_14.l2j
+[18.01.26 11:56:41:247]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_15.l2j
+[18.01.26 11:56:41:325]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_16.l2j
+[18.01.26 11:56:41:343]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_17.l2j
+[18.01.26 11:56:41:349]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_18.l2j
+[18.01.26 11:56:41:378]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_19.l2j
+[18.01.26 11:56:41:404]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_20.l2j
+[18.01.26 11:56:41:470]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_21.l2j
+[18.01.26 11:56:41:493]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_22.l2j
+[18.01.26 11:56:41:516]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_23.l2j
+[18.01.26 11:56:41:543]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_24.l2j
+[18.01.26 11:56:41:614]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_25.l2j
+[18.01.26 11:56:41:640]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/19_26.l2j
+[18.01.26 11:56:41:650]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_10.l2j
+[18.01.26 11:56:41:655]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_11.l2j
+[18.01.26 11:56:41:660]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_12.l2j
+[18.01.26 11:56:41:664]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_13.l2j
+[18.01.26 11:56:41:682]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_14.l2j
+[18.01.26 11:56:41:750]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_15.l2j
+[18.01.26 11:56:41:767]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_16.l2j
+[18.01.26 11:56:41:786]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_17.l2j
+[18.01.26 11:56:41:814]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_18.l2j
+[18.01.26 11:56:41:838]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_19.l2j
+[18.01.26 11:56:41:926]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_20.l2j
+[18.01.26 11:56:41:979]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_21.l2j
+[18.01.26 11:56:42:014]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_22.l2j
+[18.01.26 11:56:42:087]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_23.l2j
+[18.01.26 11:56:42:138]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_24.l2j
+[18.01.26 11:56:42:144]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_25.l2j
+[18.01.26 11:56:42:174]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/20_26.l2j
+[18.01.26 11:56:42:181]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_10.l2j
+[18.01.26 11:56:42:186]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_11.l2j
+[18.01.26 11:56:42:191]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_12.l2j
+[18.01.26 11:56:42:194]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_13.l2j
+[18.01.26 11:56:42:198]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_14.l2j
+[18.01.26 11:56:42:314]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_15.l2j
+[18.01.26 11:56:42:344]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_16.l2j
+[18.01.26 11:56:42:375]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_17.l2j
+[18.01.26 11:56:42:388]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_18.l2j
+[18.01.26 11:56:42:479]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_19.l2j
+[18.01.26 11:56:42:512]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_20.l2j
+[18.01.26 11:56:42:537]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_21.l2j
+[18.01.26 11:56:42:611]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_22.l2j
+[18.01.26 11:56:42:643]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_23.l2j
+[18.01.26 11:56:42:671]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_24.l2j
+[18.01.26 11:56:42:698]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/21_25.l2j
+[18.01.26 11:56:42:702]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_10.l2j
+[18.01.26 11:56:42:734]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_11.l2j
+[18.01.26 11:56:42:758]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_12.l2j
+[18.01.26 11:56:42:760]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_13.l2j
+[18.01.26 11:56:42:784]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_14.l2j
+[18.01.26 11:56:42:814]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_15.l2j
+[18.01.26 11:56:42:871]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_16.l2j
+[18.01.26 11:56:42:900]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_17.l2j
+[18.01.26 11:56:42:922]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_18.l2j
+[18.01.26 11:56:42:952]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_19.l2j
+[18.01.26 11:56:43:019]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_20.l2j
+[18.01.26 11:56:43:045]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_21.l2j
+[18.01.26 11:56:43:071]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_22.l2j
+[18.01.26 11:56:43:125]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_23.l2j
+[18.01.26 11:56:43:149]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_24.l2j
+[18.01.26 11:56:43:176]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_25.l2j
+[18.01.26 11:56:43:202]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/22_26.l2j
+[18.01.26 11:56:43:205]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_10.l2j
+[18.01.26 11:56:43:207]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_11.l2j
+[18.01.26 11:56:43:263]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_12.l2j
+[18.01.26 11:56:43:291]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_13.l2j
+[18.01.26 11:56:43:321]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_14.l2j
+[18.01.26 11:56:43:387]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_15.l2j
+[18.01.26 11:56:43:425]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_16.l2j
+[18.01.26 11:56:43:463]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_17.l2j
+[18.01.26 11:56:43:490]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_18.l2j
+[18.01.26 11:56:43:567]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_19.l2j
+[18.01.26 11:56:43:600]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_20.l2j
+[18.01.26 11:56:43:627]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_21.l2j
+[18.01.26 11:56:43:689]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_22.l2j
+[18.01.26 11:56:43:715]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_23.l2j
+[18.01.26 11:56:43:740]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_24.l2j
+[18.01.26 11:56:43:765]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_25.l2j
+[18.01.26 11:56:43:810]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/23_26.l2j
+[18.01.26 11:56:43:813]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_10.l2j
+[18.01.26 11:56:43:816]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_11.l2j
+[18.01.26 11:56:43:836]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_12.l2j
+[18.01.26 11:56:43:867]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_13.l2j
+[18.01.26 11:56:43:881]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_14.l2j
+[18.01.26 11:56:43:959]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_15.l2j
+[18.01.26 11:56:43:993]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_16.l2j
+[18.01.26 11:56:44:027]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_17.l2j
+[18.01.26 11:56:44:098]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_18.l2j
+[18.01.26 11:56:44:127]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_19.l2j
+[18.01.26 11:56:44:148]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_20.l2j
+[18.01.26 11:56:44:185]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_21.l2j
+[18.01.26 11:56:44:250]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_22.l2j
+[18.01.26 11:56:44:284]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_23.l2j
+[18.01.26 11:56:44:312]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_24.l2j
+[18.01.26 11:56:44:319]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_25.l2j
+[18.01.26 11:56:44:323]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/24_26.l2j
+[18.01.26 11:56:44:326]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_10.l2j
+[18.01.26 11:56:44:329]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_11.l2j
+[18.01.26 11:56:44:408]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_12.l2j
+[18.01.26 11:56:44:465]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_14.l2j
+[18.01.26 11:56:44:500]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_15.l2j
+[18.01.26 11:56:44:579]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_16.l2j
+[18.01.26 11:56:44:605]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_17.l2j
+[18.01.26 11:56:44:632]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_18.l2j
+[18.01.26 11:56:44:699]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_19.l2j
+[18.01.26 11:56:44:736]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_20.l2j
+[18.01.26 11:56:44:745]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_21.l2j
+[18.01.26 11:56:44:752]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_22.l2j
+[18.01.26 11:56:44:754]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_23.l2j
+[18.01.26 11:56:44:759]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/25_24.l2j
+[18.01.26 11:56:44:762]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_11.l2j
+[18.01.26 11:56:44:770]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_12.l2j
+[18.01.26 11:56:44:779]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_14.l2j
+[18.01.26 11:56:44:834]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_15.l2j
+[18.01.26 11:56:44:837]  INFO geodata.GeoEngine: GeoEngine: Loading: geodata/26_16.l2j
+[18.01.26 11:56:44:839]  INFO geodata.GeoEngine: GeoEngine: Loaded 203 map(s), max layers: 21
+[18.01.26 11:56:44:844]  INFO vote.VoteMain: Loaded: Vote System - Individual Reward.
+[18.01.26 11:56:44:845]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Twitch Manager ]
+[18.01.26 11:56:44:966]  INFO gameserver.GameServer: -------------------------------------------------------------=[ Vote Manager ]
+[18.01.26 11:56:45:065]  INFO utils.Strings: Loaded 418 translit entries.
+[18.01.26 11:56:45:072]  INFO gameserver.GameTimeController: GameTimeController: initialized. Current time is 5:40 in the night.
+[18.01.26 11:56:45:073]  INFO gameserver.GameServer: ------------------------------------------------------------=[ Lineage World ]
+[18.01.26 11:56:45:074]  INFO model.World: L2World: Creating regions: [256][272][32].
+[18.01.26 11:56:45:074]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 11:56:45:078]  INFO htm.HtmCache: HtmCache: disabled.
+[18.01.26 11:56:45:095]  INFO data.StringHolder: StringHolder: load strings: 1066 for lang: ENGLISH
+[18.01.26 11:56:45:097]  INFO data.StringHolder: StringHolder: load strings: 876 for lang: RUSSIAN
+[18.01.26 11:56:51:356]  INFO skills.SkillsEngine: SkillsEngine: Loaded 66071 skill templates from XML files. Max id: 91000, max level: 259
+[18.01.26 11:56:52:730]  INFO holder.OptionDataHolder: OptionDataHolder: loaded 24975 option data(s) count.
+[18.01.26 11:56:54:132]  INFO holder.ItemHolder: ItemHolder: loaded 19334 item(s) count.
+[18.01.26 11:56:54:147]  INFO holder.FakePlayerNpcsHolder: FakePlayerNpcsHolder: loaded 8 fake player npcs(s) count.
+[18.01.26 11:56:57:336]  INFO holder.NpcHolder: NpcHolder: loaded 10707 npc(s) count.
+[18.01.26 11:56:57:354]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
+[18.01.26 11:56:57:389]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 272 map region manager(s) count.
+[18.01.26 11:56:57:493]  INFO holder.ExchangeItemHolder: ExchangeItemHolder: loaded 602 exchange item(s) count.
+[18.01.26 11:56:57:501]  INFO holder.StaticObjectHolder: StaticObjectHolder: loaded 50 static object(s) count.
+[18.01.26 11:56:57:714]  INFO holder.DoorHolder: DoorHolder: loaded 1155 door(s) count.
+[18.01.26 11:56:57:821]  INFO holder.ZoneHolder: ZoneHolder: loaded 1261 zone(s) count.
+[18.01.26 11:56:58:475]  INFO holder.SpawnHolder: SpawnHolder: loaded 29047 spawn(s) count.
+[18.01.26 11:56:58:636]  INFO holder.InstantZoneHolder: InstantZoneHolder: loaded 94 instant zone(s) count.
+[18.01.26 11:57:00:414]  INFO holder.AirshipDockHolder: AirshipDockHolder: loaded 4 airship dock(s) count.
+[18.01.26 11:57:00:583]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 57215 normal learns for 103 classes.
+[18.01.26 11:57:00:583]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 79 transfer learns for 3 classes.
+[18.01.26 11:57:00:584]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 120 transformation learns for 6 races.
+[18.01.26 11:57:00:584]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 662 fishing learns for 6 races.
+[18.01.26 11:57:00:584]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 72 certification learns.
+[18.01.26 11:57:00:584]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 3 collection learns.
+[18.01.26 11:57:00:584]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 44 pledge learns.
+[18.01.26 11:57:00:584]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 18 sub unit learns.
+[18.01.26 11:57:00:608]  INFO holder.CharTemplateHolder: CharTemplateHolder: loaded 206 char template(s) count.
+[18.01.26 11:57:00:809]  INFO holder.ResidenceHolder: ResidenceHolder: total size: 83
+[18.01.26 11:57:00:810]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 21 fortress(s).
+[18.01.26 11:57:00:811]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 44 clanhall(s).
+[18.01.26 11:57:00:811]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 castle(s).
+[18.01.26 11:57:00:811]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 dominion(s).
+[18.01.26 11:57:01:013]  INFO instancemanager.RaidBossSpawnManager: RaidBossSpawnManager: Loaded 194 Statuses
+[18.01.26 11:57:01:087]  INFO entity.SevenSigns: SevenSigns: Currently in the Competition (Quest Event) period!
+[18.01.26 11:57:01:088]  INFO entity.SevenSigns: SevenSigns: The Seal of Avarice remains unclaimed.
+[18.01.26 11:57:01:088]  INFO entity.SevenSigns: SevenSigns: The Seal of Gnosis remains unclaimed.
+[18.01.26 11:57:01:088]  INFO entity.SevenSigns: SevenSigns: The Seal of Strife remains unclaimed.
+[18.01.26 11:57:01:088]  INFO entity.SevenSigns: SevenSigns: The Competition this week, if the trend continue, will end with a tie.
+[18.01.26 11:57:01:089]  INFO entity.SevenSigns: SevenSigns: Next period begins in 1 days, 6 hours and 2 mins.
+[18.01.26 11:57:01:256]  INFO holder.EventHolder: EventHolder: loaded 105 event(s) count.
+[18.01.26 11:57:01:283]  INFO holder.FightClubMapHolder: FightClubMapHolder: loaded 42 fight club map(s) count.
+[18.01.26 11:57:01:291]  INFO holder.CubicHolder: CubicHolder: loaded 145 cubic(s) count.
+[18.01.26 11:57:01:420]  INFO holder.BuyListHolder: TradeController: Loaded 4 file(s).
+[18.01.26 11:57:01:420]  INFO holder.BuyListHolder: TradeController: Loaded 25014 Items.
+[18.01.26 11:57:01:421]  INFO holder.BuyListHolder: TradeController: Loaded 727 Buylists.
+[18.01.26 11:57:01:459]  INFO holder.RecipeHolder: RecipeController: Loaded 998 Recipes.
+[18.01.26 11:57:02:062]  INFO holder.ProductHolder: ProductItemTable: Loaded 0 product item on sale.
+[18.01.26 11:57:02:088]  INFO holder.HennaHolder: HennaHolder: loaded 180 henna(s) count.
+[18.01.26 11:57:02:101]  INFO parser.EnchantItemParser: EnchantItemParser: Not supported for now.2
+[18.01.26 11:57:02:102]  INFO holder.EnchantItemHolder: EnchantItemHolder: load 5 enchant scroll(s).
+[18.01.26 11:57:02:110]  INFO holder.SoulCrystalHolder: SoulCrystalHolder: loaded 54 soul crystal(s) count.
+[18.01.26 11:57:02:120]  INFO holder.ArmorSetsHolder: ArmorSetsHolder: loaded 199 armor sets(s) count.
+[18.01.26 11:57:02:130]  INFO holder.PetitionGroupHolder: PetitionGroupHolder: loaded 3 petition group(s) count.
+[18.01.26 11:57:02:138]  INFO holder.DressArmorHolder: DressArmorHolder: loaded 38 dress armor(s) count.
+[18.01.26 11:57:02:145]  INFO holder.DressCloakHolder: DressCloakHolder: loaded 15 dress cloak(s) count.
+[18.01.26 11:57:02:151]  INFO holder.DressShieldHolder: DressShieldHolder: loaded 13 dress shield(s) count.
+[18.01.26 11:57:02:158]  INFO holder.DressWeaponHolder: DressWeaponHolder: loaded 32 dress weapon(s) count.
+[18.01.26 11:57:02:303]  INFO holder.AugmentationDataHolder: AugmentationDataHolder: loaded 1022 augmentation data(s) count.
+[18.01.26 11:57:02:316]  INFO holder.PremiumHolder: PremiumHolder: loaded 5 premium(s) count.
+[18.01.26 11:57:02:328]  INFO holder.FoundationHolder: FoundationHolder: loaded 268 foundation(s) count.
+[18.01.26 11:57:02:349]  INFO holder.DonationHolder: DonationHolder: loaded 221 donation(s) count.
+[18.01.26 11:57:02:361]  INFO holder.TournamentMapHolder: TournamentMapHolder: loaded 3 tournament map(s) count.
+[18.01.26 11:57:02:370]  INFO holder.FacebookCommentsHolder: FacebookCommentsHolder: loaded 2 facebook comments(s) count.
+[18.01.26 11:57:02:371]  INFO gameserver.GameServer: -------------------------------------------------------------=[ Banned HWIDS ]
+[18.01.26 11:57:02:377]  INFO security.HWIDBan: black list (Hwid) loaded size: 0
+[18.01.26 11:57:02:377]  INFO gameserver.GameServer: --------------------------------------------------------------=[ Clan Crests ]
+[18.01.26 11:57:02:381]  INFO cache.CrestCache: CrestCache: Loaded 0 crests
+[18.01.26 11:57:02:381]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Loading Images ]
+[18.01.26 11:57:06:307]  INFO cache.ImagesCache: Loaded 344 Images!
+[18.01.26 11:57:06:308]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 11:57:06:367]  INFO gameserver.GameServer: ---------------------------------------------------------------=[ Fish Table ]
+[18.01.26 11:57:06:378]  INFO tables.FishTable: FishTable: Loaded 270 fishes.
+[18.01.26 11:57:06:389]  INFO tables.FishTable: FishTable: Loaded 919 fish rewards.
+[18.01.26 11:57:06:389]  INFO gameserver.GameServer: -------------------------------------------------------------------=[ Skills ]
+[18.01.26 11:57:06:390]  INFO tables.SkillTreeTable: SkillTreeTable: Loaded 526 enchanted skills.
+[18.01.26 11:57:06:474]  INFO datatables.EnchantNamesTable: EnchantNamesTable: Loaded: 1319 skill enchant names
+[18.01.26 11:57:06:475]  INFO gameserver.GameServer: --------------------------------------------------------=[ Augmentation Data ]
+[18.01.26 11:57:06:481]  INFO tables.AugmentationData: Initializing AugmentationData.
+[18.01.26 11:57:06:510]  INFO tables.AugmentationData: AugmentationData: 10 bad skill(s) were skipped.
+[18.01.26 11:57:06:528]  INFO tables.AugmentationData: AugmentationData: Loaded: 52 augmentation stats.
+[18.01.26 11:57:06:530]  INFO tables.AugmentationData: AugmentationData: Loaded: 24 accessory augmentation stats.
+[18.01.26 11:57:06:531]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 0
+[18.01.26 11:57:06:532]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 1
+[18.01.26 11:57:06:542]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 2
+[18.01.26 11:57:06:542]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 3
+[18.01.26 11:57:06:543]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 4
+[18.01.26 11:57:06:543]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 5
+[18.01.26 11:57:06:543]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 6
+[18.01.26 11:57:06:543]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 7
+[18.01.26 11:57:06:543]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 8
+[18.01.26 11:57:06:543]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 9
+[18.01.26 11:57:06:548]  INFO tables.EnchantHPBonusTable: EnchantHPBonusTable: Loaded bonuses for 6 grades.
+[18.01.26 11:57:06:549]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Level Up Table ]
+[18.01.26 11:57:06:555]  INFO tables.LevelUpTable: LevelUpData: Loaded 103 Character Level Up Templates.
+[18.01.26 11:57:06:565]  INFO tables.PetSkillsTable: PetSkillsTable: Loaded 2558 skills.
+[18.01.26 11:57:06:565]  INFO gameserver.GameServer: ----------------------------------------------------------------=[ Item Logs ]
+[18.01.26 11:57:06:570]  INFO gameserver.GameServer: ---------------------------------------------------------------=[ Auctioneer ]
+[18.01.26 11:57:06:572]  INFO itemauction.ItemAuctionManager: Initializing ItemAuctionManager
+[18.01.26 11:57:06:601]  INFO itemauction.ItemAuctionInstance: ItemAuction: Loaded 37 item(s) and registered 12 auction(s) for instance 32320.
+[18.01.26 11:57:06:604]  INFO itemauction.ItemAuctionInstance: ItemAuction: Schedule next auction 32 on 2026.01.20 17:00:00 for instance 32320
+[18.01.26 11:57:06:617]  INFO itemauction.ItemAuctionInstance: ItemAuction: Loaded 37 item(s) and registered 10 auction(s) for instance 32321.
+[18.01.26 11:57:06:618]  INFO itemauction.ItemAuctionInstance: ItemAuction: Schedule next auction 33 on 2026.01.22 17:00:00 for instance 32321
+[18.01.26 11:57:06:640]  INFO itemauction.ItemAuctionInstance: ItemAuction: Loaded 37 item(s) and registered 13 auction(s) for instance 32322.
+[18.01.26 11:57:06:641]  INFO itemauction.ItemAuctionInstance: ItemAuction: Schedule next auction 35 on 2026.01.24 17:00:00 for instance 32322
+[18.01.26 11:57:06:642]  INFO itemauction.ItemAuctionManager: ItemAuctionManager: Loaded 3 instance(s).
+[18.01.26 11:57:06:642]  INFO gameserver.GameServer: ------------------------------------------------------------=[ Masterio Pack ]
+[18.01.26 11:57:06:710]  INFO gameserver.GameServer: ------------------------------------------------------=[ Merge System Loaded ]
+[18.01.26 11:57:06:752]  INFO bosses.AntharasManager: AntharasManager: State of Antharas is NOTSPAWN.
+[18.01.26 11:57:06:753]  INFO bosses.AntharasManager: AntharasManager: Next spawn date of Antharas is 01:00 01.01.1970.
+[18.01.26 11:57:06:755]  INFO bosses.BaiumManager: BaiumManager: State of Baium is NOTSPAWN.
+[18.01.26 11:57:06:759]  INFO bosses.BaiumManager: BaiumManager: Next spawn date: 14:20 17.12.2025
+[18.01.26 11:57:06:771]  INFO bosses.BelethManager: Beleth Manager: Loaded successfully
+[18.01.26 11:57:06:776]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[18.01.26 11:57:06:802]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 physical monsters spawns.
+[18.01.26 11:57:06:826]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 magical monsters spawns.
+[18.01.26 11:57:06:834]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[18.01.26 11:57:06:841]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[18.01.26 11:57:06:858]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[18.01.26 11:57:06:861]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[18.01.26 11:57:06:862]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[18.01.26 11:57:06:864]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[18.01.26 11:57:06:865]  INFO bosses.FourSepulchersManager: FourSepulchersManager: Beginning in Entry time
+[18.01.26 11:57:06:870]  INFO bosses.SailrenManager: SailrenManager: State of Sailren is NOTSPAWN.
+[18.01.26 11:57:06:870]  INFO bosses.SailrenManager: SailrenManager: Next spawn date of Sailren is 01:00 01.01.1970.
+[18.01.26 11:57:06:872]  INFO bosses.ValakasManager: ValakasManager: State of Valakas is NOTSPAWN.
+[18.01.26 11:57:06:872]  INFO bosses.ValakasManager: ValakasManager: Next spawn date of Valakas is 01:00 01.01.1970.
+[18.01.26 11:57:07:073]  INFO tables.PetDataTable: PetDataTable: Loaded 3870 pets.
+[18.01.26 11:57:07:081]  INFO model.Manor: ManorManager: Loaded 270 seeds
+[18.01.26 11:57:07:410]  INFO scriptconfig.ScriptConfig: Loaded Service: ScripsConfig
+[18.01.26 11:57:07:419]  INFO model.Player: Loaded Service: SellPcService
+[18.01.26 11:57:07:421]  INFO community.CareerManager: CommunityBoard: Manage Career service loaded.
+[18.01.26 11:57:07:447]  INFO dailyquests.AbstractDPScript: DailyQuestHandler: Loaded DailyQuests data
+[18.01.26 11:57:07:453]  INFO community.CommunityAuctionHouse: CommunityBoard: Auction System Service loaded.
+[18.01.26 11:57:07:456]  INFO community.CommunityAugment: CommunityBoard: Augmentation Manager loaded with 188 lifestone skills.
+[18.01.26 11:57:07:457]  INFO community.CommunityBoard: CommunityBoard: service loaded.
+[18.01.26 11:57:07:458]  INFO community.CommunityBoardAcademy: CommunityBoard: Academy service loaded.
+[18.01.26 11:57:07:459]  INFO community.CommunityBosses: CommunityBoard: Bosses loaded.
+[18.01.26 11:57:07:461]  INFO community.CommunityClan: CommunityBoard: Clan service loaded.
+[18.01.26 11:57:07:463]  INFO community.CommunityDropCalculator: CommunityBoard: Drop Calculator service loaded.
+[18.01.26 11:57:07:463]  INFO community.CommunityEvents: CommunityBoard: Community Events service loaded.
+[18.01.26 11:57:07:464]  INFO community.CommunityFacebook: CommunityBoard: Facebook Rewards page loaded.
+[18.01.26 11:57:07:468]  INFO community.CommunityNpcs: CommunityBoard: Npcs loaded.
+[18.01.26 11:57:07:469]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 11:57:07:478]  INFO community.CommunityTournament: CommunityBoard: Tournament loaded.
+[18.01.26 11:57:07:479]  INFO community.CommunityWarehouse: CommunityBoard: Warehouse loaded.
+[18.01.26 11:57:07:480]  INFO community.Forge: CommunityBoard: Forge loaded.
+[18.01.26 11:57:07:485]  INFO community.ServicesCommunity: ServicesCommunity: Services Community service loaded.
+[18.01.26 11:57:07:500]  INFO gameserver.GameServer: ===============[Spawn Manager]==================
+[18.01.26 11:57:07:525]  INFO naia.NaiaTowerManager: Naia Tower Manager: Loaded 12 rooms
+[18.01.26 11:57:07:916]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1000 npc for group: NONE
+[18.01.26 11:57:08:142]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3000 npc for group: NONE
+[18.01.26 11:57:08:413]  INFO instancemanager.SpawnManager: SpawnManager: spawned 5000 npc for group: NONE
+[18.01.26 11:57:08:721]  INFO instancemanager.SpawnManager: SpawnManager: spawned 7000 npc for group: NONE
+[18.01.26 11:57:09:814]  INFO instancemanager.SpawnManager: SpawnManager: spawned 12000 npc for group: NONE
+[18.01.26 11:57:10:068]  INFO instancemanager.SpawnManager: SpawnManager: spawned 13000 npc for group: NONE
+[18.01.26 11:57:10:385]  INFO instancemanager.SpawnManager: SpawnManager: spawned 14000 npc for group: NONE
+[18.01.26 11:57:10:664]  INFO instancemanager.SpawnManager: SpawnManager: spawned 15000 npc for group: NONE
+[18.01.26 11:57:11:239]  INFO instancemanager.SpawnManager: SpawnManager: spawned 17000 npc for group: NONE
+[18.01.26 11:57:11:533]  INFO instancemanager.SpawnManager: SpawnManager: spawned 18000 npc for group: NONE
+[18.01.26 11:57:11:880]  INFO instancemanager.SpawnManager: SpawnManager: spawned 19000 npc for group: NONE
+[18.01.26 11:57:12:251]  INFO instancemanager.SpawnManager: SpawnManager: spawned 20000 npc for group: NONE
+[18.01.26 11:57:12:649]  INFO instancemanager.SpawnManager: SpawnManager: spawned 21000 npc for group: NONE
+[18.01.26 11:57:13:401]  INFO instancemanager.SpawnManager: SpawnManager: spawned 22000 npc for group: NONE
+[18.01.26 11:57:16:883]  INFO instancemanager.SpawnManager: SpawnManager: spawned 27000 npc for group: NONE
+[18.01.26 11:57:18:175]  INFO instancemanager.SpawnManager: SpawnManager: spawned 29000 npc for group: NONE
+[18.01.26 11:57:18:826]  INFO instancemanager.SpawnManager: SpawnManager: spawned 30000 npc for group: NONE
+[18.01.26 11:57:19:968]  INFO instancemanager.SpawnManager: SpawnManager: spawned 32000 npc for group: NONE
+[18.01.26 11:57:20:543]  INFO instancemanager.SpawnManager: SpawnManager: spawned 33000 npc for group: NONE
+[18.01.26 11:57:25:020]  INFO instancemanager.SpawnManager: SpawnManager: spawned 38471 npc; spawns: 17185; group: NONE
+[18.01.26 11:57:25:021]  INFO gameserver.GameServer: --------------------------------------------------------------------=[ Boats ]
+[18.01.26 11:57:25:022]  INFO data.BoatHolder: BoatHolder: loaded 2 boat(s) count.
+[18.01.26 11:57:25:034]  INFO data.BoatHolder: BoatHolder: Spawning: RunePrimeval_Vehicle
+[18.01.26 11:57:25:034]  INFO data.BoatHolder: BoatHolder: Spawning: AdenGracia_Airship
+[18.01.26 11:57:25:037]  INFO holder.StaticObjectHolder: StaticObjectHolder: spawned: 50 static object(s).
+[18.01.26 11:57:25:037]  INFO gameserver.GameServer: ---------------------------------------------------------=[ Dimensional Rift ]
+[18.01.26 11:57:25:044]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 13 room types with 112 rooms.
+[18.01.26 11:57:25:045]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 300 DimensionalRift spawns, 0 errors.
+[18.01.26 11:57:25:053]  INFO gameserver.GameServer: --------------------------------------------------------------=[ Seven Signs ]
+[18.01.26 11:57:25:084]  INFO instancemanager.AutoSpawnManager: AutoSpawnHandler: Loaded 50 handlers in total.
+[18.01.26 11:57:25:086]  INFO gameserver.GameServer: ===================================================================
+[18.01.26 11:57:25:086]  INFO gameserver.GameServer: ===================[Loading Olympiad System]=======================
+[18.01.26 11:57:25:096]  INFO olympiad.Olympiad: Olympiad System: Loading Olympiad System....
+[18.01.26 11:57:25:096]  INFO olympiad.Olympiad: Olympiad System: Currently in Olympiad Period
+[18.01.26 11:57:25:096]  INFO olympiad.Olympiad: Olympiad System: Period Ends....
+[18.01.26 11:57:25:097]  INFO olympiad.Olympiad: Olympiad System: In 5 days, 12 hours and 4 mins.
+[18.01.26 11:57:25:097]  INFO olympiad.Olympiad: Olympiad System: Next Weekly Change is in....
+[18.01.26 11:57:25:097]  INFO olympiad.Olympiad: Olympiad System: In 5 days, 22 hours and 43 mins.
+[18.01.26 11:57:25:097]  INFO olympiad.Olympiad: Olympiad System: Loaded 0 Noblesses
+[18.01.26 11:57:25:098]  INFO olympiad.Olympiad: Olympiad System: Competition Period Starts in 0 days, 8 hours and 2 mins.
+[18.01.26 11:57:25:098]  INFO olympiad.Olympiad: Olympiad System: Event starts/started: Sun Jan 18 20:00:25 CET 2026
+[18.01.26 11:57:25:103]  INFO entity.Hero: Hero System: Loaded 0 Heroes.
+[18.01.26 11:57:25:103]  INFO entity.Hero: Hero System: Loaded 0 all time Heroes.
+[18.01.26 11:57:25:103]  INFO gameserver.GameServer: ===================[Olympiad System Loaded]=======================
+[18.01.26 11:57:25:103]  INFO gameserver.GameServer: ===================================================================
+[18.01.26 11:57:25:104]  INFO instancemanager.PetitionManager: Initializing PetitionManager
+[18.01.26 11:57:25:119]  INFO instancemanager.CursedWeaponsManager: CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[18.01.26 11:57:25:119]  INFO gameserver.GameServer: ------------------------------------------=[ Loaded Small Achievement System ]
+[18.01.26 11:57:25:142]  INFO gameserver.GameServer: -----------------------------------------------------------=[ Admin Commands ]
+[18.01.26 11:57:25:142]  INFO admincommands.AdminCommandHandler: AdminCommandHandler: loaded 475 admin command handler(s) count.
+[18.01.26 11:57:25:142]  INFO gameserver.GameServer: ---------------------------------------------------------=[ Players Commands ]
+[18.01.26 11:57:25:146]  INFO usercommands.UserCommandHandler: UserCommandHandler: loaded 16 user command handler(s) count.
+[18.01.26 11:57:25:146]  INFO voicecommands.VoicedCommandHandler: VoicedCommandHandler: loaded 94 voiced command handler(s) count.
+[18.01.26 11:57:25:155]  INFO gameserver.GameServer: ======================[Tournament By Kara`]==========================
+[18.01.26 11:57:25:159]  INFO tournament.TournamentHolder: [TournamentHolder] Initialized 5 tournament holders:
+[18.01.26 11:57:25:159]  INFO tournament.TournamentHolder: 1 vs 1
+[18.01.26 11:57:25:159]  INFO tournament.TournamentHolder: 5 vs 5
+[18.01.26 11:57:25:159]  INFO tournament.TournamentHolder: 9 vs 9
+[18.01.26 11:57:25:159]  INFO tournament.TournamentHolder: 25 vs 25
+[18.01.26 11:57:25:159]  INFO tournament.TournamentHolder: 15 vs 15
+[18.01.26 11:57:25:161]  INFO gameserver.GameServer: ======================[Loading Castels & Clan Halls]==========================
+[18.01.26 11:57:25:262]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Gludio Castle time - 16:00 18.01.2026
+[18.01.26 11:57:25:277]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Dion Castle time - 16:00 18.01.2026
+[18.01.26 11:57:25:286]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Giran Castle time - 20:00 18.01.2026
+[18.01.26 11:57:25:297]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Oren Castle time - 20:00 18.01.2026
+[18.01.26 11:57:25:309]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Aden Castle time - 16:00 18.01.2026
+[18.01.26 11:57:25:323]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Innadril Castle time - 20:00 18.01.2026
+[18.01.26 11:57:25:335]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Goddard Castle time - 20:00 18.01.2026
+[18.01.26 11:57:25:345]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Rune Castle time - 16:00 18.01.2026
+[18.01.26 11:57:25:355]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Schuttgart Castle time - 16:00 18.01.2026
+[18.01.26 11:57:25:360]  INFO impl.ClanHallNpcSiegeEvent: ClanHallNpcSiegeEvent: Fortress Of Resistance time - 18:00 19.01.2026
+[18.01.26 11:57:25:362]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:363]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:365]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Topaz Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:367]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Ruby Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:370]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Crystal Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:372]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:373]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:376]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:377]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:379]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Atramental Barracks time - 10:40 17.01.2026
+[18.01.26 11:57:25:380]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Scarlet Barracks time - 10:40 17.01.2026
+[18.01.26 11:57:25:381]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Viridian Barracks time - 10:40 17.01.2026
+[18.01.26 11:57:25:383]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Devastated Castle time - 18:00 24.01.2026
+[18.01.26 11:57:25:384]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Bandit Stronghold time - 22:00 24.01.2026
+[18.01.26 11:57:25:386]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:388]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:390]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:393]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 10:40 17.01.2026
+[18.01.26 11:57:25:394]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Gold Manor time - 10:40 17.01.2026
+[18.01.26 11:57:25:396]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:398]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:401]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:402]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:404]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:407]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 10:40 17.01.2026
+[18.01.26 11:57:25:408]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:411]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:412]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:414]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:416]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Mont Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:417]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Astaire Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:419]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Aria Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:422]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Yiana Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:424]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Roien Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:427]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Luna Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:429]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Traban Chamber time - 10:40 17.01.2026
+[18.01.26 11:57:25:431]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Eisen Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:435]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Heavy Metal Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:438]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Molten Ore Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:442]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Titan Hall time - 10:40 17.01.2026
+[18.01.26 11:57:25:457]  INFO impl.ClanHallMiniGameEvent: ClanHallMiniGameEvent: Rainbow Springs time - 22:00 24.01.2026
+[18.01.26 11:57:25:458]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Wild Beast Reserve time - 21:00 24.01.2026
+[18.01.26 11:57:25:459]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Fortress of Dead time - 18:00 24.01.2026
+[18.01.26 11:57:25:467]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Gludio Dominion time - undefined
+[18.01.26 11:57:25:469]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Dion Dominion time - undefined
+[18.01.26 11:57:25:470]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Giran Dominion time - undefined
+[18.01.26 11:57:25:471]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Oren Dominion time - undefined
+[18.01.26 11:57:25:473]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Aden Dominion time - undefined
+[18.01.26 11:57:25:474]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Innadril Dominion time - undefined
+[18.01.26 11:57:25:475]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Goddard Dominion time - undefined
+[18.01.26 11:57:25:476]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Rune Dominion time - undefined
+[18.01.26 11:57:25:477]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Schuttgart Dominion time - undefined
+[18.01.26 11:57:25:480]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Shanty Fortress time - undefined
+[18.01.26 11:57:25:488]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Southern Fortress time - undefined
+[18.01.26 11:57:25:494]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hive Fortress time - undefined
+[18.01.26 11:57:25:500]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Valley Fortress time - undefined
+[18.01.26 11:57:25:506]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Ivory Fortress time - undefined
+[18.01.26 11:57:25:511]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Narsell Fortress time - undefined
+[18.01.26 11:57:25:516]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Bayou Fortress time - undefined
+[18.01.26 11:57:25:521]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: White Sands Fortress time - undefined
+[18.01.26 11:57:25:525]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Borderland Fortress time - undefined
+[18.01.26 11:57:25:531]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Swamp Fortress time - undefined
+[18.01.26 11:57:25:539]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Archaic Fortress time - undefined
+[18.01.26 11:57:25:544]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Floran Fortress time - undefined
+[18.01.26 11:57:25:551]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Cloud Mountain Fortress time - undefined
+[18.01.26 11:57:25:554]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Tanor Fortress time - undefined
+[18.01.26 11:57:25:559]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Dragonspine Fortress time - undefined
+[18.01.26 11:57:25:563]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Antharas Fortress time - undefined
+[18.01.26 11:57:25:569]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Western Fortress time - undefined
+[18.01.26 11:57:25:574]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hunter's Fortress time - undefined
+[18.01.26 11:57:25:579]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Aaru Fortress time - undefined
+[18.01.26 11:57:25:583]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Demon Fortress time - undefined
+[18.01.26 11:57:25:587]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Monastic Fortress time - undefined
+[18.01.26 11:57:25:588]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 70-75 Level time - 12:00 18.01.2026
+[18.01.26 11:57:25:588]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 76-79 Level time - 12:00 18.01.2026
+[18.01.26 11:57:25:588]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 80-85 Level time - 12:00 18.01.2026
+[18.01.26 11:57:25:588]  INFO fightclub.LastManStandingEvent: LastManStandingEvent: Last Hero time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.TeamVSTeamEvent: TeamVSTeamEvent: Team VS Team time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.LuckyCreaturesEvent: LuckyCreaturesEvent: Lucky Creatures time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.CaptureTheFlagEvent: CaptureTheFlagEvent: Capture The Flag time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.FFATreasureHuntEvent: FFATreasureHuntEvent: Treasure Hunt time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.KoreanStyleEvent: KoreanStyleEvent: Korean Style time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.ProtectTheKingEvent: ProtectTheKingEvent: Protect The King time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.FightForThroneEvent: FightForThroneEvent: Fight For Throne time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.DeathMatchEvent: DeathMatchEvent: Death Match time - undefined
+[18.01.26 11:57:25:588]  INFO fightclub.RussianRouletteEvent: RussianRouletteEvent: Russian Roulette time - undefined
+[18.01.26 11:57:25:591]  INFO instancemanager.CastleManorManager: Manor System: Initializing...
+[18.01.26 11:57:25:598]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 11:57:25:599]  INFO gameserver.GameServer: -------------------------------------------------------------=[ Auto Cleaner ]
+[18.01.26 11:57:25:599]  INFO gameserver.GameServer: IdFactory: Free ObjectID's remaining: 1879004258
+[18.01.26 11:57:25:599]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 11:57:25:600]  INFO instancemanager.CoupleManager: Initializing CoupleManager
+[18.01.26 11:57:25:600]  INFO instancemanager.CoupleManager: Loaded: 0 couples(s)
+[18.01.26 11:57:25:603]  INFO gameserver.GameServer: ----------------------------------------------------------------=[ Hellbound ]
+[18.01.26 11:57:25:612]  INFO instancemanager.HellboundManager: HellboundManager: Loaded 335 spawn entries.
+[18.01.26 11:57:26:037]  INFO instancemanager.HellboundManager: HellboundManager: Spawned 623 mobs and NPCs according to the current Hellbound stage
+[18.01.26 11:57:26:037]  INFO instancemanager.HellboundManager: Hellbound Manager: Loaded
+[18.01.26 11:57:26:038]  INFO naia.NaiaTowerManager: Naia Core Manager: Loaded
+[18.01.26 11:57:26:039]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 11:57:26:039]  INFO instancemanager.SoDManager: Seed of Destruction Manager: Loaded
+[18.01.26 11:57:26:040]  INFO instancemanager.SoIManager: Seed of Infinity Manager: Loaded. Current stage is: 1
+[18.01.26 11:57:26:042]  INFO instancemanager.SpawnManager: SpawnManager: spawned 4 npc; spawns: 4; group: soi_world_mouths
+[18.01.26 11:57:26:043]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: soi_world_abyssgaze2
+[18.01.26 11:57:26:045]  INFO instancemanager.BloodAltarManager: Blood Altar Manager: Initializing...
+[18.01.26 11:57:26:075]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[18.01.26 11:57:26:082]  INFO gameserver.GameServer: Preparing Drop Calculator
+[18.01.26 11:57:26:237]  INFO gameserver.GameServer: ----------------------------------------------------------=[ Offline Buffers ]
+[18.01.26 11:57:26:239]  INFO datatables.OfflineBuffersTable: OfflineBuffersTable: Loading offline buffers...
+[18.01.26 11:57:26:243]  INFO datatables.OfflineBuffersTable: OfflineBuffersTable: Loaded: 0 offline buffer(s)
+[18.01.26 11:57:26:266]  INFO achievements.Achievements: Achievement System: Loaded 5 achievement categories and 49 achievements.
+[18.01.26 11:57:26:267]  INFO gameserver.Shutdown: Scheduled server restart in 20h 2m 34s.
+[18.01.26 11:57:26:268]  INFO gameserver.GameServer: ==============================================================================
+[18.01.26 11:57:26:269]  INFO gameserver.GameServer: >>>>>>>>>>>>>>> GameServer Started <<<<<<<<<<<<<<
+[18.01.26 11:57:26:269]  INFO gameserver.GameServer: Maximum Numbers of Connected Players: 3500
+[18.01.26 11:57:26:269]  INFO gameserver.GameServer: --------------------------------------------------=[ DataBase Cleaner Loaded ]
+[18.01.26 11:57:26:270]  INFO dao.CharacterDAO: Found 0 characters to delete!
+[18.01.26 11:57:26:714]  INFO instancemanager.AutoAnnounce: AutoAnnounce: Initializing
+[18.01.26 11:57:26:715]  INFO instancemanager.AutoAnnounce: AutoAnnounce: Load OK
+[18.01.26 11:57:26:715]  INFO instancemanager.AutoAnnounce: AutoAnnounce: Loaded 0 announce.
+[18.01.26 11:57:26:721]  INFO gameserver.GameServer: ---------------------------------------------------=[ Loaded Facebook System ]
+[18.01.26 11:57:26:728]  INFO gameserver.GameServer: -----------------------------------------------------=[ Loaded Stream System ]
+[18.01.26 11:57:26:728]  INFO gameserver.GameServer: --------------------------------------------=[ Loaded AUTO - Donation System ]
+[18.01.26 11:57:26:730]  INFO taskmanager.BackupTaskManager: Next Auto Backup in 20 H., 7 Min.
+[18.01.26 11:57:26:743]  INFO votingengine.VotingSettings: VotingSettings: Loaded 3 messages, 4 drops!
+[18.01.26 11:57:26:753]  INFO votingengine.VotingRewardAPI: VoteReward: Has been successfully loaded!
+[18.01.26 11:57:27:263]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[18.01.26 11:57:27:566]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dawn_spawn
+[18.01.26 11:57:28:070]  INFO instancemanager.SpawnManager: SpawnManager: spawned 653 npc; spawns: 429; group: dusk_spawn
+[18.01.26 11:57:28:070]  INFO gameserver.GameServer: Telnet server is currently disabled.
+[18.01.26 11:57:28:084]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 11:57:28:084]  INFO ftGuard.ftGuard: *********[ Loading Lineage ][ Protect Configuration ]*****************
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: * ####   ####     ####    ####    ####   #    #  #   ####     ###    *
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: * #   #  #   #   #    #  #       #    #  ##   #  #  #    #   #   #   *
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: * #   #  #   #   #    #  #       #    #  # #  #  #  #            #   *
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: * #   #  ####    ######  #   ##  #    #  #  # #  #  #           #    *
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: * #   #  #   #   #    #  #    #  #    #  #   ##  #  #    #     #     *
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: * ####   #    #  #    #   ####    ####   #    #  #   ####    #####   *
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: **************Protection System: Lineage ][ Protect ON****************
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: =====================================================================================
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: Developer: ............... Alin Costea
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: Site: .................... https://dragonic2.com/
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: License type: ............ Dragonic 2
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: =====================================================================================
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: Revision: ................ Rev.V.2
+[18.01.26 11:57:28:085]  INFO ftGuard.ftGuard: Build date: .............. 2026.01.05 20:00
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: Core Dev: .............. Dragonic 2 Team
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: Data Dev: .............. Dragonic 2
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: Compiler version: ........ 1.8.0_241-b07 (Oracle Corporation)
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: =====================================================================================
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: ************[ Protection System: Starts Loading ]*********************
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: ************[ Protection System: Finish Loading ]*********************
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: ************[ Protection System: Lineage][Protect]********************
+[18.01.26 11:57:28:086]  INFO ftGuard.ftGuard: **********************************************************************
+[18.01.26 11:57:28:095]  INFO hwidmanager.HWIDManager: HWIDManager: Loaded 0 HWIDs
+[18.01.26 11:57:28:099]  INFO loginservercon.AuthServerCommunication: Connecting to authserver on 192.168.0.102:9014
+[18.01.26 11:57:28:128]  INFO lspackets.AuthResponse: Registered on authserver as 4 [Dragonic 2-LIVE]
+[18.01.26 11:59:06:724]  INFO tasks.RestoreOfflineTraders: Restored 0 offline traders
+[18.01.26 12:00:01:096]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[18.01.26 12:00:06:882]  INFO threading.RunnableImpl: Sun Jan 18 12:00:06 CET 2026 Atk announce scheduled to 0.0 minute of this hour.
+[18.01.26 12:06:00:320]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 12:06:00:321]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 12:06:00:321]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[18.01.26 12:14:24:517]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 12:14:34:392]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 12:14:55:559]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 12:14:55:559]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 12:50:06:896]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 12:55:06 CET 2026
+[18.01.26 12:57:07:487]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 12:57:26:157]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[18.01.26 12:57:26:159]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[18.01.26 12:57:26:160]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[18.01.26 12:57:26:163]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[18.01.26 12:57:26:165]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[18.01.26 12:57:26:168]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[18.01.26 12:57:26:170]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[18.01.26 12:57:26:172]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[18.01.26 12:57:26:175]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[18.01.26 12:57:26:177]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[18.01.26 12:57:26:177]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[18.01.26 12:57:26:179]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[18.01.26 12:57:26:179]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[18.01.26 13:06:00:307]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 13:06:00:307]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 13:06:00:308]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[18.01.26 13:50:06:958]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 13:55:06 CET 2026
+[18.01.26 13:57:07:483]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 14:06:00:300]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 14:06:00:300]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 14:06:00:300]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[18.01.26 14:50:07:019]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 14:55:07 CET 2026
+[18.01.26 14:57:07:482]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 15:00:00:814]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[18.01.26 15:06:00:298]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 15:06:00:298]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 15:06:00:298]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[18.01.26 15:27:26:180]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[18.01.26 15:50:07:103]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 15:55:07 CET 2026
+[18.01.26 15:57:07:493]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 16:00:00:728]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[18.01.26 16:06:00:312]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 16:06:00:312]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 16:06:00:312]  INFO fightclubmanager.FightClubEventManager: Last Hero: Removing room because it doesnt have enough players
+[18.01.26 16:48:36:491]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 16:48:46:905]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 16:49:14:119]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 16:49:14:119]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 16:50:07:160]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 16:55:07 CET 2026
+[18.01.26 16:57:07:481]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 17:06:00:274]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 17:06:00:274]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 17:06:00:274]  INFO fightclubmanager.FightClubEventManager: Team VS Team: Removing room because it doesnt have enough players
+[18.01.26 17:39:03:842] ERROR impl.SelectorThread: Incorrect packet size : 58818! Client : CONNECTED IP: 147.185.132.200. Closing connection. Packet:-62
+[18.01.26 17:39:39:190] ERROR impl.SelectorThread: Incorrect packet size : 40576! Client : CONNECTED IP: 147.185.132.200. Closing connection. Packet:-128
+[18.01.26 17:50:07:203]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 17:55:07 CET 2026
+[18.01.26 17:57:07:481]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 18:00:00:005]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 18:00:00:005]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 18:00:00:005]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 18:00:00:005]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 18:00:00:005]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 18:06:00:279]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 18:06:00:279]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 18:06:00:279]  INFO fightclubmanager.FightClubEventManager: Capture The Flag: Removing room because it doesnt have enough players
+[18.01.26 18:50:00:620]  INFO threading.RunnableImpl: Lottery: Stopping ticket sell for lottery #151.
+[18.01.26 18:50:07:239]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 18:55:07 CET 2026
+[18.01.26 18:57:07:480]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 19:00:00:619]  INFO threading.RunnableImpl: Lottery: Ending lottery #151.
+[18.01.26 19:00:00:619]  INFO threading.RunnableImpl: Lottery: The lucky numbers are 7, 14, 15, 18, 9.
+[18.01.26 19:00:00:619]  INFO threading.RunnableImpl: Lottery: Encoded lucky numbers are 24896, 2
+[18.01.26 19:00:00:619]  INFO threading.RunnableImpl: Lottery: Jackpot for next lottery is 50000.
+[18.01.26 19:00:00:732]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[18.01.26 19:01:00:625]  INFO games.LotteryManager: Lottery: Starting ticket sell for lottery #152.
+[18.01.26 19:06:00:281]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 19:06:00:282]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 19:06:00:282]  INFO fightclubmanager.FightClubEventManager: Treasure Hunt: Removing room because it doesnt have enough players
+[18.01.26 19:18:17:810]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 19:18:26:172]  INFO clientpackets.ProtocolVersion: Status HWID MAC : D850E6E864AE
+[18.01.26 19:19:09:736]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 19:19:09:736]  WARN community.CommunityBoard: Error while update <?news?>
+[18.01.26 19:50:07:282]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 19:55:07 CET 2026
+[18.01.26 19:57:07:479]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 20:00:00:000]  INFO threading.RunnableImpl: Manor System: Under maintenance mode started
+[18.01.26 20:00:00:856]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[18.01.26 20:00:25:105]  INFO olympiad.CompStartTask: Olympiad System: Olympiad Game Started
+[18.01.26 20:06:00:004]  INFO threading.RunnableImpl: Manor System: Next period started
+[18.01.26 20:06:00:296]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 20:06:00:296]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 20:06:00:296]  INFO fightclubmanager.FightClubEventManager: Korean Style: Removing room because it doesnt have enough players
+[18.01.26 20:50:07:328]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 20:55:07 CET 2026
+[18.01.26 20:57:07:481]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 20:57:26:157]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[18.01.26 20:57:26:160]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[18.01.26 20:57:26:161]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[18.01.26 20:57:26:163]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[18.01.26 20:57:26:165]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[18.01.26 20:57:26:168]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[18.01.26 20:57:26:170]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[18.01.26 20:57:26:172]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[18.01.26 20:57:26:174]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[18.01.26 20:57:26:175]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[18.01.26 20:57:26:177]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[18.01.26 20:57:26:179]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[18.01.26 20:57:26:180]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[18.01.26 21:06:00:287]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 21:06:00:287]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 21:06:00:287]  INFO fightclubmanager.FightClubEventManager: Protect The King: Removing room because it doesnt have enough players
+[18.01.26 21:50:07:367]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 21:55:07 CET 2026
+[18.01.26 21:57:07:481]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 22:00:00:000]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 22:00:00:000]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 22:00:00:001]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 22:00:00:002]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Undefined objects: bought_zones
+[18.01.26 22:06:00:295]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 22:06:00:295]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 22:06:00:295]  INFO fightclubmanager.FightClubEventManager: Fight For Throne: Removing room because it doesnt have enough players
+[18.01.26 22:27:26:202]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[18.01.26 22:50:07:402]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 22:55:07 CET 2026
+[18.01.26 22:57:07:481]  INFO community.CommunityRanking: Ranking in the community board has been updated.
+[18.01.26 23:00:00:755]  INFO instancemanager.SpawnManager: SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[18.01.26 23:06:00:294]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, before:0 toRemove:0 after:0 to Change:0
+[18.01.26 23:06:00:294]  INFO fightclubmanager.FightClubEventManager: Equalizing FC Room, Before: 0 Final:0
+[18.01.26 23:06:00:294]  INFO fightclubmanager.FightClubEventManager: Death Match: Removing room because it doesnt have enough players
+[18.01.26 23:50:07:431]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sun Jan 18 23:55:07 CET 2026
+[18.01.26 23:57:07:482]  INFO community.CommunityRanking: Ranking in the community board has been updated.

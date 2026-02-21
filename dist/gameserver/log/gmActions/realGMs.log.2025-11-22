@@ -1,0 +1,227 @@
+[22.11.25 01:02:47] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000a9ff admin_vis
+[22.11.25 03:29:43] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 03:29:44] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 03:29:46] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[22.11.25 03:29:47] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[22.11.25 03:29:48] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[22.11.25 03:31:11] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 03:31:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 03:31:15] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[22.11.25 03:31:17] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[22.11.25 03:31:36] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[22.11.25 03:31:44] SUCCESS AlinAdmin[268481608] admin_vis
+[22.11.25 13:58:08] SUCCESS AlinAdmin[268481608] admin_vis
+[22.11.25 15:18:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 15:18:28] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 15:18:28] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 15:18:31] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 15:18:52] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 15:19:09] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_vis
+[22.11.25 15:19:27] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 15:19:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 15:19:30] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[22.11.25 15:19:32] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[22.11.25 15:19:32] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[22.11.25 15:19:55] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 15:19:57] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 15:20:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 15:20:01] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 15:20:04] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 18:23:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 18:23:57] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 18:23:59] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[22.11.25 18:24:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[22.11.25 18:24:01] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563
+[22.11.25 18:24:21] SUCCESS AlinAdmin[268481608] admin_vis
+[22.11.25 18:54:00] SUCCESS AlinAdmin[268481608] admin_vis
+[22.11.25 18:54:31] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[22.11.25 18:54:40] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[22.11.25 18:55:04] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[22.11.25 18:55:11] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[22.11.25 18:56:14] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 18:56:18] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 18:56:20] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 18:56:21] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:01:16] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:01:17] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:01:18] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:01:22] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:01:24] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 19:02:04] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:02:11] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_itemcreate
+[22.11.25 19:02:28] FAIL    AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item_hwid
+[22.11.25 19:02:32] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:02:34] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_itemcreate
+[22.11.25 19:02:42] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37000 1000
+[22.11.25 19:09:11] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:09:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:11:07] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:11:09] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 19:11:10] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[22.11.25 19:11:12] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/aden.htm
+[22.11.25 19:11:15] SUCCESS AlinAdmin[268481608] admin_move_to 147450 27064 -2208
+[22.11.25 19:11:49] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:11:52] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 19:11:55] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[22.11.25 19:11:57] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/aden.htm
+[22.11.25 19:12:52] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:12:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:12:55] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:12:56] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:13:00] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 19:17:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:17:14] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 19:17:15] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[22.11.25 19:17:16] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[22.11.25 19:17:17] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[22.11.25 19:17:29] SUCCESS AlinAdmin[268481608] admin_recall_char_menu AlinAdmin
+[22.11.25 19:17:35] SUCCESS AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:17:43] SUCCESS AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:17:45] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:17:47] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 19:21:51] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:21:52] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:21:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:21:55] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:22:02] SUCCESS AlinAdmin[268481608] admin_goto_char_menu Bandotis
+[22.11.25 19:32:48] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:33:08] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:33:18] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_gmspeed 2
+[22.11.25 19:33:31] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:33:32] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_gmspeed 1
+[22.11.25 19:33:56] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:33:59] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 193 AlinAdmin
+[22.11.25 19:34:06] FAIL    AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 193 STATE AlinAdmin
+[22.11.25 19:34:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:34:32] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 193 AlinAdmin
+[22.11.25 19:34:39] FAIL    AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 193 STATE AlinAdmin
+[22.11.25 19:34:49] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:34:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:34:56] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html events/events.htm
+[22.11.25 19:35:38] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_vis
+[22.11.25 19:37:30] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:37:42] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 190 STATE 2 AlinAdmin
+[22.11.25 19:39:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:39:06] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 190 AlinAdmin
+[22.11.25 19:39:08] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 190 CLEAR AlinAdmin
+[22.11.25 19:39:09] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 193 AlinAdmin
+[22.11.25 19:39:10] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 193 CLEAR AlinAdmin
+[22.11.25 19:39:10] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 195 AlinAdmin
+[22.11.25 19:39:11] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 195 CLEAR AlinAdmin
+[22.11.25 19:39:12] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 35001 AlinAdmin
+[22.11.25 19:39:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 35001 CLEAR AlinAdmin
+[22.11.25 19:39:14] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 194 AlinAdmin
+[22.11.25 19:39:14] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 194 CLEAR AlinAdmin
+[22.11.25 19:39:15] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 196 AlinAdmin
+[22.11.25 19:39:16] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 196 CLEAR AlinAdmin
+[22.11.25 19:39:17] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 192 AlinAdmin
+[22.11.25 19:39:17] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 192 CLEAR AlinAdmin
+[22.11.25 19:39:18] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 197 AlinAdmin
+[22.11.25 19:39:19] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 197 CLEAR AlinAdmin
+[22.11.25 19:39:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:39:27] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:39:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:39:30] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:39:33] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_admin
+[22.11.25 19:39:35] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_show_moves
+[22.11.25 19:39:37] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_show_html teleports/town.htm
+[22.11.25 19:39:38] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_show_html teleports/town/giran.htm
+[22.11.25 19:39:40] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[22.11.25 19:41:58] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:42:03] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 STATE 2 AlinAdmin
+[22.11.25 19:42:08] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 VAR cond AlinAdmin
+[22.11.25 19:42:11] FAIL    AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 STATE AlinAdmin
+[22.11.25 19:42:15] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:42:36] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:42:38] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 AlinAdmin
+[22.11.25 19:42:41] FAIL    AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 VAR AlinAdmin
+[22.11.25 19:42:47] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quests
+[22.11.25 19:42:49] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 AlinAdmin
+[22.11.25 19:42:56] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 VAR 130 AlinAdmin
+[22.11.25 19:43:03] FAIL    AlinAdmin[268481608] -> AlinAdmin[268481608] admin_quest 130 STATE AlinAdmin
+[22.11.25 19:44:31] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:44:36] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_itemcreate
+[22.11.25 19:44:46] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_gmshop
+[22.11.25 19:44:50] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:44:51] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_itemcreate
+[22.11.25 19:44:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 57
+[22.11.25 19:44:58] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 5575
+[22.11.25 19:45:04] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37010
+[22.11.25 19:45:07] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37011
+[22.11.25 19:45:09] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37012
+[22.11.25 19:45:11] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37000
+[22.11.25 19:45:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37001
+[22.11.25 19:45:16] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37004
+[22.11.25 19:45:20] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37013
+[22.11.25 19:45:25] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37014
+[22.11.25 19:45:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 37015
+[22.11.25 19:45:34] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_gmshop
+[22.11.25 19:46:06] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:46:09] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:46:13] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_setlevel 75
+[22.11.25 19:48:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:48:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:48:40] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:48:43] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_itemcreate
+[22.11.25 19:48:51] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:48:53] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 19:49:05] SUCCESS AlinAdmin[268481608] admin_tonpc 31862
+[22.11.25 19:49:33] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:49:37] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_itemcreate
+[22.11.25 19:49:45] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_create_item 4295
+[22.11.25 19:49:57] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:50:02] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:50:03] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:50:05] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:50:08] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 19:50:45] SUCCESS AlinAdmin[268481608] admin_vis
+[22.11.25 19:50:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:50:55] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:50:57] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:50:58] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:51:00] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 19:51:17] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:51:22] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:51:23] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:51:25] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:51:29] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 19:51:41] SUCCESS AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:51:42] SUCCESS AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:51:44] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:52:04] FAIL    AlinAdmin[268481608] -> Bandotis[268629361] admin_setnoble
+[22.11.25 19:52:11] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:52:15] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:52:19] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:52:21] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:52:27] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 19:53:49] SUCCESS AlinAdmin[268481608] -> 29020 Baium admin_kill
+[22.11.25 19:57:33] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:57:35] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 19:57:39] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/hf.htm
+[22.11.25 19:57:43] SUCCESS AlinAdmin[268481608] admin_move_to 116589 76268 -2734
+[22.11.25 19:59:05] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:59:08] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[22.11.25 19:59:10] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[22.11.25 19:59:12] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[22.11.25 19:59:13] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[22.11.25 19:59:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 19:59:28] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 19:59:30] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 19:59:31] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_character_list Bandotis
+[22.11.25 19:59:36] SUCCESS AlinAdmin[268481608] -> Bandotis[268629361] admin_recall_char_menu Bandotis
+[22.11.25 20:06:23] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[22.11.25 20:06:37] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[22.11.25 20:07:01] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[22.11.25 20:07:09] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[22.11.25 20:33:54] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 20:33:56] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html events/gmevent_create.htm
+[22.11.25 20:34:01] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 20:34:02] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 20:34:04] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 20:34:08] SUCCESS AlinAdmin[268481608] -> Cosmin[268484333] admin_character_list Cosmin
+[22.11.25 20:34:14] SUCCESS AlinAdmin[268481608] -> Cosmin[268484333] admin_recall_char_menu Cosmin
+[22.11.25 20:41:54] SUCCESS AlinAdmin[268481608] admin_vis
+[22.11.25 20:45:01] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[22.11.25 20:45:02] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[22.11.25 20:45:03] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[22.11.25 20:45:05] SUCCESS AlinAdmin[268481608] -> Cosmin[268484333] admin_character_list Cosmin

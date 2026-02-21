@@ -1,0 +1,31 @@
+[21.11.25 00:09:04] SUCCESS AlinAdmin[268481608] admin_vis
+[21.11.25 00:10:34] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[21.11.25 00:10:49] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[21.11.25 00:11:12] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[21.11.25 00:11:17] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[21.11.25 00:12:48] SUCCESS AlinAdmin[268481608] admin_invul
+[21.11.25 01:34:58] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[21.11.25 01:35:00] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[21.11.25 01:35:02] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[21.11.25 01:35:06] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[21.11.25 01:35:06] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[21.11.25 01:37:24] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[21.11.25 01:37:32] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[21.11.25 01:37:56] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[21.11.25 01:38:01] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[21.11.25 03:24:59] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000aa2b admin_vis
+[21.11.25 07:24:14] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000aa2b admin_vis
+[21.11.25 08:30:53] SUCCESS AlinAdmin[268481608] admin_vis
+[21.11.25 09:31:44] SUCCESS AlinAdmin[268481608] admin_vis
+[21.11.25 10:48:19] SUCCESS AlinAdmin[268481608] admin_vis
+[21.11.25 13:02:43] SUCCESS AlinAdmin[268481608] admin_vis
+[21.11.25 13:03:00] SUCCESS AlinAdmin[268481608] admin_invul
+[21.11.25 13:03:55] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_open
+[21.11.25 13:04:05] SUCCESS AlinAdmin[268481608] -> [Door 23220005] admin_close
+[21.11.25 13:04:26] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_open
+[21.11.25 13:04:30] SUCCESS AlinAdmin[268481608] -> [Door 23220001] admin_close
+[21.11.25 13:09:15] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_open
+[21.11.25 13:09:20] SUCCESS AlinAdmin[268481608] -> [Door 23220002] admin_close
+[21.11.25 13:09:39] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_open
+[21.11.25 13:09:43] SUCCESS AlinAdmin[268481608] -> [Door 23220006] admin_close
+[21.11.25 22:13:47] SUCCESS AlinAdmin[268481608] -> l2f.gameserver.model.instances.StaticObjectInstance@1000aa0a admin_vis

@@ -1,0 +1,8 @@
+[28.11.25 15:28:47] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[28.11.25 15:28:47] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_char_manage
+[28.11.25 15:28:49] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_characters 0
+[28.11.25 22:17:28] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[28.11.25 22:17:30] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[28.11.25 22:17:31] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[28.11.25 22:17:32] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[28.11.25 22:17:33] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473

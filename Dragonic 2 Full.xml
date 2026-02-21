@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Dragonic 2 Jars" default="jar" basedir=".">
+
+    <!-- ========================= -->
+    <!--        PROPERTIES         -->
+    <!-- ========================= -->
+
+    <!-- Server version -->
+    <property name="build.version" value="1.0.0" />
+
+    <!-- Auto-increment build number -->
+    <property file="build.number" />
+    <property name="build.number" value="1" />
+    <property name="build.revision" value="Rev.V.${build.number}" />
+
+    <!-- Timestamp -->
+    <tstamp>
+        <format property="build.tstamp" pattern="yyyy.MM.dd HH:mm" />
+    </tstamp>
+
+    <!-- Branding -->
+    <property name="team.name" value="Alin Costea" />
+    <property name="team.site" value="https://dragonic2.com/" />
+    <property name="license.type" value="Dragonic 2" />
+    <property name="core.dev" value="Alin Costea" />
+    <property name="data.dev" value="Alin Costea" />
+
+    <!-- Paths -->
+    <property name="server.prefix" value="l2f" />
+    <property name="build" location="builds/" />
+    <property name="build.bin" location="${build}/bin" />
+    <property name="build.bin.scripts" location="${build}/bin/scripts" />
+    <property name="build.dist" location="${build}/dist" />
+    <property name="build.dist.direct" location="dist" />
+    <property name="libs" location="dist/libs" />
+    <property name="src" location="java" />
+    <property name="src.scripts" location="dist/gameserver/data" />
+
+    <!-- Classpath -->
+    <path id="classpath">
+        <fileset dir="${libs}">
+            <include name="*.jar" />
+            <exclude name="${server.prefix}-commons.jar" />
+            <exclude name="${server.prefix}-loginserver.jar" />
+            <exclude name="${server.prefix}-gameserver.jar" />
+            <exclude name="${server.prefix}-scripts.jar" />
+            <exclude name="${server.prefix}-protect.jar" />
+        </fileset>
+    </path>
+
+    <!-- ========================= -->
+    <!--          CLEAN            -->
+    <!-- ========================= -->
+    <target name="clean">
+        <delete dir="${build.bin}" />
+    </target>
+
+    <!-- ========================= -->
+    <!--           INIT            -->
+    <!-- ========================= -->
+    <target name="init" depends="clean">
+        <mkdir dir="${build.bin}" />
+        <mkdir dir="${build.bin.scripts}" />
+        <mkdir dir="${build.dist}/libs" />
+    </target>
+
+    <!-- ========================= -->
+    <!--         COMPILE           -->
+    <!-- ========================= -->
+    <target name="compile" depends="init">
+        <javac destdir="${build.bin}" encoding="UTF-8" source="1.8" target="1.8" includeantruntime="false">
+            <src path="${src}" />
+            <classpath refid="classpath" />
+
+            <!-- IMPORTANT: Activează raportarea completă a fișierelor cu probleme -->
+            <compilerarg value="-Xlint:unchecked" />
+        </javac>
+
+        <javac destdir="${build.bin.scripts}" encoding="UTF-8" source="1.8" target="1.8" includeantruntime="false">
+            <src path="${src.scripts}" />
+            <classpath path="${build.bin}" />
+            <classpath refid="classpath" />
+
+            <!-- IMPORTANT: Activează raportarea completă a fișierelor cu probleme -->
+            <compilerarg value="-Xlint:unchecked" />
+        </javac>
+    </target>
+
+    <!-- ========================= -->
+    <!--            JAR            -->
+    <!-- ========================= -->
+    <target name="jar" depends="compile">
+
+        <!-- LOGIN SERVER -->
+        <jar destfile="${build.dist}/libs/${server.prefix}-loginserver.jar" level="9">
+            <fileset dir="${build.bin}">
+                <exclude name="**/gameserver/**" />
+                <exclude name="scripts/**" />
+                <exclude name="**/ftGuard/**" />
+            </fileset>
+            <manifest>
+                <attribute name="Build-By" value="${user.name}" />
+                <attribute name="Build-Date" value="${build.tstamp}" />
+                <attribute name="Implementation-Version" value="${build.version}" />
+                <attribute name="Implementation-Number" value="${build.number}" />
+                <attribute name="Implementation-Revision" value="${build.revision}" />
+            </manifest>
+        </jar>
+
+        <!-- GAME SERVER -->
+        <jar destfile="${build.dist}/libs/${server.prefix}-gameserver.jar" level="9">
+            <fileset dir="${build.bin}">
+                <exclude name="**/loginserver/**" />
+                <exclude name="scripts/**" />
+                <exclude name="**/ftGuard/**" />
+            </fileset>
+            <manifest>
+                <attribute name="Build-By" value="${user.name}" />
+                <attribute name="Build-Date" value="${build.tstamp}" />
+
+                <!-- Versioning -->
+                <attribute name="Implementation-Version" value="${build.version}" />
+                <attribute name="Implementation-Number" value="${build.number}" />
+                <attribute name="Implementation-Revision" value="${build.revision}" />
+
+                <!-- Branding -->
+                <attribute name="Team-Name" value="${team.name}" />
+                <attribute name="Team-Site" value="${team.site}" />
+                <attribute name="License-Type" value="${license.type}" />
+                <attribute name="Core-Dev" value="${core.dev}" />
+                <attribute name="Data-Dev" value="${data.dev}" />
+            </manifest>
+        </jar>
+
+        <!-- COMMONS -->
+        <jar destfile="${build.dist}/libs/${server.prefix}-commons.jar" level="9">
+            <fileset dir="${build.bin}">
+                <exclude name="**/gameserver/**" />
+                <exclude name="**/loginserver/**" />
+                <exclude name="scripts/**" />
+                <exclude name="**/ftGuard/**" />
+            </fileset>
+            <manifest>
+                <attribute name="Build-By" value="${user.name}" />
+                <attribute name="Build-Date" value="${build.tstamp}" />
+            </manifest>
+        </jar>
+		<jar destfile="${build.dist}/libs/${server.prefix}-protect.jar" level="9">	
+			<fileset dir="${build.bin}">
+				<exclude name="**/commons/**" />
+				<exclude name="**/Elemental/**" />
+				<exclude name="**/loginserver/**" />
+				<exclude name="**/gameserver/**" />
+				<exclude name="scripts/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+				<attribute name="Implementation-Build" value="${build.revision}" />
+				<attribute name="Implementation-Version" value="${build.version}" />
+			</manifest>
+		</jar>
+
+        <!-- SCRIPTS -->
+        <jar destfile="${build.dist}/libs/${server.prefix}-scripts.jar" level="9">
+            <fileset dir="${build.bin.scripts}" />
+        </jar>
+
+        <!-- Copy jars to workspace -->
+        <copy file="${build.dist}/libs/${server.prefix}-loginserver.jar" todir="${build.dist.direct}/libs" />
+        <copy file="${build.dist}/libs/${server.prefix}-gameserver.jar" todir="${build.dist.direct}/libs" />
+        <copy file="${build.dist}/libs/${server.prefix}-commons.jar" todir="${build.dist.direct}/libs" />
+        <copy file="${build.dist}/libs/${server.prefix}-scripts.jar" todir="${build.dist.direct}/libs" />
+        <copy file="${build.dist}/libs/${server.prefix}-protect.jar" todir="${build.dist.direct}/libs" />    	
+
+        <!-- Auto-increment build number -->
+        <propertyfile file="build.number">
+            <entry key="build.number" type="int" operation="+" value="1" />
+        </propertyfile>
+
+    </target>
+
+</project>

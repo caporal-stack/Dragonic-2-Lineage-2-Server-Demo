@@ -1,0 +1,9 @@
+[03.01.26 12:11:43] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[03.01.26 12:13:26] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[03.01.26 12:13:27] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[03.01.26 12:13:28] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town.htm
+[03.01.26 12:13:29] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/town/giran.htm
+[03.01.26 12:13:36] SUCCESS AlinAdmin[268481608] admin_move_to 82698 148638 -3473
+[03.01.26 15:33:32] SUCCESS AlinAdmin[268481608] admin_vis
+[03.01.26 15:48:52] SUCCESS AlinAdmin[268481608] admin_vis
+[03.01.26 16:13:04] SUCCESS AlinAdmin[268481608] admin_vis

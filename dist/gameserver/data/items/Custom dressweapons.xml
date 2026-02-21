@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+  	<weapon id="47807" name="Antharas Buster">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_onehand_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="47811" name="Antharas Cutter">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_magic_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="47815" name="Antharas Dual Blunt Weapon">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_dual_blunt_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="47819" name="Antharas Dualsword">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_dual_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="47823" name="Antharas Fighter">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_fist_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="47827" name="Antharas Shaper">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_dagger_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="47831" name="Antharas Slasher">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_twohand_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="47839" name="Antharas Thrower">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_bow_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="48803" name="Valakas Buster">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_valrakas_magic_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="48807" name="Valakas Caster">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_valrakas_magic_blunt_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="48811" name="Valakas Cutter">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_valrakas_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="48815" name="Valakas Retributer">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_valrakas_magic_blunt2_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="48819" name="Valakas Shaper">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_valrakas_dagger_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="48823" name="Valakas Slasher">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_valrakas_twohand_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="48827" name="Valakas Thrower">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_valrakas_bow_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="49803" name="Lindvior Caster">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_lind_magic_blunt_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="49807" name="Lindvior Rapier">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_lind_onehand_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="49811" name="Lindvior Dual Dagger">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_lind_dual_dagger_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>	
+  	<weapon id="49815" name="Lindvior Shaper">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_lind_dagger_i03	"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>	
+  	<weapon id="49819" name="Lindvior Shooter">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_lind_crossbow_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>	
+  	<weapon id="49823" name="Lindvior Slasher">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_lind_twohand_sword_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>	
+  	<weapon id="49827" name="Lindvior Thrower">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeaponsDragon_As.weapon_lind_bow_i03"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>	
+  	<weapon id="54130" name="Fafurion Avenger">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_avenger_i00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="54131" name="Fafurion Cutter">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_onehand_dual_sword_i00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="54132" name="Fafurion Fighter">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_fighter_t00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="54133" name="Fafurion Singer">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_retributer_i00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="54134" name="Fafurion Shaper">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_dual_dagger_i00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="54135" name="Fafurion Stormer">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_stormer_i00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="54136" name="Fafurion Dual Sword">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_onehand_dual_sword_i00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>
+  	<weapon id="54137" name="Fafurion Dual Daggers">
+		<set name="crystal_type" value="S84"/>
+		<set name="icon" value="LineageWeapons_fafurion.fafurion_dual_dagger_i00"/>
+		<set name="price" value="143356000"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1520"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="crystal_count" value="7050"/>
+		<set name="crystallizable" value="true"/>
+	</weapon>  
+</list>

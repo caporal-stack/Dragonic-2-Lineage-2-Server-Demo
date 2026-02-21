@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<!-- Event Medal -->
+		<ingredient count="1" id="6393" />
+		<!-- Glittering -->
+		<production count="50" id="6392" />
+	</item>
+	<item>
+		<!-- Event Medal -->
+		<ingredient count="50" id="6392" />
+    	<!-- Glittering -->
+		<production count="1" id="6393" />
+	</item>
+		<item>
+		<!-- FA -->
+		<ingredient count="2" id="6673" />
+		<!-- Vote -->
+		<production count="1" id="37007" />
+	</item>	
+		<item>
+		<!-- FA -->
+		<ingredient count="1" id="37007" />
+		<!-- Vote -->
+		<production count="2" id="6673" />
+	</item>
+	<item>
+		<!-- FA -->
+		<ingredient count="1" id="37007" />
+		<!-- Vote -->
+		<production count="50" id="6393" />
+	</item>	
+	<item>
+		<!-- FA -->
+		<ingredient count="50" id="6393" />
+		<!-- Vote -->
+		<production count="1" id="37007" />
+	</item>	
+	<item>
+		<!-- FA -->
+		<ingredient count="1" id="6673" />
+		<!-- Vote -->
+		<production count="25" id="6393" />
+	</item>	
+	<item>
+		<!-- FA -->
+		<ingredient count="25" id="6393" />
+		<!-- Vote -->
+		<production count="1" id="6673" />
+	</item>	
+</list>

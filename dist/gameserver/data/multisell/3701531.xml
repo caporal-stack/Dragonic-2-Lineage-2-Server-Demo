@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Medals -->
+
+<list>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Power -->
+		<production count="1" id="9914" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Wild Magic -->
+		<production count="1" id="9915" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Defense -->
+		<production count="1" id="9916" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Reflection -->
+		<production count="1" id="9919" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Reflection -->
+		<production count="1" id="9920" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman - Shield Protection -->
+		<production count="1" id="9921" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Healing -->
+		<production count="1" id="9924" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Defense -->
+		<production count="1" id="9926" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Magic Defense -->
+		<production count="1" id="9927" />
+	</item>  
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Protection -->
+		<production count="1" id="9929" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9930" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9932" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Magic Defense -->
+		<production count="1" id="10416" />
+	</item>  
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Protection -->
+		<production count="1" id="10417" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="10423" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="10424" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Magic Defense -->
+		<production count="1" id="10533" />
+	</item>  
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Protection -->
+		<production count="1" id="10534" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="14810" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="14811" />
+	</item>	
+		<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="14813" />
+	</item>	
+</list>

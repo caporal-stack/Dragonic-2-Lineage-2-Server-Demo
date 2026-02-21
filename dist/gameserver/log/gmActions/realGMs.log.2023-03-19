@@ -1,0 +1,92 @@
+[19.03.23 17:57:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 17:57:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 17:57:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 17:57:41] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_vis
+[19.03.23 17:57:46] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 17:57:47] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 17:57:50] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 17:57:52] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms
+[19.03.23 18:01:52] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_spawn Rasputin 85 89 S84 FIGHTER MALE RANDOM TRUE FALSE TRUE 5 ewew TRUE
+[19.03.23 18:02:01] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:02:03] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms
+[19.03.23 18:02:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_enable
+[19.03.23 18:02:10] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_enable
+[19.03.23 18:02:11] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_disable
+[19.03.23 18:02:12] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_disable
+[19.03.23 18:02:16] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:02:16] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms
+[19.03.23 18:02:22] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_reset
+[19.03.23 18:03:03] FAIL    VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_spawn Rasputin  80 89 S84 FIGHTER MALE HUMAN TRUE FALSE TRUE DEFAULT ds FALSE
+[19.03.23 18:03:14] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:03:15] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 18:03:16] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 18:03:26] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:03:28] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms
+[19.03.23 18:03:54] FAIL    VastoLordes[268481608] -> VastoLordes[268481608] admin_phantoms_spawn Rasputin  80 89 S FIGHTER MALE HUMAN FALSE FALSE TRUE DEFAULT ds FALSE
+[19.03.23 18:04:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:04:06] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 18:04:07] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 18:04:08] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:04:41] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 18:04:45] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 18:04:46] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_character_list VastoLordes
+[19.03.23 18:04:52] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:05:03] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 18:05:05] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 18:06:54] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:06:54] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 18:06:55] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 18:09:19] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:09:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 18:09:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 18:10:37] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:10:38] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_gmshop
+[19.03.23 18:10:40] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:10:41] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_itemcreate
+[19.03.23 18:12:10] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_create_item 37007 5454545
+[19.03.23 18:12:20] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 18:12:21] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 18:12:22] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 20:56:10] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 20:56:11] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 20:56:12] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 21:49:33] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 21:49:34] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 21:49:36] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 21:49:39] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_character_list Sophie
+[19.03.23 21:49:43] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_recall_char_menu Sophie
+[19.03.23 21:51:54] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_admin
+[19.03.23 21:51:55] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_char_manage
+[19.03.23 21:51:56] SUCCESS VastoLordes[268481608] -> VastoLordes[268481608] admin_show_characters 0
+[19.03.23 21:51:58] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_character_list Sophie
+[19.03.23 21:51:59] SUCCESS VastoLordes[268481608] admin_goto_char_menu Sophie
+[19.03.23 21:52:05] SUCCESS VastoLordes[268481608] admin_vis
+[19.03.23 21:52:14] SUCCESS VastoLordes[268481608] admin_goto_char_menu Sophie
+[19.03.23 21:52:20] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_admin
+[19.03.23 21:52:21] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_itemcreate
+[19.03.23 21:52:33] FAIL    VastoLordes[268481608] -> Sophie[268515371] admin_create_item_char
+[19.03.23 21:52:43] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_admin
+[19.03.23 21:52:46] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_char_manage
+[19.03.23 21:52:48] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_admin
+[19.03.23 21:52:49] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_itemcreate
+[19.03.23 21:53:05] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_create_item_char 37000 7676
+[19.03.23 21:53:20] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_create_item_char 37007 3232
+[19.03.23 21:53:33] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_admin
+[19.03.23 21:53:34] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_itemcreate
+[19.03.23 21:53:49] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_create_item_char 57 76767676767
+[19.03.23 21:54:13] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_char_manage
+[19.03.23 21:54:14] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_show_characters 0
+[19.03.23 21:54:16] SUCCESS VastoLordes[268481608] -> pupas[268520996] admin_character_list pupas
+[19.03.23 21:54:17] SUCCESS VastoLordes[268481608] admin_goto_char_menu pupas
+[19.03.23 21:55:45] SUCCESS VastoLordes[268481608] admin_vis
+[19.03.23 21:58:27] SUCCESS VastoLordes[268481608] admin_char_manage
+[19.03.23 21:58:27] SUCCESS VastoLordes[268481608] admin_show_characters 0
+[19.03.23 21:58:28] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_character_list Sophie
+[19.03.23 21:58:29] SUCCESS VastoLordes[268481608] admin_goto_char_menu Sophie
+[19.03.23 22:00:36] SUCCESS VastoLordes[268481608] -> 21253 Crypt Preacher admin_show_characters 0
+[19.03.23 22:00:37] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_character_list Sophie
+[19.03.23 22:00:38] SUCCESS VastoLordes[268481608] admin_goto_char_menu Sophie
+[19.03.23 22:03:20] SUCCESS VastoLordes[268481608] admin_vis
+[19.03.23 22:24:00] SUCCESS VastoLordes[268481608] admin_show_characters 0
+[19.03.23 22:24:02] SUCCESS VastoLordes[268481608] -> Sophie[268515371] admin_character_list Sophie
+[19.03.23 22:24:03] SUCCESS VastoLordes[268481608] admin_goto_char_menu Sophie

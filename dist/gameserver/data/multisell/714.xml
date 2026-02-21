@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="екгу" keepenchanted="false" />
+		<item id="34">
+			<ingredient id="17265" count="1" /> <!--Certificate of Dawn-->
+			<production id="37005" count="1" /> <!--Forgotten Scroll - Turn Stone-->
+		</item>	
+</list>

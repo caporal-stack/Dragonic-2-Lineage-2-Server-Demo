@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "weapon.dtd">
+<list>
+        <weapon id="47803" name="Antharas Avenger" type="Blunt">
+		<price id="37000" count="150" />
+	    </weapon>
+		<weapon id="47807" name="Antharas Buster" type="Sword">
+		<price id="37000" count="150" />
+	    </weapon>
+	    <weapon id="47811" name="Antharas Cutter" type="Sword">
+		<price id="37000" count="150" />
+	    </weapon>
+		<weapon id="47815" name="Antharas Dual Blunt Weapon" type="Dual Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="47819" name="Antharas Dualsword" type="Dual Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="47823" name="Antharas Fighter" type="Dual Fist">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="47827" name="Antharas Shaper" type="Dagger">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="47831" name="Antharas Slasher" type="Big Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="47835" name="Antharas Stormer" type="Pole">
+		<price id="37000" count="150" />
+		</weapon>
+        <weapon id="47839" name="Antharas Thrower" type="Bow">
+		<price id="37000" count="150" />
+	    </weapon>
+	    <weapon id="48803" name="Valakas Buster" type="Sword">
+		<price id="37000" count="150" />
+	    </weapon>
+		<weapon id="48807" name="Valakas Caster" type="Blunt">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="48811" name="Valakas Cutter" type="Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="48815" name="Valakas Retributer" type="Big Blunt">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="48819" name="Valakas Shaper" type="Dagger">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="48823" name="Valakas Slasher" type="Big Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="48827" name="Valakas Thrower" type="Bow">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="49803" name="Lindvior Caster" type="Blunt">
+		<price id="37000" count="150" />
+	    </weapon>
+	    <weapon id="49807" name="Lindvior Rapier" type="Rapier">
+		<price id="37000" count="150" />
+	    </weapon>
+		<weapon id="49811" name="Lindvior Dual Dagger" type="Dual Dagger">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="49815" name="Lindvior Shaper" type="Dagger">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="49819" name="Lindvior Shooter" type="Crossbow">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="49823" name="Lindvior Slasher" type="Ancient Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="49827" name="Lindvior Thrower" type="Bow">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54130" name="Fafurion Avenger" type="Blunt">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54131" name="Fafurion Cutter" type="Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54132" name="Fafurion Fighter" type="Dual Fist">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54133" name="Fafurion Singer" type="Big Blunt">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54134" name="Fafurion Shaper" type="Dagger">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54135" name="Fafurion Stormer" type="Pole">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54136" name="Fafurion Dual Sword" type="Dual Sword">
+		<price id="37000" count="150" />
+		</weapon>
+		<weapon id="54137" name="Fafurion Dual Daggers" type="Dual Dagger">
+		<price id="37000" count="150" />
+		</weapon>		
+
+</list>

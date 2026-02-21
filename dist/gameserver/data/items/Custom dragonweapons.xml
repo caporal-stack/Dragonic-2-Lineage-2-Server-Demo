@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+   	<weapon id="47800" name="Antharas Avenger Fragment">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_blunt_i03"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+	<cond msgId="1507">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+    <for>
+      <add stat="pAtk" order="0x10" value="472"/>
+      <add stat="mAtk" order="0x10" value="220"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+   	<weapon id="47801" name="Antharas Avenger Standard">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_blunt_i03"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+	<cond msgId="1507">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>	
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+	  <skill id="10017" level="1"/>
+	  <skill id="10022" level="1"/>	  
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="522"/>
+      <add stat="mAtk" order="0x10" value="260"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+   	<weapon id="47802" name="Antharas Avenger High-grade">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_blunt_i03"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+	<cond msgId="1507">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>	
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+	  <skill id="10017" level="1"/>
+	  <skill id="10022" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="572"/>
+      <add stat="mAtk" order="0x10" value="300"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+   	<weapon id="47803" name="Antharas Avenger Top-grade">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="LineageWeaponsDragon_As.weapon_antaras_blunt_i03"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+	<cond msgId="1507">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>	
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+	  <skill id="10017" level="1"/>
+	  <skill id="10022" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="622"/>
+      <add stat="mAtk" order="0x10" value="340"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  	<weapon id="47835" name="Antharas Stormer">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="false"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="icon.weapon_ghostcleaner_i01"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="4"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+	  <skill id="10017" level="1"/>
+	  <skill id="10022" level="3"/>	  
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="622"/>
+      <add stat="mAtk" order="0x10" value="340"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon> 
+</list>

@@ -1,0 +1,1050 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+
+		<!-- Special Accesories-->
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Formal Wear -->
+		<production count="1" id="6408" />
+	</item>		
+	<item>
+		<ingredient id="6673" count="10"/> 
+		<production id="15448" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="10"/> 
+		<production id="15449" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="10"/> 
+		<production id="15450" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="10"/> 
+		<production id="15451" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="10"/> 
+		<production id="15452" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="10"/> 
+		<production id="15453" count="1"/> 
+	</item>	
+		<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- White Hat -->
+		<production count="1" id="21124" />
+	</item>
+	
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10176" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10177" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10240" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10241" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10242" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10243" />
+	</item>
+
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10244" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10245" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10246" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10247" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10248" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10249" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10250" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="10251" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="12372" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="12373" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="12766" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="12767" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="12781" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="13488" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="13489" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="13490" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="13491" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="13492" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+		<!-- Mask -->
+		<production count="1" id="13493" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13494" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13495" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13496" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13497" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13498" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13499" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13500" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13501" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13502" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13503" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13504" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13505" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13506" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13507" />
+	</item>
+
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13508" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13509" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13510" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13511" />
+	</item>
+
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13512" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13513" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13514" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13515" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13516" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13517" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13518" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13519" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13520" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13521" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="13522" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="14611" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="14962" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="14963" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="14964" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="14965" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="15221" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20017" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20020" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20021" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20022" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20023" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20024" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20031" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20032" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20321" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20322" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20323" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20324" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20325" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20401" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20499" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20500" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20501" />
+	</item>
+
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20613" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20670" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20666" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20668" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20672" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20674" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20676" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="20634" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Mask -->
+		<production count="1" id="15442" />
+	</item>	
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="5808" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="6394" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="6843" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="6844" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="6845" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="6846" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7059" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7060" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7680" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7681" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7682" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7683" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7694" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7695" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7696" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7836" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7837" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7839" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7840" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7841" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7842" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7843" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7844" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7845" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7846" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7847" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7848" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="7849" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8177" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8178" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8179" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8180" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8181" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8184" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8185" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8186" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8187" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8188" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8189" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8552" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8557" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8558" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8559" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8560" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8561" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8562" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8563" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8564" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8565" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8566" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8567" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8568" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8660" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8661" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8662" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8910" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8911" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8912" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8913" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8914" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8915" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8916" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8917" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8918" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8919" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8920" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8921" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8922" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8923" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Accessory -->
+		<production count="1" id="8936" />
+	</item>	
+</list>

@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Medals -->
+
+<list>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9933" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9934" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9935" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9936" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9937" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9938" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9939" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9940" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9941" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman of Evasion -->
+		<production count="1" id="9942" />
+	</item>		
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Speed -->
+		<production count="1" id="9943" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Critical Dodging -->
+		<production count="1" id="9944" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Evasion -->
+		<production count="1" id="9945" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Healing -->
+		<production count="1" id="9946" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of CP Regeneration -->
+		<production count="1" id="9947" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Physical Regeneration -->
+		<production count="1" id="9948" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9949" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Healing -->
+		<production count="1" id="10535" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of CP Regeneration -->
+		<production count="1" id="10536" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Physical Regeneration -->
+		<production count="1" id="10537" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="10538" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Healing -->
+		<production count="1" id="10539" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of CP Regeneration -->
+		<production count="1" id="10540" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Physical Regeneration -->
+		<production count="1" id="10541" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="10543" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="12817" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="12818" />
+	</item>		
+</list>

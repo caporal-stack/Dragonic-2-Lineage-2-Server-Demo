@@ -1,0 +1,5 @@
+[05.01.26 20:36:42] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_admin
+[05.01.26 20:36:43] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_moves
+[05.01.26 20:36:44] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle.htm
+[05.01.26 20:36:45] SUCCESS AlinAdmin[268481608] -> AlinAdmin[268481608] admin_show_html teleports/castle/giran.htm
+[05.01.26 20:36:46] SUCCESS AlinAdmin[268481608] admin_move_to 116507 145095 -2563

@@ -1,0 +1,737 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="1" id="37007" />
+		
+		<!-- Giant's Codex -->
+		<production count="1" id="6622" />
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="1" id="37007" />
+		
+		<!-- Giant's Codex - Oblivion -->
+		<production count="1" id="9625" />
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="1" id="37007" />
+		
+		<!-- Giant's Codex - Discipline -->
+		<production count="1" id="9626" />
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="2" id="37007" />
+		
+		<!-- Giant's Codex - Mastery -->
+		<production count="1" id="9627" />
+	</item>	
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="3" id="37007" />
+
+		<!-- BEAS -->
+		<production count="1" id="6578" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="3" id="37007" />
+
+		<!-- BEWS -->
+		<production count="1" id="6577" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="2" id="37007" />
+
+		<!-- BEAA -->
+		<production count="2" id="6570" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="2" id="37007" />
+
+		<!-- BEWA -->
+		<production count="2" id="6569" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="1" id="37007" />
+
+		<!-- BEAB -->
+		<production count="3" id="6572" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="1" id="37007" />
+
+		<!-- BEWB -->
+		<production count="3" id="6571" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="1" id="37007" />
+
+		<!-- BEAC -->
+		<production count="4" id="6574" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="1" id="37007" />
+
+		<!-- BEWC -->
+		<production count="4" id="6573" />
+	</item>	
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="37007" />
+		<!-- Elemental Stone -->
+		<production count="10" id="9546" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="37007" />
+		<!-- Elemental Stone -->
+		<production count="10" id="9547" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="37007" />
+		<!-- Elemental Stone -->
+		<production count="10" id="9548" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="37007" />
+		<!-- Elemental Stone -->
+		<production count="10" id="9549" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="37007" />
+
+		<!-- Elemental Stone -->
+		<production count="10" id="9550" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="37007" />
+		<!-- Elemental Stone -->
+		<production count="10" id="9551" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="2" id="37007" />
+		<!-- Elemental Cry -->
+		<production count="1" id="9552" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="2" id="37007" />
+		<!-- Elemental Cry -->
+		<production count="1" id="9553" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="2" id="37007" />
+		<!-- Elemental Cry -->
+		<production count="1" id="9554" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="2" id="37007" />
+		<!-- Elemental Cry -->
+		<production count="1" id="9555" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="2" id="37007" />
+		<!-- Elemental Cry -->
+		<production count="1" id="9556" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="2" id="37007" />
+		<!-- Elemental Cry -->
+		<production count="1" id="9557" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="2" id="37007" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12369" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="5" id="37007" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12364" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="5" id="37007" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12370" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12365" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="15" id="37007" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12371" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="37007" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12366" />
+	</item>		
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="10" id="37007" />
+		<!-- EXP RUNE -->
+		<production count="1" id="20335" />
+	</item>
+	<item>
+		<!--Vote Coins -->
+		<ingredient count="15" id="37007" />
+		<!-- EXP RUNE -->
+		<production count="1" id="20336" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="55" id="37007" />
+
+		<!-- Cloak -->
+		<production count="1" id="21583" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="55" id="37007" />
+
+		<!-- Cloak -->
+		<production count="1" id="21587" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="55" id="37007" />
+
+		<!-- Cloak -->
+		<production count="1" id="21588" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="55" id="37007" />
+
+		<!-- Cloak -->
+		<production count="1" id="21716" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="55" id="37007" />
+
+		<!-- Cloak -->
+		<production count="1" id="21718" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="55" id="37007" />
+
+		<!-- Cloak -->
+		<production count="1" id="21717" />
+	</item>	
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="1" id="37007" />
+		
+		<!-- Mithril Belt -->
+		<production count="1" id="13897" />
+	</item>		
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="2" id="37007" />
+
+		<!-- Belt -->
+		<production count="1" id="13953" />
+	</item>	
+	<item>
+		<ingredient count="15" id="37007"/> 
+		<production count="1" id="14937"/> 
+	</item>
+	<item>
+		<ingredient count="15" id="37007"/> 
+		<production count="1" id="14929"/> 
+	</item>
+	<item>
+		<ingredient count="50" id="37007"/> 
+		<production count="1" id="14957"/> 
+	</item>
+	<item>
+		<ingredient count="50" id="37007"/> 
+		<production count="1" id="14953"/> 
+	</item>
+	<item>
+		<ingredient count="50" id="37007"/> 
+		<production count="1" id="14961" /> 
+	</item>
+	<item>
+			<!-- Festival Coin -->
+		<ingredient count="30" id="37007" />
+
+		<!-- Shirt -->
+		<production count="1" id="10512" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="37007" />
+
+		<!-- Shirt -->
+		<production count="1" id="10513" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="37007" />
+
+		<!-- Shirt -->
+		<production count="1" id="10514" />
+	</item>	
+	<item>
+		<!--Festival Adena -->
+		<ingredient count="50" id="37007" />
+		<!-- Light Purple-Maned Horse Mount Bracelet -->
+		<production count="1" id="20029" />
+	</item>
+	<item>
+		<!--Festival Adena -->
+		<ingredient count="50" id="37007" />
+		<!-- Tawny-Maned Lion Mount Bracelet -->
+		<production count="1" id="20536" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Neolithica -->
+		<production count="1" id="14675" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Rudolph -->
+		<production count="1" id="10607" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Angel -->
+		<production count="1" id="10320" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Devil -->
+		<production count="1" id="10326" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Angel - Firework -->
+		<production count="1" id="10316" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Angel - Big Head -->
+		<production count="1" id="10317" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Angel - Blessed Escape -->
+		<production count="1" id="10318" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Angel - Resurrection -->
+		<production count="1" id="10319" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Devil - Firework -->
+		<production count="1" id="10322" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Devil - Big Head -->
+		<production count="1" id="10323" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Devil - Blessed Escape -->
+		<production count="1" id="10324" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Little Devil - Resurrection -->
+		<production count="1" id="10325" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion of Love (Event) -->
+		<production count="1" id="20253" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Charming Cupid -->
+		<production count="1" id="20212" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Naughty Cupid -->
+		<production count="1" id="20213" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - White Maneki Neko -->
+		<production count="1" id="20221" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Black Maneki Neko -->
+		<production count="1" id="20222" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Brown Maneki Neko -->
+		<production count="1" id="20223" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - One-Eyed Bat Drove -->
+		<production count="1" id="20230" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Pegasus -->
+		<production count="1" id="20236" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Yellow-Robed Tojigong -->
+		<production count="1" id="20245" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Blue-Robed Tojigong -->
+		<production count="1" id="20246" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Green-Robed Tojigong -->
+		<production count="1" id="20247" />
+	</item>
+	<item>
+		<!-- Wind Mantra -->
+   		 <ingredient id="37007" count="50"/>
+
+		<!-- Agathion Seal Bracelet - Bugbear -->
+		<production count="1" id="20252" />
+	</item>	
+  <!-- Blood Mark -->
+  <item id="1">
+    <ingredient id="37007" count="5"/>
+    <production id="1419" count="1"/>
+  </item>
+
+  <!-- Alliance Manifesto -->
+  <item id="2">
+    <ingredient id="37007" count="10"/>
+    <production id="3874" count="1"/>
+  </item>
+
+  <!-- Seal of Aspiration -->
+  <item id="3">
+    <ingredient id="37007" count="15"/>
+    <production id="3870" count="1"/>
+  </item>
+ 	<item>
+		<!-- Festival Coin -->
+		<ingredient count="50" id="37007" />
+
+		<!-- Blood Oath -->
+		<production count="1" id="9910" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="100" id="37007" />
+
+		<!-- Blood alliance  -->
+		<production count="1" id="9911" />
+	</item> 
+
+  <!-- Blood Mark -->
+  <item id="6">
+    <ingredient id="37007" count="1"/>
+    <production id="9814" count="1"/>
+  </item>
+
+  <!-- Alliance Manifesto -->
+  <item id="7">
+    <ingredient id="37007" count="1"/>
+    <production id="9815" count="1"/>
+  </item>
+
+  <!-- Seal of Aspiration -->
+  <item id="8">
+    <ingredient id="37007" count="1"/>
+    <production id="9816" count="1"/>
+  </item>
+
+  <!-- Blood Oath -->
+  <item id="9">
+    <ingredient id="37007" count="1"/>
+    <production id="9817" count="1"/>
+  </item>
+ <!-- Blood Alliance -->
+  <item id="10">
+    <ingredient id="37007" count="1"/>
+    <production id="9818" count="1"/>
+  </item>
+
+  <!-- Blood Oath -->
+  <item id="11">
+    <ingredient id="37007" count="1"/>
+    <production id="8175" count="1"/>
+  </item>
+ <!-- Blood Alliance -->
+  <item id="12">
+    <ingredient id="37007" count="1"/>
+    <production id="8176" count="1"/>
+  </item>
+  	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="37007" count="2"/>
+
+		<!-- Brez -->
+		<production count="1" id="3936" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="37007" count="2"/>
+
+		<!-- BSOE -->
+		<production count="1" id="1538" />
+	</item>
+  	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Dion -->
+		<production id="13732" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Giran -->
+		<production id="13733" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Oren -->
+		<production id="13734" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Aden -->
+		<production id="13735" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Innadril -->
+		<production id="13736" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Goddard -->
+		<production id="13737" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Rune -->
+		<production id="13738" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Schutthard -->
+		<production id="13739" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="37007" count="2"/>
+		<!-- BSOE  Gludio -->
+		<production id="13731" count="1"/>
+	</item>	
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="5" id="37007" />
+
+		<!-- Noble Stone -->
+		<production count="1" id="14052" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="3" id="37007" />
+
+		<!-- LIFE Stones -->
+		<production count="5" id="9575" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="5" id="37007" />
+
+		<!-- LIFE Stones -->
+		<production count="5" id="9576" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- Accessory LS -->
+		<production count="1" id="12821" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- QI -->
+		<production count="1" id="7267" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- QI -->
+		<production count="1" id="8073" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- QI -->
+		<production count="1" id="4295" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- QI -->
+		<production count="1" id="3865" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- QI -->
+		<production count="1" id="6033" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- QI -->
+		<production count="1" id="6029" />
+	</item>	
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="37007" />
+
+		<!-- QI -->
+		<production count="1" id="9714" />
+	</item>		
+		<item>
+		<!-- Festival Coin -->
+		<ingredient count="20" id="37007" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14679" />
+	</item>
+	
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="37007" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14680" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="40" id="37007" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14681" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="50" id="37007" />
+
+		<!-- neo cry  -->
+		<production count="1" id="21579" />
+	</item>
+</list>

@@ -1,0 +1,13 @@
+[19.01.23 20:28:24] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[19.01.23 20:28:24] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_moves
+[19.01.23 20:28:25] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html teleports/town.htm
+[19.01.23 20:28:26] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html teleports/town/giran.htm
+[19.01.23 20:28:27] SUCCESS VastoLordes[268489491] admin_move_to 82698 148638 -3473
+[19.01.23 20:31:30] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[19.01.23 20:31:31] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_gmshop
+[19.01.23 20:31:33] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html gmstore/gear/jewels.htm
+[19.01.23 20:31:34] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_buy 9917
+[19.01.23 20:41:36] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_admin
+[19.01.23 20:41:37] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_server admserver.htm
+[19.01.23 20:41:41] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_show_html reload.htm
+[19.01.23 20:41:43] SUCCESS VastoLordes[268489491] -> VastoLordes[268489491] admin_reload_multisell

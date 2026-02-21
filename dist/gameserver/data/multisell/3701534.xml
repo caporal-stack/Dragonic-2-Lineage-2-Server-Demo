@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Medals -->
+
+<list>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman - Shield Protection -->
+		<production count="1" id="9922" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Blue Talisman - Shield Protection -->
+		<production count="1" id="9923" />
+	</item>		
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9955" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9956" />
+	</item>	
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9957" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9958" />
+	</item>
+	<item>
+		<!-- Water Mantra -->
+   		 <ingredient id="6392" count="5"/>
+
+		<!-- Yellow Talisman of Mental Regeneration -->
+		<production count="1" id="9959" />
+	</item>
+
+	
+</list>

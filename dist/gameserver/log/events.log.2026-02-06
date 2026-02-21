@@ -1,0 +1,34 @@
+[06.02.26 08:00:00] Trivia has been Stoped.
+[06.02.26 08:00:00] Viktorina Stoped.
+[06.02.26 08:00:00] Continue Viktorina: Sat Feb 07 01:14:00 CET 2026|Stop Viktorina: Sat Feb 07 03:14:00 CET 2026
+[06.02.26 08:00:57] Loaded Event: Apil Fool's Day [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Boss Random
+[06.02.26 08:00:57] Loaded Event: Christmas [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Coffer of Shadows [state: deactivated]
+[06.02.26 08:00:57] Loaded CustomDropItems: CustomDropItems [state: activated]
+[06.02.26 08:00:57] Duplicate properties name "AllowedItems" replaced with new value.
+[06.02.26 08:00:57] Loaded Service: EventsConfig
+[06.02.26 08:00:57] Loaded Event: Fight Club
+[06.02.26 08:00:57] Loaded Event: Freya Celebration [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Gift Of Vitality [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Gm Hunter [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Hitman
+[06.02.26 08:00:57] Loaded Event: March 8 [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Master of Enchanting [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: PcCafePointsExchange [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: PiratesTreasure loaded.
+[06.02.26 08:00:57] Loaded Event: SavingSnowman [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Summer Meleons [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: The Fall Harvest [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: The Flow Of The Horror [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Trivia
+[06.02.26 08:00:57] Loaded Event: TvT Arena 1 [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: TvT Arena 2 [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: TvT Arena 3 [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Viktorina
+[06.02.26 08:00:57] Loaded Event: Bounty Hunters Guild
+[06.02.26 08:00:57] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: Change of Heart[state: deactivated]
+[06.02.26 08:00:57] Loaded Event: null [state: deactivated]
+[06.02.26 08:00:57] Loaded Event: l2day [state: deactivated]
