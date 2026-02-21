@@ -1,8 +1,8 @@
-# 🌍 Dragonic 2 – L2J High Five Server (Premium Pack)
+# 🌍 Dragonic 2 – L2J High Five Server (Demo Pack)
 
 Custom Lineage II HF server source with Community Board auctions, ranking, and dress/undress system.
 
-<img src="https://github.com/caporal-stack/Dragonic-2-Lineage-2-Server/blob/main/images/COMMUNITY%20BOARD.jpg" width="50%" height="300">
+<img src="https://github.com/caporal-stack/Dragonic-2-Lineage-2-Server-Demo/blob/main/images/COMMUNITY%20BOARD.jpg" width="50%" height="300">
 
 ---
 
